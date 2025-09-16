@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1,
+    "name": "Admirals",
+    "slug": "admirals",
+    "logo_url": "/images/brokers/admirals-logo.png",
+    "website_url": "https://www.admirals.com",
+    "description": "Admirals is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Admirals provides traders with a reliable trading environment.",
+    "short_description": "Admirals offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.4,
+    "review_count": 4258,
+    "featured_status": true,
+    "min_deposit": 500,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 0.6,
+    "max_leverage": 30,
+    "established_year": 2014,
+    "headquarters": "New York, USA",
+    "company_size": "Enterprise",
+    "total_assets": "$778.3M",
+    "active_traders": 146269,
+    "meta_title": "Admirals Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Admirals. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.admirals.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "BaFin"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Professional Account",
+      "ECN Account",
+      "Standard Account"
+    ],
+    "features": [
+      "No Commission",
+      "Low Spreads",
+      "High Leverage"
+    ],
+    "created_at": "2025-09-16T05:05:18.903Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 2,
+    "name": "Pepperstone",
+    "slug": "pepperstone",
+    "logo_url": "/images/brokers/pepperstone-logo.png",
+    "website_url": "https://www.pepperstone.com",
+    "description": "Pepperstone is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Pepperstone provides traders with a reliable trading environment.",
+    "short_description": "Pepperstone offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.7,
+    "review_count": 2975,
+    "featured_status": true,
+    "min_deposit": 100,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 1.4,
+    "max_leverage": 200,
+    "established_year": 2011,
+    "headquarters": "Singapore",
+    "company_size": "Enterprise",
+    "total_assets": "$281.4M",
+    "active_traders": 388192,
+    "meta_title": "Pepperstone Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Pepperstone. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.pepperstone.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FCA",
+      "DFSA",
+      "ASIC",
+      "CySEC"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "Standard Account",
+      "Professional Account"
+    ],
+    "features": [
+      "No Commission",
+      "Segregated Funds",
+      "Fast Execution",
+      "High Leverage",
+      "Negative Balance Protection",
+      "Low Spreads"
+    ],
+    "created_at": "2025-09-16T05:05:18.904Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 3,
+    "name": "IC Markets",
+    "slug": "ic-markets",
+    "logo_url": "/images/brokers/ic-markets-logo.png",
+    "website_url": "https://www.icmarkets.com",
+    "description": "IC Markets is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, IC Markets provides traders with a reliable trading environment.",
+    "short_description": "IC Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.3,
+    "review_count": 4617,
+    "featured_status": true,
+    "min_deposit": 1,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 0.4,
+    "max_leverage": 100,
+    "established_year": 2010,
+    "headquarters": "Zurich, Switzerland",
+    "company_size": "Small",
+    "total_assets": "$328.9M",
+    "active_traders": 545745,
+    "meta_title": "IC Markets Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of IC Markets. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.icmarkets.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "DFSA",
+      "MFSA",
+      "BaFin"
+    ],
+    "platforms": [
+      "Web Trader",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Standard Account",
+      "VIP Account",
+      "Professional Account",
+      "Islamic Account"
+    ],
+    "features": [
+      "Negative Balance Protection",
+      "No Commission",
+      "Low Spreads",
+      "High Leverage",
+      "Fast Execution",
+      "Segregated Funds"
+    ],
+    "created_at": "2025-09-16T05:05:18.904Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 4,
+    "name": "FP Markets",
+    "slug": "fp-markets",
+    "logo_url": "/images/brokers/fp-markets-logo.png",
+    "website_url": "https://www.fpmarkets.com",
+    "description": "FP Markets is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, FP Markets provides traders with a reliable trading environment.",
+    "short_description": "FP Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.8,
+    "review_count": 835,
+    "featured_status": true,
+    "min_deposit": 100,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 0.7,
+    "max_leverage": 200,
+    "established_year": 2005,
+    "headquarters": "Limassol, Cyprus",
+    "company_size": "Medium",
+    "total_assets": "$522.1M",
+    "active_traders": 763434,
+    "meta_title": "FP Markets Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of FP Markets. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.fpmarkets.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "MFSA",
+      "FINMA",
+      "FCA",
+      "FSCA"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "Web Trader",
+      "API Trading",
+      "Mobile App",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Standard Account",
+      "ECN Account",
+      "Professional Account",
+      "STP Account",
+      "Islamic Account"
+    ],
+    "features": [
+      "Segregated Funds",
+      "High Leverage",
+      "Low Spreads",
+      "Negative Balance Protection",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.904Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 5,
+    "name": "AxiTrader",
+    "slug": "axitrader",
+    "logo_url": "/images/brokers/axitrader-logo.png",
+    "website_url": "https://www.axitrader.com",
+    "description": "AxiTrader is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, AxiTrader provides traders with a reliable trading environment.",
+    "short_description": "AxiTrader offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4,
+    "review_count": 2379,
+    "featured_status": true,
+    "min_deposit": 200,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 0.3,
+    "max_leverage": 500,
+    "established_year": 2000,
+    "headquarters": "London, UK",
+    "company_size": "Medium",
+    "total_assets": "$527.7M",
+    "active_traders": 809589,
+    "meta_title": "AxiTrader Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of AxiTrader. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.axitrader.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "ASIC"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5",
+      "cTrader",
+      "API Trading"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "Standard Account",
+      "Professional Account",
+      "VIP Account"
+    ],
+    "features": [
+      "Negative Balance Protection",
+      "Low Spreads",
+      "High Leverage",
+      "Segregated Funds",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.904Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 6,
+    "name": "FxPro",
+    "slug": "fxpro",
+    "logo_url": "/images/brokers/fxpro-logo.png",
+    "website_url": "https://www.fxpro.com",
+    "description": "FxPro is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, FxPro provides traders with a reliable trading environment.",
+    "short_description": "FxPro offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.2,
+    "review_count": 2179,
+    "featured_status": false,
+    "min_deposit": 100,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 2,
+    "max_leverage": 300,
+    "established_year": 2006,
+    "headquarters": "Singapore",
+    "company_size": "Small",
+    "total_assets": "$890.3M",
+    "active_traders": 405116,
+    "meta_title": "FxPro Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of FxPro. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.fxpro.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FINMA"
+    ],
+    "platforms": [
+      "API Trading",
+      "MetaTrader 4"
+    ],
+    "account_types": [
+      "Standard Account",
+      "Professional Account",
+      "STP Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "High Leverage",
+      "Segregated Funds",
+      "Negative Balance Protection",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.904Z",
+    "updated_at": "2025-09-16T05:05:18.904Z"
+  },
+  {
+    "id": 7,
+    "name": "OctaFX",
+    "slug": "octafx",
+    "logo_url": "/images/brokers/octafx-logo.png",
+    "website_url": "https://www.octafx.com",
+    "description": "OctaFX is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, OctaFX provides traders with a reliable trading environment.",
+    "short_description": "OctaFX offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.9,
+    "review_count": 1869,
+    "featured_status": false,
+    "min_deposit": 200,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 1.7,
+    "max_leverage": 100,
+    "established_year": 2007,
+    "headquarters": "Sydney, Australia",
+    "company_size": "Enterprise",
+    "total_assets": "$481.4M",
+    "active_traders": 553632,
+    "meta_title": "OctaFX Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of OctaFX. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.octafx.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FCA",
+      "DFSA",
+      "CySEC",
+      "FSCA"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "API Trading"
+    ],
+    "account_types": [
+      "Professional Account",
+      "VIP Account",
+      "Islamic Account",
+      "STP Account",
+      "ECN Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "High Leverage",
+      "Segregated Funds",
+      "Fast Execution",
+      "Negative Balance Protection"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 8,
+    "name": "FXTM",
+    "slug": "fxtm",
+    "logo_url": "/images/brokers/fxtm-logo.png",
+    "website_url": "https://www.fxtm.com",
+    "description": "FXTM is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, FXTM provides traders with a reliable trading environment.",
+    "short_description": "FXTM offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.8,
+    "review_count": 4922,
+    "featured_status": false,
+    "min_deposit": 5,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 0.2,
+    "max_leverage": 200,
+    "established_year": 2014,
+    "headquarters": "Limassol, Cyprus",
+    "company_size": "Large",
+    "total_assets": "$292.8M",
+    "active_traders": 973500,
+    "meta_title": "FXTM Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of FXTM. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.fxtm.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FINMA",
+      "CySEC",
+      "FSCA"
+    ],
+    "platforms": [
+      "API Trading",
+      "cTrader",
+      "Web Trader"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "Professional Account"
+    ],
+    "features": [
+      "Segregated Funds",
+      "No Commission",
+      "Low Spreads"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 9,
+    "name": "HotForex",
+    "slug": "hotforex",
+    "logo_url": "/images/brokers/hotforex-logo.png",
+    "website_url": "https://www.hotforex.com",
+    "description": "HotForex is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, HotForex provides traders with a reliable trading environment.",
+    "short_description": "HotForex offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.5,
+    "review_count": 3585,
+    "featured_status": false,
+    "min_deposit": 250,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 1,
+    "max_leverage": 500,
+    "established_year": 2012,
+    "headquarters": "Melbourne, Australia",
+    "company_size": "Enterprise",
+    "total_assets": "$384.6M",
+    "active_traders": 413869,
+    "meta_title": "HotForex Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of HotForex. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.hotforex.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "DFSA",
+      "FCA",
+      "BaFin"
+    ],
+    "platforms": [
+      "cTrader",
+      "Web Trader",
+      "MetaTrader 5",
+      "API Trading",
+      "Mobile App"
+    ],
+    "account_types": [
+      "ECN Account",
+      "STP Account"
+    ],
+    "features": [
+      "High Leverage",
+      "Fast Execution",
+      "Negative Balance Protection",
+      "Segregated Funds",
+      "Low Spreads",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 10,
+    "name": "XM.com",
+    "slug": "xmcom",
+    "logo_url": "/images/brokers/xm.com-logo.png",
+    "website_url": "https://www.xm.com.com",
+    "description": "XM.com is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, XM.com provides traders with a reliable trading environment.",
+    "short_description": "XM.com offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.4,
+    "review_count": 3373,
+    "featured_status": false,
+    "min_deposit": 1000,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 1.3,
+    "max_leverage": 300,
+    "established_year": 2003,
+    "headquarters": "London, UK",
+    "company_size": "Small",
+    "total_assets": "$880.8M",
+    "active_traders": 935217,
+    "meta_title": "XM.com Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of XM.com. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.xm.com.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "ASIC",
+      "DFSA",
+      "BaFin",
+      "CySEC"
+    ],
+    "platforms": [
+      "Web Trader",
+      "MetaTrader 4"
+    ],
+    "account_types": [
+      "ECN Account",
+      "Professional Account"
+    ],
+    "features": [
+      "No Commission",
+      "Segregated Funds",
+      "High Leverage",
+      "Low Spreads",
+      "Negative Balance Protection",
+      "Fast Execution"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 11,
+    "name": "Tickmill",
+    "slug": "tickmill",
+    "logo_url": "/images/brokers/tickmill-logo.png",
+    "website_url": "https://www.tickmill.com",
+    "description": "Tickmill is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Tickmill provides traders with a reliable trading environment.",
+    "short_description": "Tickmill offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.6,
+    "review_count": 3382,
+    "featured_status": false,
+    "min_deposit": 5,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 2.1,
+    "max_leverage": 50,
+    "established_year": 2019,
+    "headquarters": "New York, USA",
+    "company_size": "Small",
+    "total_assets": "$195.3M",
+    "active_traders": 176039,
+    "meta_title": "Tickmill Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Tickmill. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.tickmill.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FINMA",
+      "CySEC"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5",
+      "API Trading",
+      "Web Trader",
+      "cTrader"
+    ],
+    "account_types": [
+      "VIP Account",
+      "Professional Account"
+    ],
+    "features": [
+      "Segregated Funds",
+      "Low Spreads",
+      "High Leverage"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 12,
+    "name": "BlackBull Markets",
+    "slug": "blackbull-markets",
+    "logo_url": "/images/brokers/blackbull-markets-logo.png",
+    "website_url": "https://www.blackbullmarkets.com",
+    "description": "BlackBull Markets is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, BlackBull Markets provides traders with a reliable trading environment.",
+    "short_description": "BlackBull Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4,
+    "review_count": 1773,
+    "featured_status": false,
+    "min_deposit": 250,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 0.7,
+    "max_leverage": 300,
+    "established_year": 2013,
+    "headquarters": "Melbourne, Australia",
+    "company_size": "Small",
+    "total_assets": "$963.9M",
+    "active_traders": 428961,
+    "meta_title": "BlackBull Markets Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of BlackBull Markets. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.blackbullmarkets.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FCA",
+      "FINMA"
+    ],
+    "platforms": [
+      "API Trading",
+      "cTrader",
+      "Mobile App",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Professional Account",
+      "VIP Account",
+      "STP Account"
+    ],
+    "features": [
+      "High Leverage",
+      "Low Spreads",
+      "Segregated Funds",
+      "Negative Balance Protection",
+      "Fast Execution",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 13,
+    "name": "Admiral Markets",
+    "slug": "admiral-markets",
+    "logo_url": "/images/brokers/admiral-markets-logo.png",
+    "website_url": "https://www.admiralmarkets.com",
+    "description": "Admiral Markets is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Admiral Markets provides traders with a reliable trading environment.",
+    "short_description": "Admiral Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.3,
+    "review_count": 1061,
+    "featured_status": false,
+    "min_deposit": 50,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 1.7,
+    "max_leverage": 100,
+    "established_year": 2008,
+    "headquarters": "Zurich, Switzerland",
+    "company_size": "Large",
+    "total_assets": "$937.1M",
+    "active_traders": 932041,
+    "meta_title": "Admiral Markets Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Admiral Markets. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.admiralmarkets.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "MFSA",
+      "BaFin"
+    ],
+    "platforms": [
+      "cTrader",
+      "MetaTrader 4",
+      "Mobile App"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "Professional Account",
+      "STP Account",
+      "ECN Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "High Leverage",
+      "Fast Execution",
+      "Segregated Funds",
+      "No Commission",
+      "Negative Balance Protection"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 14,
+    "name": "IG Group",
+    "slug": "ig-group",
+    "logo_url": "/images/brokers/ig-group-logo.png",
+    "website_url": "https://www.iggroup.com",
+    "description": "IG Group is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, IG Group provides traders with a reliable trading environment.",
+    "short_description": "IG Group offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.5,
+    "review_count": 1993,
+    "featured_status": false,
+    "min_deposit": 5,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 0.3,
+    "max_leverage": 1000,
+    "established_year": 2006,
+    "headquarters": "New York, USA",
+    "company_size": "Enterprise",
+    "total_assets": "$219.4M",
+    "active_traders": 462885,
+    "meta_title": "IG Group Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of IG Group. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.iggroup.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "BaFin",
+      "CySEC"
+    ],
+    "platforms": [
+      "Mobile App",
+      "MetaTrader 4",
+      "MetaTrader 5",
+      "cTrader",
+      "API Trading"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "STP Account"
+    ],
+    "features": [
+      "No Commission",
+      "High Leverage",
+      "Segregated Funds",
+      "Negative Balance Protection",
+      "Low Spreads",
+      "Fast Execution"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 15,
+    "name": "CMC Markets",
+    "slug": "cmc-markets",
+    "logo_url": "/images/brokers/cmc-markets-logo.png",
+    "website_url": "https://www.cmcmarkets.com",
+    "description": "CMC Markets is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, CMC Markets provides traders with a reliable trading environment.",
+    "short_description": "CMC Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 4.2,
+    "review_count": 4017,
+    "featured_status": false,
+    "min_deposit": 100,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 1.1,
+    "max_leverage": 200,
+    "established_year": 2019,
+    "headquarters": "Singapore",
+    "company_size": "Large",
+    "total_assets": "$299.5M",
+    "active_traders": 770622,
+    "meta_title": "CMC Markets Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of CMC Markets. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.cmcmarkets.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "BaFin"
+    ],
+    "platforms": [
+      "Mobile App",
+      "Web Trader",
+      "API Trading",
+      "MetaTrader 4"
+    ],
+    "account_types": [
+      "Standard Account",
+      "STP Account",
+      "Professional Account",
+      "ECN Account",
+      "VIP Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "Negative Balance Protection",
+      "Segregated Funds",
+      "High Leverage",
+      "Fast Execution",
+      "No Commission"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 16,
+    "name": "City Index",
+    "slug": "city-index",
+    "logo_url": "/images/brokers/city-index-logo.png",
+    "website_url": "https://www.cityindex.com",
+    "description": "City Index is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, City Index provides traders with a reliable trading environment.",
+    "short_description": "City Index offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.8,
+    "review_count": 743,
+    "featured_status": false,
+    "min_deposit": 100,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 2,
+    "max_leverage": 30,
+    "established_year": 2021,
+    "headquarters": "Zurich, Switzerland",
+    "company_size": "Medium",
+    "total_assets": "$444.8M",
+    "active_traders": 760682,
+    "meta_title": "City Index Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of City Index. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.cityindex.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "MFSA"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5"
+    ],
+    "account_types": [
+      "Standard Account",
+      "ECN Account",
+      "STP Account",
+      "VIP Account",
+      "Islamic Account"
+    ],
+    "features": [
+      "No Commission",
+      "Fast Execution",
+      "High Leverage",
+      "Negative Balance Protection",
+      "Low Spreads",
+      "Segregated Funds"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 17,
+    "name": "Saxo Bank",
+    "slug": "saxo-bank",
+    "logo_url": "/images/brokers/saxo-bank-logo.png",
+    "website_url": "https://www.saxobank.com",
+    "description": "Saxo Bank is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Saxo Bank provides traders with a reliable trading environment.",
+    "short_description": "Saxo Bank offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.5,
+    "review_count": 4491,
+    "featured_status": false,
+    "min_deposit": 500,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 1.2,
+    "max_leverage": 100,
+    "established_year": 2002,
+    "headquarters": "Limassol, Cyprus",
+    "company_size": "Small",
+    "total_assets": "$587.9M",
+    "active_traders": 256845,
+    "meta_title": "Saxo Bank Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Saxo Bank. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.saxobank.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "CySEC",
+      "ASIC",
+      "BaFin",
+      "FSCA"
+    ],
+    "platforms": [
+      "Mobile App",
+      "Web Trader"
+    ],
+    "account_types": [
+      "Professional Account",
+      "VIP Account",
+      "Islamic Account",
+      "STP Account",
+      "ECN Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "Segregated Funds",
+      "High Leverage",
+      "Fast Execution",
+      "No Commission",
+      "Negative Balance Protection"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 18,
+    "name": "Interactive Brokers",
+    "slug": "interactive-brokers",
+    "logo_url": "/images/brokers/interactive-brokers-logo.png",
+    "website_url": "https://www.interactivebrokers.com",
+    "description": "Interactive Brokers is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, Interactive Brokers provides traders with a reliable trading environment.",
+    "short_description": "Interactive Brokers offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.4,
+    "review_count": 4971,
+    "featured_status": false,
+    "min_deposit": 10,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 1,
+    "max_leverage": 300,
+    "established_year": 2010,
+    "headquarters": "Singapore",
+    "company_size": "Medium",
+    "total_assets": "$751.6M",
+    "active_traders": 730326,
+    "meta_title": "Interactive Brokers Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of Interactive Brokers. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.interactivebrokers.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "BaFin",
+      "FINMA",
+      "MFSA",
+      "FCA"
+    ],
+    "platforms": [
+      "MetaTrader 4",
+      "MetaTrader 5",
+      "cTrader"
+    ],
+    "account_types": [
+      "Standard Account",
+      "ECN Account",
+      "Professional Account",
+      "Islamic Account"
+    ],
+    "features": [
+      "Low Spreads",
+      "No Commission",
+      "High Leverage",
+      "Negative Balance Protection",
+      "Fast Execution"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 19,
+    "name": "TD Ameritrade",
+    "slug": "td-ameritrade",
+    "logo_url": "/images/brokers/td-ameritrade-logo.png",
+    "website_url": "https://www.tdameritrade.com",
+    "description": "TD Ameritrade is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, TD Ameritrade provides traders with a reliable trading environment.",
+    "short_description": "TD Ameritrade offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3.7,
+    "review_count": 666,
+    "featured_status": false,
+    "min_deposit": 500,
+    "min_deposit_currency": "USD",
+    "spread_type": "Fixed",
+    "typical_spread": 1.5,
+    "max_leverage": 300,
+    "established_year": 2004,
+    "headquarters": "Singapore",
+    "company_size": "Small",
+    "total_assets": "$759.3M",
+    "active_traders": 168005,
+    "meta_title": "TD Ameritrade Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of TD Ameritrade. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.tdameritrade.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "platforms": [
+      "Web Trader",
+      "API Trading",
+      "cTrader"
+    ],
+    "account_types": [
+      "Islamic Account",
+      "Standard Account",
+      "Professional Account",
+      "VIP Account",
+      "STP Account"
+    ],
+    "features": [
+      "Fast Execution",
+      "No Commission",
+      "Segregated Funds",
+      "Low Spreads",
+      "Negative Balance Protection",
+      "High Leverage"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 20,
+    "name": "OANDA",
+    "slug": "oanda",
+    "logo_url": "/images/brokers/oanda-logo.png",
+    "website_url": "https://www.oanda.com",
+    "description": "OANDA is a leading forex and CFD broker offering competitive trading conditions, advanced platforms, and excellent customer support. With tight spreads, fast execution, and strong regulatory oversight, OANDA provides traders with a reliable trading environment.",
+    "short_description": "OANDA offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+    "rating": 3,
+    "review_count": 1908,
+    "featured_status": false,
+    "min_deposit": 10,
+    "min_deposit_currency": "USD",
+    "spread_type": "Variable",
+    "typical_spread": 1.8,
+    "max_leverage": 30,
+    "established_year": 2016,
+    "headquarters": "Melbourne, Australia",
+    "company_size": "Large",
+    "total_assets": "$464.8M",
+    "active_traders": 452632,
+    "meta_title": "OANDA Review | BrokerAnalysis.com",
+    "meta_description": "Read our comprehensive review of OANDA. Learn about spreads, regulations, platforms, and trading conditions.",
+    "affiliate_link": "https://www.oanda.com?ref=brokeranalysis",
+    "status": "active",
+    "regulations": [
+      "CySEC",
+      "FSCA"
+    ],
+    "platforms": [
+      "MetaTrader 5",
+      "API Trading",
+      "MetaTrader 4",
+      "Web Trader"
+    ],
+    "account_types": [
+      "ECN Account",
+      "Professional Account"
+    ],
+    "features": [
+      "High Leverage",
+      "No Commission",
+      "Segregated Funds",
+      "Low Spreads"
+    ],
+    "created_at": "2025-09-16T05:05:18.905Z",
+    "updated_at": "2025-09-16T05:05:18.905Z"
+  }
+]

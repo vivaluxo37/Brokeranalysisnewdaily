@@ -1,0 +1,274 @@
+{
+  "component": "SearchAndFilter",
+  "tests": [
+    {
+      "name": "Search Functionality Test",
+      "status": "failed",
+      "startTime": 1757999435583,
+      "details": {
+        "searchQueries": 8,
+        "searchResults": [
+          {
+            "query": "Admirals",
+            "type": "exact_name",
+            "expected": 1,
+            "actual": 1,
+            "success": true
+          },
+          {
+            "query": "Pepperstone",
+            "type": "exact_name",
+            "expected": 1,
+            "actual": 1,
+            "success": true
+          },
+          {
+            "query": "admiral",
+            "type": "partial_name",
+            "expected": 1,
+            "actual": 2,
+            "success": true
+          },
+          {
+            "query": "meta",
+            "type": "platform",
+            "expected": 17,
+            "actual": 17,
+            "success": true
+          },
+          {
+            "query": "FCA",
+            "type": "regulation",
+            "expected": 7,
+            "actual": 7,
+            "success": true
+          },
+          {
+            "query": "trading",
+            "type": "feature",
+            "expected": 0,
+            "actual": 20,
+            "success": false
+          },
+          {
+            "query": "low",
+            "type": "deposit",
+            "expected": 6,
+            "actual": 20,
+            "success": false
+          },
+          {
+            "query": "high rating",
+            "type": "rating",
+            "expected": 3,
+            "actual": 0,
+            "success": false
+          }
+        ],
+        "failedSearches": 3,
+        "message": "Found 3 search failures"
+      },
+      "endTime": 1757999435585,
+      "duration": 2
+    },
+    {
+      "name": "Filter Functionality Test",
+      "status": "passed",
+      "startTime": 1757999435585,
+      "details": {
+        "filterTests": 7,
+        "filterResults": [
+          {
+            "name": "Single Regulation Filter",
+            "expected": 7,
+            "actual": 7,
+            "success": true
+          },
+          {
+            "name": "Multiple Regulation Filter",
+            "expected": 10,
+            "actual": 10,
+            "success": true
+          },
+          {
+            "name": "Platform Filter",
+            "expected": 14,
+            "actual": 14,
+            "success": true
+          },
+          {
+            "name": "Min Deposit Filter",
+            "expected": 12,
+            "actual": 12,
+            "success": true
+          },
+          {
+            "name": "Rating Filter",
+            "expected": 9,
+            "actual": 9,
+            "success": true
+          },
+          {
+            "name": "Combined Filters",
+            "expected": 2,
+            "actual": 2,
+            "success": true
+          },
+          {
+            "name": "Feature Filter",
+            "expected": 20,
+            "actual": 20,
+            "success": true
+          }
+        ],
+        "failedFilters": 0,
+        "message": "All filter combinations returned expected results"
+      },
+      "endTime": 1757999435587,
+      "duration": 2
+    },
+    {
+      "name": "Advanced Search Test",
+      "status": "failed",
+      "startTime": 1757999435587,
+      "details": {
+        "advancedTests": 5,
+        "advancedResults": [
+          {
+            "name": "Fuzzy Search",
+            "query": "admrals",
+            "expected": 1,
+            "actual": 1,
+            "tolerance": 1,
+            "success": true
+          },
+          {
+            "name": "Multi-term Search",
+            "query": "meta trader",
+            "expected": 17,
+            "actual": 17,
+            "tolerance": 2,
+            "success": true
+          },
+          {
+            "name": "Acronym Search",
+            "query": "mt4",
+            "expected": 14,
+            "actual": 0,
+            "tolerance": 1,
+            "success": false
+          },
+          {
+            "name": "Numeric Range Search",
+            "query": "100-500",
+            "expected": 12,
+            "actual": 12,
+            "tolerance": 1,
+            "success": true
+          },
+          {
+            "name": "Negative Search",
+            "query": "-high",
+            "expected": 20,
+            "actual": 20,
+            "tolerance": 2,
+            "success": true
+          }
+        ],
+        "failedTests": 1,
+        "message": "Found 1 advanced search failures"
+      },
+      "endTime": 1757999435590,
+      "duration": 3
+    },
+    {
+      "name": "Search Performance Test",
+      "status": "passed",
+      "startTime": 1757999435590,
+      "details": {
+        "performanceResults": [
+          {
+            "brokerCount": 10,
+            "queriesCount": 4,
+            "duration": 0,
+            "averageTime": 0,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 25,
+            "queriesCount": 4,
+            "duration": 0,
+            "averageTime": 0,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 50,
+            "queriesCount": 4,
+            "duration": 1,
+            "averageTime": 0.25,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 100,
+            "queriesCount": 4,
+            "duration": 0,
+            "averageTime": 0,
+            "acceptable": true
+          }
+        ],
+        "totalTests": 4,
+        "failedTests": 0,
+        "message": "All performance tests within acceptable limits"
+      },
+      "endTime": 1757999435593,
+      "duration": 3
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "passed": 2,
+    "failed": 2,
+    "successRate": "50.00%"
+  },
+  "searchData": {},
+  "filterData": {},
+  "performance": {
+    "totalDuration": "10 ms",
+    "averageDuration": "3 ms"
+  },
+  "issues": [],
+  "recommendations": [
+    {
+      "priority": "High",
+      "issue": "Search accuracy",
+      "recommendation": "Improve search algorithm and result ranking"
+    },
+    {
+      "priority": "Medium",
+      "issue": "Advanced features",
+      "recommendation": "Implement fuzzy search and better query parsing"
+    },
+    {
+      "priority": "Medium",
+      "issue": "User experience",
+      "recommendation": "Add search suggestions and autocomplete functionality"
+    }
+  ],
+  "generatedAt": "2025-09-16T05:10:35.596Z",
+  "testDataInfo": {
+    "file": "test-broker-data.json",
+    "totalBrokers": 20,
+    "searchableFields": [
+      "name",
+      "description",
+      "features",
+      "platforms",
+      "regulations",
+      "headquarters"
+    ]
+  },
+  "filesGenerated": [
+    "search-filter-demo.html",
+    "search-filter-test-results.json"
+  ]
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "broker_id": 1,
+    "regulatory_body": "BaFin",
+    "license_number": "DIA6LXDW2FO",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 2,
+    "broker_id": 2,
+    "regulatory_body": "FCA",
+    "license_number": "BDPPPFXIKV",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 3,
+    "broker_id": 2,
+    "regulatory_body": "DFSA",
+    "license_number": "FH3PQ5DVNJ7",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 4,
+    "broker_id": 2,
+    "regulatory_body": "ASIC",
+    "license_number": "FEKQBOHSCXL",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 5,
+    "broker_id": 2,
+    "regulatory_body": "CySEC",
+    "license_number": "DLE9TQJB7XV",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 6,
+    "broker_id": 3,
+    "regulatory_body": "DFSA",
+    "license_number": "6WR074V85BK",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 7,
+    "broker_id": 3,
+    "regulatory_body": "MFSA",
+    "license_number": "GGLD0RUW3J",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Global",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 8,
+    "broker_id": 3,
+    "regulatory_body": "BaFin",
+    "license_number": "E4CRA7P0V1G",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 9,
+    "broker_id": 4,
+    "regulatory_body": "MFSA",
+    "license_number": "T9Y62AZC8BE",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 10,
+    "broker_id": 4,
+    "regulatory_body": "FINMA",
+    "license_number": "MHBDU5X26GG",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 11,
+    "broker_id": 4,
+    "regulatory_body": "FCA",
+    "license_number": "5IMX4GP8FTT",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Switzerland",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 12,
+    "broker_id": 4,
+    "regulatory_body": "FSCA",
+    "license_number": "Y8R67E1XC8B",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 13,
+    "broker_id": 5,
+    "regulatory_body": "ASIC",
+    "license_number": "VGCARZQGJGL",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 14,
+    "broker_id": 6,
+    "regulatory_body": "FINMA",
+    "license_number": "1OBS9TVS4VR",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 15,
+    "broker_id": 7,
+    "regulatory_body": "FCA",
+    "license_number": "FCFARCCM3G7",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Malta",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 16,
+    "broker_id": 7,
+    "regulatory_body": "DFSA",
+    "license_number": "6VHLHNX7U6S",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 17,
+    "broker_id": 7,
+    "regulatory_body": "CySEC",
+    "license_number": "ZARAAW54PWJ",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 18,
+    "broker_id": 7,
+    "regulatory_body": "FSCA",
+    "license_number": "S4ZIL8CAWB",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 19,
+    "broker_id": 8,
+    "regulatory_body": "FINMA",
+    "license_number": "BERSVIDXUHI",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Malta",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 20,
+    "broker_id": 8,
+    "regulatory_body": "CySEC",
+    "license_number": "DM6COF09KH",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Malta",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 21,
+    "broker_id": 8,
+    "regulatory_body": "FSCA",
+    "license_number": "R7C6ZJ6U5E",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Global",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 22,
+    "broker_id": 9,
+    "regulatory_body": "DFSA",
+    "license_number": "P0YS944FIB9",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 23,
+    "broker_id": 9,
+    "regulatory_body": "FCA",
+    "license_number": "LOBNOBBXRQ",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Switzerland",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 24,
+    "broker_id": 9,
+    "regulatory_body": "BaFin",
+    "license_number": "NEN4URV6Q9I",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Malta",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 25,
+    "broker_id": 10,
+    "regulatory_body": "ASIC",
+    "license_number": "3GF2HBXIU3Z",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 26,
+    "broker_id": 10,
+    "regulatory_body": "DFSA",
+    "license_number": "KOW735Q4Y2",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Global",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 27,
+    "broker_id": 10,
+    "regulatory_body": "BaFin",
+    "license_number": "NIIK82MO36B",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 28,
+    "broker_id": 10,
+    "regulatory_body": "CySEC",
+    "license_number": "VXMPCYTSS7I",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Global",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 29,
+    "broker_id": 11,
+    "regulatory_body": "FINMA",
+    "license_number": "KI0F2DTFS7",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 30,
+    "broker_id": 11,
+    "regulatory_body": "CySEC",
+    "license_number": "RHGZ5IQIUYO",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 31,
+    "broker_id": 12,
+    "regulatory_body": "FCA",
+    "license_number": "58LCMT4HWHR",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 32,
+    "broker_id": 12,
+    "regulatory_body": "FINMA",
+    "license_number": "46KYZ235VE2",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 33,
+    "broker_id": 13,
+    "regulatory_body": "MFSA",
+    "license_number": "E0Z9XZDSHUA",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 34,
+    "broker_id": 13,
+    "regulatory_body": "BaFin",
+    "license_number": "ROV5PQG7ZCP",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 35,
+    "broker_id": 14,
+    "regulatory_body": "BaFin",
+    "license_number": "ME0LS68IS9M",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 36,
+    "broker_id": 14,
+    "regulatory_body": "CySEC",
+    "license_number": "AQQHU5FSQ5",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 37,
+    "broker_id": 15,
+    "regulatory_body": "BaFin",
+    "license_number": "G13YUG8AK4",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 38,
+    "broker_id": 16,
+    "regulatory_body": "MFSA",
+    "license_number": "6FS8EJO0FSL",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 39,
+    "broker_id": 17,
+    "regulatory_body": "CySEC",
+    "license_number": "WB50BBVNAR",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 40,
+    "broker_id": 17,
+    "regulatory_body": "ASIC",
+    "license_number": "4UDKW5DN9EF",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 41,
+    "broker_id": 17,
+    "regulatory_body": "BaFin",
+    "license_number": "0GMA3LUERBZ",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 42,
+    "broker_id": 17,
+    "regulatory_body": "FSCA",
+    "license_number": "IUQYSHJ7YFL",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 43,
+    "broker_id": 18,
+    "regulatory_body": "BaFin",
+    "license_number": "CUG6VHC77KW",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 44,
+    "broker_id": 18,
+    "regulatory_body": "FINMA",
+    "license_number": "P7N3UWKE0E",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 45,
+    "broker_id": 18,
+    "regulatory_body": "MFSA",
+    "license_number": "Y7CYXZ8OET",
+    "regulation_status": "Regulated",
+    "jurisdiction": "EU",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 46,
+    "broker_id": 18,
+    "regulatory_body": "FCA",
+    "license_number": "9VPF3M2SWB",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UAE",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 47,
+    "broker_id": 19,
+    "regulatory_body": "FCA",
+    "license_number": "BL62X4J01TT",
+    "regulation_status": "Regulated",
+    "jurisdiction": "UK",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 48,
+    "broker_id": 19,
+    "regulatory_body": "ASIC",
+    "license_number": "NH19RGDWW4O",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Malta",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 49,
+    "broker_id": 20,
+    "regulatory_body": "CySEC",
+    "license_number": "63EHEKUIIWO",
+    "regulation_status": "Regulated",
+    "jurisdiction": "Australia",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 50,
+    "broker_id": 20,
+    "regulatory_body": "FSCA",
+    "license_number": "71K6W06M7SF",
+    "regulation_status": "Regulated",
+    "jurisdiction": "South Africa",
+    "verification_date": "2025-09-16T05:05:18.905Z",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  }
+]

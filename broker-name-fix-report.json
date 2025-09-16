@@ -1,0 +1,72 @@
+{
+  "fixDate": "2025-09-16T05:24:51.148Z",
+  "statistics": {
+    "totalFiles": 117,
+    "fixedNames": 104,
+    "failedFixes": 0
+  },
+  "sampleFixes": [
+    {
+      "original": "url",
+      "fixed": "Admirals",
+      "sourceFile": "admirals-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Alpari International",
+      "sourceFile": "alpari-international-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Apex Trader Funding",
+      "sourceFile": "apex-trader-funding-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Avatrade",
+      "sourceFile": "avatrade-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Axitrader",
+      "sourceFile": "axitrader-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Bdswiss",
+      "sourceFile": "bdswiss-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Binance",
+      "sourceFile": "binance-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Blackbull",
+      "sourceFile": "blackbull-markets-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Capital",
+      "sourceFile": "capital-review.html"
+    },
+    {
+      "original": "url",
+      "fixed": "Cfi Trade",
+      "sourceFile": "cfi-trade-review.html"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "High",
+      "issue": "Some broker names still show as \"url\" or \"Unknown\"",
+      "recommendation": "Manual review needed for remaining unidentified brokers"
+    },
+    {
+      "priority": "Medium",
+      "issue": "Data extraction needs improvement",
+      "recommendation": "Enhance HTML parser for better broker information extraction"
+    }
+  ]
+}

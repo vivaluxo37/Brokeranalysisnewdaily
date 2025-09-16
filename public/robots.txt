@@ -1,0 +1,62 @@
+# Robots.txt for BrokerAnalysis.com
+# Created: 2025-09-16
+# Purpose: SEO optimization and crawl management
+
+User-agent: *
+Allow: /
+Allow: /api/brokers/
+
+# Sitemaps
+Sitemap: https://brokeranalysis.com/sitemap.xml
+
+# Crawl-delay (optional, for server load)
+Crawl-delay: 1
+
+# Disallow private/admin areas
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /_next/
+Disallow: /private/
+
+# Disallow search and filter pages with parameters
+Disallow: /*?sort=*
+Disallow: /*?filter=*
+Disallow: /*?page=*
+Disallow: /*?search=*
+
+# Allow specific important pages
+Allow: /brokers/
+Allow: /brokers/compare/
+Allow: /forex-brokers/
+
+# Common bot-specific rules
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+# Allow major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /

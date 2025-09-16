@@ -1,0 +1,152 @@
+{
+  "adaptation": {
+    "originalCount": 20,
+    "adaptedCount": 5,
+    "fieldMappings": {
+      "logo": "logo_url",
+      "reviewCount": "review_count",
+      "regulation": "regulations",
+      "minDeposit": "min_deposit",
+      "affiliateLink": "affiliate_link"
+    },
+    "defaultValues": {
+      "spread": "Variable",
+      "logo": "/api/placeholder/120/60",
+      "features": [
+        "Forex Trading",
+        "CFD Trading",
+        "Mobile App"
+      ],
+      "regulation": [
+        "Regulated"
+      ],
+      "minDeposit": "$100"
+    }
+  },
+  "adaptedBrokers": [
+    {
+      "id": 1,
+      "name": "Admirals",
+      "logo": "/images/brokers/admirals-logo.png",
+      "rating": 3.4,
+      "reviewCount": 4258,
+      "description": "Admirals offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+      "features": [
+        "No Commission",
+        "Low Spreads",
+        "High Leverage"
+      ],
+      "regulation": [
+        "BaFin"
+      ],
+      "minDeposit": "$500",
+      "spread": "0.6 pips",
+      "affiliateLink": "https://www.admirals.com?ref=brokeranalysis"
+    },
+    {
+      "id": 2,
+      "name": "Pepperstone",
+      "logo": "/images/brokers/pepperstone-logo.png",
+      "rating": 4.7,
+      "reviewCount": 2975,
+      "description": "Pepperstone offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+      "features": [
+        "No Commission",
+        "Segregated Funds",
+        "Fast Execution",
+        "High Leverage",
+        "Negative Balance Protection",
+        "Low Spreads"
+      ],
+      "regulation": [
+        "FCA",
+        "DFSA",
+        "ASIC",
+        "CySEC"
+      ],
+      "minDeposit": "$100",
+      "spread": "1.4 pips",
+      "affiliateLink": "https://www.pepperstone.com?ref=brokeranalysis"
+    },
+    {
+      "id": 3,
+      "name": "IC Markets",
+      "logo": "/images/brokers/ic-markets-logo.png",
+      "rating": 4.3,
+      "reviewCount": 4617,
+      "description": "IC Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+      "features": [
+        "Negative Balance Protection",
+        "No Commission",
+        "Low Spreads",
+        "High Leverage",
+        "Fast Execution",
+        "Segregated Funds"
+      ],
+      "regulation": [
+        "DFSA",
+        "MFSA",
+        "BaFin"
+      ],
+      "minDeposit": "$1",
+      "spread": "0.4 pips",
+      "affiliateLink": "https://www.icmarkets.com?ref=brokeranalysis"
+    },
+    {
+      "id": 4,
+      "name": "FP Markets",
+      "logo": "/images/brokers/fp-markets-logo.png",
+      "rating": 3.8,
+      "reviewCount": 835,
+      "description": "FP Markets offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+      "features": [
+        "Segregated Funds",
+        "High Leverage",
+        "Low Spreads",
+        "Negative Balance Protection",
+        "No Commission"
+      ],
+      "regulation": [
+        "MFSA",
+        "FINMA",
+        "FCA",
+        "FSCA"
+      ],
+      "minDeposit": "$100",
+      "spread": "0.7 pips",
+      "affiliateLink": "https://www.fpmarkets.com?ref=brokeranalysis"
+    },
+    {
+      "id": 5,
+      "name": "AxiTrader",
+      "logo": "/images/brokers/axitrader-logo.png",
+      "rating": 4,
+      "reviewCount": 2379,
+      "description": "AxiTrader offers competitive spreads and reliable trading conditions for forex and CFD traders.",
+      "features": [
+        "Negative Balance Protection",
+        "Low Spreads",
+        "High Leverage",
+        "Segregated Funds",
+        "No Commission"
+      ],
+      "regulation": [
+        "ASIC"
+      ],
+      "minDeposit": "$200",
+      "spread": "0.3 pips",
+      "affiliateLink": "https://www.axitrader.com?ref=brokeranalysis"
+    }
+  ],
+  "compatibility": {
+    "componentInterface": "FeaturedBrokers",
+    "databaseSchema": "Broker Table",
+    "status": "Adapted Successfully"
+  },
+  "recommendations": [
+    "Use this adapter in production to ensure compatibility",
+    "Consider creating a generic adapter for all components",
+    "Add error handling for missing fields",
+    "Implement caching for adapted data"
+  ]
+}

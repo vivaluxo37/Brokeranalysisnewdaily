@@ -1,0 +1,145 @@
+{
+  "component": "FeaturedBrokers",
+  "tests": [
+    {
+      "name": "Data Structure Compatibility",
+      "status": "failed",
+      "startTime": 1757999167381,
+      "details": {
+        "featuredBrokersCount": 5,
+        "requiredFields": [
+          "id",
+          "name",
+          "logo_url",
+          "rating",
+          "review_count",
+          "description",
+          "features",
+          "regulations",
+          "min_deposit",
+          "spread",
+          "affiliate_link"
+        ],
+        "fieldMapping": {
+          "logo": "logo_url",
+          "reviewCount": "review_count",
+          "regulation": "regulations",
+          "minDeposit": "min_deposit",
+          "spread": "spread",
+          "affiliateLink": "affiliate_link"
+        },
+        "missingFields": [
+          "spread"
+        ],
+        "message": "Missing required fields: spread"
+      },
+      "endTime": 1757999167382,
+      "duration": 1
+    },
+    {
+      "name": "Component Rendering Test",
+      "status": "failed",
+      "startTime": 1757999167382,
+      "details": {
+        "compilation": "failed",
+        "compilationErrors": "Command failed: npx tsc --noEmit test-featured-brokers-component.tsx",
+        "brokersTested": 5,
+        "averageRating": "4.04",
+        "totalReviews": 15064
+      },
+      "endTime": 1757999178412,
+      "duration": 11030
+    },
+    {
+      "name": "Responsive Design Test",
+      "status": "passed",
+      "startTime": 1757999178412,
+      "details": {
+        "responsiveTests": [
+          {
+            "screenSize": "mobile",
+            "width": 375,
+            "expectedCols": 1
+          },
+          {
+            "screenSize": "tablet",
+            "width": 768,
+            "expectedCols": 2
+          },
+          {
+            "screenSize": "desktop",
+            "width": 1024,
+            "expectedCols": 3
+          }
+        ],
+        "brokerCount": 5,
+        "gridCompatibility": true,
+        "message": "Data works with all responsive breakpoints"
+      },
+      "endTime": 1757999178415,
+      "duration": 3
+    },
+    {
+      "name": "Data Validation",
+      "status": "passed",
+      "startTime": 1757999178416,
+      "details": {
+        "validationIssues": [],
+        "totalBrokers": 5,
+        "issuesCount": 0,
+        "message": "All broker data is valid"
+      },
+      "endTime": 1757999178418,
+      "duration": 2
+    },
+    {
+      "name": "Performance Metrics",
+      "status": "passed",
+      "startTime": 1757999178418,
+      "details": {
+        "dataSize": "7.20 KB",
+        "loadTime": "0 ms",
+        "brokerCount": 5,
+        "performanceThresholds": {
+          "maxLoadTime": "100 ms",
+          "maxSize": "50 KB"
+        },
+        "performanceScore": {
+          "loadTime": true,
+          "size": true
+        }
+      },
+      "endTime": 1757999178420,
+      "duration": 2
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "passed": 3,
+    "failed": 2,
+    "successRate": "60.00%"
+  },
+  "performance": {
+    "totalDuration": "11038 ms",
+    "averageDuration": "2208 ms"
+  },
+  "issues": [],
+  "recommendations": [
+    {
+      "priority": "High",
+      "issue": "Data structure mismatch",
+      "recommendation": "Update component interface to match database schema"
+    },
+    {
+      "priority": "Low",
+      "issue": "Test coverage",
+      "recommendation": "Add more comprehensive unit tests for component"
+    }
+  ],
+  "generatedAt": "2025-09-16T05:06:18.420Z",
+  "testDataInfo": {
+    "file": "test-broker-data.json",
+    "totalBrokers": 20,
+    "featuredBrokers": 5
+  }
+}

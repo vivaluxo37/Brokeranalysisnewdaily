@@ -1,0 +1,174 @@
+{
+  "component": "ResponsiveDesign",
+  "tests": [
+    {
+      "name": "Mobile Responsiveness Test",
+      "status": "passed",
+      "startTime": 1757999534269,
+      "details": {
+        "mobileTests": 4,
+        "mobileResults": [
+          {
+            "name": "Broker Name Length",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Mobile Card Layout",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Touch Target Size",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Text Readability",
+            "valid": true,
+            "issue": null
+          }
+        ],
+        "failedTests": 0,
+        "message": "All mobile responsiveness tests passed"
+      },
+      "endTime": 1757999534270,
+      "duration": 1
+    },
+    {
+      "name": "Tablet Responsiveness Test",
+      "status": "failed",
+      "startTime": 1757999534270,
+      "details": {
+        "tabletTests": 3,
+        "tabletResults": [
+          {
+            "name": "Grid Layout",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Content Density",
+            "valid": false,
+            "issue": "16 brokers have too many features for tablet display"
+          },
+          {
+            "name": "Navigation Layout",
+            "valid": true,
+            "issue": null
+          }
+        ],
+        "failedTests": 1,
+        "message": "Found 1 tablet responsiveness issues"
+      },
+      "endTime": 1757999534271,
+      "duration": 1
+    },
+    {
+      "name": "Desktop Responsiveness Test",
+      "status": "passed",
+      "startTime": 1757999534271,
+      "details": {
+        "desktopTests": 3,
+        "desktopResults": [
+          {
+            "name": "Max Content Width",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Display Density",
+            "valid": true,
+            "issue": null
+          },
+          {
+            "name": "Feature Display",
+            "valid": true,
+            "issue": null
+          }
+        ],
+        "failedTests": 0,
+        "message": "All desktop responsiveness tests passed"
+      },
+      "endTime": 1757999534272,
+      "duration": 1
+    },
+    {
+      "name": "Data Adaptability Test",
+      "status": "failed",
+      "startTime": 1757999534273,
+      "details": {
+        "adaptabilityTests": 4,
+        "adaptabilityResults": [
+          {
+            "name": "Text Length Adaptation",
+            "valid": false,
+            "issue": "Descriptions too long for mobile display"
+          },
+          {
+            "name": "Feature Count Adaptation",
+            "valid": false,
+            "issue": "Too many features for mobile display"
+          },
+          {
+            "name": "Regulation Display Adaptation",
+            "valid": false,
+            "issue": "Too many regulations for mobile display"
+          },
+          {
+            "name": "Numeric Data Adaptation",
+            "valid": true,
+            "issue": null
+          }
+        ],
+        "failedTests": 3,
+        "message": "Found 3 data adaptability issues"
+      },
+      "endTime": 1757999534274,
+      "duration": 1
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "passed": 2,
+    "failed": 2,
+    "successRate": "50.00%"
+  },
+  "designData": {},
+  "performance": {
+    "totalDuration": "4 ms",
+    "averageDuration": "1 ms"
+  },
+  "issues": [],
+  "recommendations": [
+    {
+      "priority": "Medium",
+      "issue": "Tablet layout optimization",
+      "recommendation": "Adjust grid layout and content density for tablet screens"
+    },
+    {
+      "priority": "High",
+      "issue": "Data presentation",
+      "recommendation": "Implement adaptive content display based on screen size"
+    },
+    {
+      "priority": "Medium",
+      "issue": "Progressive enhancement",
+      "recommendation": "Add progressive enhancement for better user experience across devices"
+    }
+  ],
+  "generatedAt": "2025-09-16T05:12:14.280Z",
+  "testDataInfo": {
+    "file": "test-broker-data.json",
+    "totalBrokers": 20,
+    "testDevices": [
+      "Mobile (375px)",
+      "Tablet (768px)",
+      "Desktop (1024px)"
+    ]
+  },
+  "filesGenerated": [
+    "responsive-design-demo.html",
+    "responsive-design-test-results.json"
+  ]
+}

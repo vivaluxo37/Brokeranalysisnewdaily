@@ -1,0 +1,4672 @@
+{
+  "Admirals": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Alpari International": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Apex Trader Funding": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Avatrade": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FSC",
+      "NFA",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Axitrader": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Bdswiss": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Best Forex Brokers": {
+    "logo_url": "https://www.dailyforex.com../files/logo_110x40/fp%20markets%2020%20years%20110x40%20.webp",
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/huzefahamid/",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "BaFin"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Binance": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Blackbull Markets": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Brokers Directory List": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Capital": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Cfi Trade": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Cft": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "City Index": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Cmc Markets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Cmtrading": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Coinbase": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Credit Card Brokers": {
+    "logo_url": "https://www.dailyforex.com../files/logo_110x40/fxtm%20new%20transparent%20dark%20110x40.webp",
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/christopherlewis-forex/",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "BaFin",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Email",
+      "Phone",
+      "Multilingual"
+    ]
+  },
+  "Crypto Com": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Ctrader": {
+    "country": "which",
+    "website_url": "https://www.youtube.com/spotware",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Degiro": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Deriv": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Dna Funded": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Dukascopy": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FINMA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "E Trade": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "E": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "E8 Funding": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Easymarkets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "NFA",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Eightcap": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Etoro": {
+    "country": "which",
+    "website_url": "https://www.etoro.com/customer-service/terms-conditions/trading-restriction/",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Etx Capital": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Europefx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Exness": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Fbs": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Fidelity": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FINMA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Fineco Bank": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Fondex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Forex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Forexmart": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Fp Markets": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Freetrade": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Friedberg Direct": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Ftmo": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Funded Prime": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Funded Traders": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Fundednext": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Fusion Markets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Fx Club": {
+    "country": "New York Maximum leverage: 50:1 Minimum deposit: $200 (with ExpressFX platform) Minimum deal size: 1",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Fxcc": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Fxcm": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Fxgt": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Fxify": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Fxprimus": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Fxpro": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Fxtm": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "Multilingual"
+    ]
+  },
+  "Goat Funded Trader": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Hola Prime": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Hotforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Hugo S Way": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Ic Markets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Ifc Markets": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Ig": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "FINMA",
+      "BaFin"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Instaforex Ltd": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Instaforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Interactive Brokers": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Investous": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC",
+      "FSC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Iq Option": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Ironfx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Kraken": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "BaFin"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Legacy Fx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Libertex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Liteforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Markets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "Multilingual"
+    ]
+  },
+  "Metatrader 4 Product": {
+    "country": "which",
+    "website_url": "https://www.metaquotes.net/en",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "MiFID"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Moomoo": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Mtrading": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "My Funded Futures": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Nadex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Naga": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Nord Fx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "Multilingual"
+    ]
+  },
+  "Oanda": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Octa": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Paxforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Pepperstone": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "BaFin"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7",
+      "Multilingual"
+    ]
+  },
+  "Pipfarm": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Plus500": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Primexbt": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Profitex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "24/7"
+    ]
+  },
+  "Pu Prime": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Purple Trading": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Questrade": {
+    "country": "which",
+    "website_url": "https://www.globenewswire.com/news-release/2021/06/01/2239578/0/en/Questrade-introduces-Instant-Deposit-to-allow-investors-to-fund-trade-accounts-in-seconds-and-never-miss-a-market-opportunity.html",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Rebels Funding": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Regulation": {
+    "country": "which",
+    "website_url": "http://www.fsc.org.ai/",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA",
+      "FINMA",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email"
+    ]
+  },
+  "Revolut": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Robinhood": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 90,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Roboforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Sabiotrade": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Saxo Bank": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FINMA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 80,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Saxo Capital Markets": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Squared Financial": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Swissquote": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "FINMA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Tastyfx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Td Ameritrade": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 50,
+    "support_channels": [
+      "Email",
+      "Phone"
+    ]
+  },
+  "Thinkforex": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "24/7"
+    ]
+  },
+  "Tickmill": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "MiFID"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email"
+    ]
+  },
+  "Topstep": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Toptier Trader": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Trade Nation": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Trade360": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "VIP",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Fixed",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Traders Way": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Tradestation": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "WebTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Trading 212": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Vanguard": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  },
+  "Vantage Fx": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "Mobile App"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "FSC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 70,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Webull": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "STP",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Xm": {
+    "country": "which",
+    "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "WebTrader",
+      "Mobile App",
+      "iOS",
+      "Android"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Xtb": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "cTrader",
+      "Mobile App",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "CFDs",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "FCA",
+      "ASIC",
+      "CySEC",
+      "FSC",
+      "BaFin"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Swap-Free",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 100,
+    "spread_type": "Variable",
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone",
+      "24/7"
+    ]
+  },
+  "Zulutrade": {
+    "country": "which",
+    "website_url": "https://x.com/daily_forex",
+    "platforms": [
+      "MT4",
+      "MT5",
+      "MetaTrader",
+      "cTrader",
+      "iOS"
+    ],
+    "instruments": [
+      "Forex",
+      "Stocks",
+      "Indices",
+      "Commodities",
+      "Cryptocurrencies",
+      "Futures",
+      "Options"
+    ],
+    "regulations": [
+      "NFA"
+    ],
+    "account_types": [
+      "Standard",
+      "ECN",
+      "Islamic",
+      "Demo",
+      "Professional",
+      "Cent"
+    ],
+    "trust_score": 60,
+    "support_channels": [
+      "Live Chat",
+      "Email",
+      "Phone"
+    ]
+  }
+}

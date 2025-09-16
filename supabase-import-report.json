@@ -1,0 +1,492 @@
+{
+  "importDate": "2025-09-16T05:20:55.869Z",
+  "supabaseProject": "https://efxpwrnxdorgzcqhbnfn.supabase.co",
+  "statistics": {
+    "totalBrokers": 117,
+    "importedBrokers": 0,
+    "failedBrokers": 117,
+    "successRate": "0.00%"
+  },
+  "tablesImported": {},
+  "errors": [
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Top Regulated Forex Brokers & Trading Platforms",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Top Forex Brokers List",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Best Forex Brokers that Accept Credit Cards",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "FundedNext Review",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Fusion Markets Review 2023 - Pros & Cons Revealed",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Goat Funded Trader",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "My Funded Futures Review",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "PipFarm Review 2024 - Pros & Cons Revealed",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "PU Prime Review - Pros & Cons Revealed",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "Forex Regulations",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "tastyfx Review and Rating",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "TopStep Review - Pros & Cons Revealed",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "TopTier Trader Review - Pros & Cons Revealed",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    },
+    {
+      "broker": "url",
+      "error": "Could not find the 'max_leverage' column of 'brokers' in the schema cache"
+    }
+  ],
+  "verificationResults": {
+    "brokers": 37,
+    "broker_features": null,
+    "broker_regulations": null,
+    "broker_platforms": null,
+    "broker_account_types": 0,
+    "broker_payment_methods": 0,
+    "broker_support": null,
+    "broker_education": null,
+    "broker_promotions": 0
+  }
+}

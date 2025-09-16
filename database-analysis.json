@@ -1,0 +1,3624 @@
+{
+  "analysisDate": "2025-09-16T05:51:10.261Z",
+  "summary": {
+    "totalBrokers": 147,
+    "totalColumns": 112,
+    "emptyColumns": 77,
+    "highPriorityEmpty": 0,
+    "mediumPriorityEmpty": 4
+  },
+  "columnAnalysis": {
+    "id": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 147,
+      "sampleValues": [
+        "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+        "f4480aaf-8e2d-433e-810f-b13937c3be22",
+        "01c12620-c579-4c48-be01-664cb3bef9c9"
+      ],
+      "dataType": "string"
+    },
+    "name": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 147,
+      "sampleValues": [
+        "Bdswiss",
+        "Binance",
+        "Capital"
+      ],
+      "dataType": "string"
+    },
+    "slug": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 147,
+      "sampleValues": [
+        "bdswiss",
+        "binance",
+        "capital"
+      ],
+      "dataType": "string"
+    },
+    "logo_url": {
+      "total": 147,
+      "nullCount": 14,
+      "emptyCount": 0,
+      "populatedCount": 133,
+      "uniqueValues": 132,
+      "sampleValues": [
+        "https://www.dailyforex.comdata:image/png;base64,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",
+        "https://www.dailyforex.comdata:image/png;base64,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",
+        "https://www.dailyforex.comdata:image/png;base64,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"
+      ],
+      "dataType": "string"
+    },
+    "country": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 3,
+      "populatedCount": 144,
+      "uniqueValues": 20,
+      "sampleValues": [
+        "which",
+        "which",
+        "which"
+      ],
+      "dataType": "string"
+    },
+    "established_year": {
+      "total": 147,
+      "nullCount": 66,
+      "emptyCount": 0,
+      "populatedCount": 81,
+      "uniqueValues": 25,
+      "sampleValues": [
+        2021,
+        2016,
+        2013
+      ],
+      "dataType": "number"
+    },
+    "website_url": {
+      "total": 147,
+      "nullCount": 3,
+      "emptyCount": 6,
+      "populatedCount": 138,
+      "uniqueValues": 47,
+      "sampleValues": [
+        "https://x.com/daily_forex",
+        "https://x.com/daily_forex",
+        "https://x.com/daily_forex"
+      ],
+      "dataType": "string"
+    },
+    "affiliate_url": {
+      "total": 147,
+      "nullCount": 60,
+      "emptyCount": 0,
+      "populatedCount": 87,
+      "uniqueValues": 87,
+      "sampleValues": [
+        "https://www.bdswiss.com/affiliate",
+        "https://www.binance.com/affiliate",
+        "https://www.capital.com/affiliate"
+      ],
+      "dataType": "string"
+    },
+    "min_deposit": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 22,
+      "sampleValues": [
+        10,
+        0,
+        20
+      ],
+      "dataType": "number"
+    },
+    "spreads_avg": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 22,
+      "sampleValues": [
+        0,
+        0,
+        0.6
+      ],
+      "dataType": "number"
+    },
+    "leverage_max": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 13,
+      "populatedCount": 134,
+      "uniqueValues": 15,
+      "sampleValues": [
+        "0",
+        "0",
+        "0"
+      ],
+      "dataType": "date"
+    },
+    "platforms": {
+      "total": 147,
+      "nullCount": 21,
+      "emptyCount": 0,
+      "populatedCount": 126,
+      "uniqueValues": 46,
+      "sampleValues": [
+        [
+          "MT4",
+          "MT5",
+          "MetaTrader",
+          "cTrader",
+          "WebTrader",
+          "Mobile App"
+        ],
+        [
+          "MT4",
+          "MT5",
+          "cTrader",
+          "Mobile App"
+        ],
+        [
+          "MT4",
+          "MT5",
+          "MetaTrader",
+          "cTrader",
+          "WebTrader",
+          "Mobile App",
+          "iOS",
+          "Android"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "instruments": {
+      "total": 147,
+      "nullCount": 21,
+      "emptyCount": 0,
+      "populatedCount": 126,
+      "uniqueValues": 16,
+      "sampleValues": [
+        [
+          "Forex",
+          "CFDs",
+          "Stocks",
+          "Indices",
+          "Commodities",
+          "Cryptocurrencies",
+          "Futures",
+          "Options"
+        ],
+        [
+          "Forex",
+          "CFDs",
+          "Stocks",
+          "Indices",
+          "Commodities",
+          "Cryptocurrencies",
+          "Futures",
+          "Options"
+        ],
+        [
+          "Forex",
+          "CFDs",
+          "Stocks",
+          "Indices",
+          "Commodities",
+          "Cryptocurrencies",
+          "Futures",
+          "Options"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "regulations": {
+      "total": 147,
+      "nullCount": 38,
+      "emptyCount": 0,
+      "populatedCount": 109,
+      "uniqueValues": 55,
+      "sampleValues": [
+        [
+          "ASIC",
+          "FSC"
+        ],
+        [
+          "ASIC"
+        ],
+        [
+          "FCA",
+          "ASIC",
+          "CySEC"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "regulation_tier": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 3,
+      "sampleValues": [
+        "unregulated",
+        "unregulated",
+        "unregulated"
+      ],
+      "dataType": "string"
+    },
+    "trust_score": {
+      "total": 147,
+      "nullCount": 21,
+      "emptyCount": 0,
+      "populatedCount": 126,
+      "uniqueValues": 16,
+      "sampleValues": [
+        100,
+        80,
+        100
+      ],
+      "dataType": "number"
+    },
+    "fees": {
+      "total": 147,
+      "nullCount": 138,
+      "emptyCount": 0,
+      "populatedCount": 9,
+      "uniqueValues": 9,
+      "sampleValues": [
+        {
+          "commission": 0,
+          "spread_type": "STP",
+          "inactivity_fee": {
+            "amount": 5,
+            "period": "monthly",
+            "after_months": 6
+          },
+          "currency_conversion": 0.5
+        },
+        {
+          "commission": {
+            "standard": 3.5,
+            "raw_spread": 0
+          },
+          "spread_type": "ECN",
+          "inactivity_fee": {
+            "amount": 10,
+            "period": "monthly",
+            "after_months": 3
+          },
+          "currency_conversion": 0.5
+        },
+        {
+          "commission": {
+            "standard": 3.5,
+            "raw_spread": 0
+          },
+          "spread_type": "ECN",
+          "currency_conversion": 0.5
+        }
+      ],
+      "dataType": "object"
+    },
+    "avg_rating": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 43,
+      "sampleValues": [
+        4,
+        0.5,
+        3
+      ],
+      "dataType": "number"
+    },
+    "total_reviews": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 13,
+      "sampleValues": [
+        0,
+        0,
+        0
+      ],
+      "dataType": "number"
+    },
+    "is_active": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 1,
+      "sampleValues": [
+        true,
+        true,
+        true
+      ],
+      "dataType": "boolean"
+    },
+    "featured": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "description": {
+      "total": 147,
+      "nullCount": 14,
+      "emptyCount": 2,
+      "populatedCount": 131,
+      "uniqueValues": 19,
+      "sampleValues": [
+        "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using..."
+      ],
+      "dataType": "string"
+    },
+    "pros": {
+      "total": 147,
+      "nullCount": 110,
+      "emptyCount": 0,
+      "populatedCount": 37,
+      "uniqueValues": 34,
+      "sampleValues": [
+        [
+          "Advanced trading platform",
+          "Extensive research",
+          "Educational resources",
+          "Commission-free trading"
+        ],
+        [
+          "Competitive spreads",
+          "Fast execution",
+          "Risk management tools",
+          "Educational resources"
+        ],
+        [
+          "Long-established",
+          "excellent platform",
+          "strong regulation",
+          "diverse instruments"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "cons": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 19,
+      "sampleValues": [
+        [
+          "Limited leverage for retail traders",
+          "no cryptocurrency CFDs in UK"
+        ],
+        [
+          "Limited leverage",
+          "higher spreads on some instruments"
+        ],
+        [
+          "No Islamic accounts",
+          "limited cryptocurrency offerings"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "created_at": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 140,
+      "sampleValues": [
+        "2025-09-16T05:27:50.905+00:00",
+        "2025-09-16T05:27:51.239+00:00",
+        "2025-09-16T05:27:51.795+00:00"
+      ],
+      "dataType": "date"
+    },
+    "updated_at": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 147,
+      "sampleValues": [
+        "2025-09-16T05:48:22.02109+00:00",
+        "2025-09-16T05:48:26.222542+00:00",
+        "2025-09-16T05:48:28.341737+00:00"
+      ],
+      "dataType": "date"
+    },
+    "seo_title": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 147,
+      "sampleValues": [
+        "Bdswiss Review - Detailed Analysis & Rating",
+        "Binance Review - Detailed Analysis & Rating",
+        "Capital Review - Detailed Analysis & Rating"
+      ],
+      "dataType": "string"
+    },
+    "seo_description": {
+      "total": 147,
+      "nullCount": 21,
+      "emptyCount": 0,
+      "populatedCount": 126,
+      "uniqueValues": 126,
+      "sampleValues": [
+        "Comprehensive review of Bdswiss. Trust score: 100/100. Min deposit: $10.00. Read detailed analysis.",
+        "Comprehensive review of Binance. Trust score: 80/100. Min deposit: $0.00. Read detailed analysis.",
+        "Comprehensive review of Capital. Trust score: 100/100. Min deposit: $20.00. Read detailed analysis."
+      ],
+      "dataType": "string"
+    },
+    "seo_keywords": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 16,
+      "sampleValues": [
+        [
+          "IG Group review",
+          "forex broker",
+          "online trading",
+          "CFD trading",
+          "ig group"
+        ],
+        [
+          "OANDA review",
+          "forex broker",
+          "online trading",
+          "CFD trading",
+          "oanda"
+        ],
+        [
+          "CMC Markets review",
+          "forex broker",
+          "online trading",
+          "CFD trading",
+          "cmc markets"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "featured_image_url": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 16,
+      "sampleValues": [
+        "https://ig.com/featured-image.jpg",
+        "https://oanda.com/featured-image.jpg",
+        "https://cmcmarkets.com/featured-image.jpg"
+      ],
+      "dataType": "string"
+    },
+    "social_media": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 18,
+      "sampleValues": [
+        {
+          "twitter": "https://twitter.com/ig-group",
+          "facebook": "https://facebook.com/ig-group",
+          "linkedin": "https://linkedin.com/company/ig-group"
+        },
+        {
+          "twitter": "https://twitter.com/oanda",
+          "facebook": "https://facebook.com/oanda",
+          "linkedin": "https://linkedin.com/company/oanda"
+        },
+        {
+          "twitter": "https://twitter.com/cmc-markets",
+          "facebook": "https://facebook.com/cmc-markets",
+          "linkedin": "https://linkedin.com/company/cmc-markets"
+        }
+      ],
+      "dataType": "object"
+    },
+    "trading_instruments": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 11,
+      "sampleValues": [
+        [
+          "Forex",
+          "CFDs",
+          "stocks",
+          "indices",
+          "commodities",
+          "bonds",
+          "options",
+          "cryptocurrencies"
+        ],
+        [
+          "Forex",
+          "CFDs",
+          "stocks",
+          "indices",
+          "commodities",
+          "bonds",
+          "cryptocurrencies"
+        ],
+        [
+          "Forex",
+          "CFDs",
+          "stocks",
+          "indices",
+          "commodities",
+          "treasuries",
+          "cryptocurrencies"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "account_types": {
+      "total": 147,
+      "nullCount": 40,
+      "emptyCount": 0,
+      "populatedCount": 107,
+      "uniqueValues": 21,
+      "sampleValues": [
+        "{\"Standard\",\"ECN\",\"Islamic\",\"Demo\",\"Professional\",\"VIP\",\"Cent\"}",
+        "{\"Standard\",\"ECN\",\"STP\",\"Islamic\",\"Demo\",\"Professional\",\"VIP\",\"Cent\"}",
+        "{\"Standard\",\"ECN\",\"STP\",\"Islamic\",\"Demo\",\"Professional\",\"Cent\"}"
+      ],
+      "dataType": "string"
+    },
+    "headquarters_location": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 119,
+      "populatedCount": 28,
+      "uniqueValues": 15,
+      "sampleValues": [
+        "USA",
+        "USA",
+        "London, UK"
+      ],
+      "dataType": "string"
+    },
+    "parent_company": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 19,
+      "sampleValues": [
+        "IG Group Holdings plc",
+        "OANDA Corporation",
+        "CMC Markets plc"
+      ],
+      "dataType": "string"
+    },
+    "business_model": {
+      "total": 147,
+      "nullCount": 141,
+      "emptyCount": 0,
+      "populatedCount": 6,
+      "uniqueValues": 3,
+      "sampleValues": [
+        "Market Maker",
+        "Market Maker",
+        "STP Broker"
+      ],
+      "dataType": "string"
+    },
+    "company_description": {
+      "total": 147,
+      "nullCount": 98,
+      "emptyCount": 1,
+      "populatedCount": 48,
+      "uniqueValues": 40,
+      "sampleValues": [
+        "Christopher Lewis has been trading Forex and has over 20 years experience in financial markets. Chris has been a regular contributor to Daily Forex since the early days of the site. He writes about Forex for several online publications, including FX Empire, Investing.com, and his own site, aptly named The Trader Guy. Chris favours technical analysis methods to identify his trades and likes to trade equity indices and commodities as well as Forex...",
+        "TD Ameritrade is a leading US brokerage firm offering a wide range of investment products and trading services.",
+        "IG US is the US division of IG Group, offering forex and CFD trading services to US clients."
+      ],
+      "dataType": "string"
+    },
+    "year_founded": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 13,
+      "sampleValues": [
+        1974,
+        1996,
+        1989
+      ],
+      "dataType": "number"
+    },
+    "employee_count": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 11,
+      "sampleValues": [
+        3000,
+        500,
+        1000
+      ],
+      "dataType": "number"
+    },
+    "active_traders_count": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "spread_type": {
+      "total": 147,
+      "nullCount": 118,
+      "emptyCount": 0,
+      "populatedCount": 29,
+      "uniqueValues": 6,
+      "sampleValues": [
+        "variable",
+        "variable",
+        "variable"
+      ],
+      "dataType": "string"
+    },
+    "commission_structure": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 16,
+      "sampleValues": [
+        {
+          "standard": 0,
+          "professional": 0
+        },
+        {
+          "cfds": 1,
+          "forex": 0
+        },
+        {
+          "standard": 0,
+          "professional": 0
+        }
+      ],
+      "dataType": "object"
+    },
+    "margin_requirements": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "execution_type": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 2,
+      "sampleValues": [
+        "ECN",
+        "ECN",
+        "ECN"
+      ],
+      "dataType": "string"
+    },
+    "execution_speed_ms": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        45,
+        40,
+        30
+      ],
+      "dataType": "number"
+    },
+    "slippage_rate": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        0.08,
+        0.05,
+        0.03
+      ],
+      "dataType": "number"
+    },
+    "order_types": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        [
+          "Market",
+          "Limit",
+          "Stop",
+          "Stop Loss",
+          "Take Profit",
+          "Trailing Stop",
+          "OCO"
+        ],
+        [
+          "Market",
+          "Limit",
+          "Stop",
+          "Stop Loss",
+          "Take Profit",
+          "Trailing Stop",
+          "OCO"
+        ],
+        [
+          "Market",
+          "Limit",
+          "Stop",
+          "Stop Loss",
+          "Take Profit",
+          "Trailing Stop",
+          "OCO"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "minimum_lot_size": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "dataType": "number"
+    },
+    "maximum_lot_size": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        100,
+        100,
+        100
+      ],
+      "dataType": "number"
+    },
+    "trading_platforms": {
+      "total": 147,
+      "nullCount": 141,
+      "emptyCount": 0,
+      "populatedCount": 6,
+      "uniqueValues": 5,
+      "sampleValues": [
+        [
+          {
+            "name": "IG Trading Platform",
+            "type": "web",
+            "features": [
+              "Advanced charting",
+              "Real-time news",
+              "Economic calendar",
+              "Risk management tools"
+            ],
+            "available": true,
+            "order_types": [
+              "Market",
+              "Limit",
+              "Stop",
+              "Trailing Stop"
+            ],
+            "charting_tools": [
+              "Technical indicators",
+              "Drawing tools",
+              "Multiple timeframes"
+            ],
+            "vps_compatible": false,
+            "minimum_deposit": 0,
+            "automated_trading": false,
+            "technical_indicators": [
+              "Moving averages",
+              "RSI",
+              "MACD",
+              "Bollinger Bands"
+            ],
+            "instruments_available": [
+              "Forex",
+              "Indices",
+              "Commodities",
+              "Shares",
+              "Cryptocurrencies"
+            ]
+          }
+        ],
+        [
+          {
+            "name": "OANDA Trade Platform",
+            "type": "web",
+            "features": [
+              "Advanced charting",
+              "Real-time news",
+              "Economic calendar",
+              "AutoChartist"
+            ],
+            "available": true,
+            "order_types": [
+              "Market",
+              "Limit",
+              "Stop",
+              "Trailing Stop",
+              "OCO"
+            ],
+            "charting_tools": [
+              "Technical indicators",
+              "Drawing tools",
+              "Multiple timeframes"
+            ],
+            "vps_compatible": true,
+            "minimum_deposit": 0,
+            "automated_trading": true,
+            "technical_indicators": [
+              "Moving averages",
+              "RSI",
+              "MACD",
+              "Bollinger Bands",
+              "Stochastic"
+            ],
+            "instruments_available": [
+              "Forex",
+              "CFDs",
+              "Commodities",
+              "Precious Metals",
+              "Bonds"
+            ]
+          },
+          {
+            "name": "MetaTrader 4",
+            "type": "desktop",
+            "features": [
+              "Expert Advisors",
+              "Custom indicators",
+              "Algorithmic trading"
+            ],
+            "available": true,
+            "order_types": [
+              "Market",
+              "Limit",
+              "Stop",
+              "Trailing Stop"
+            ],
+            "charting_tools": [
+              "Technical indicators",
+              "Drawing tools",
+              "Multiple timeframes"
+            ],
+            "vps_compatible": true,
+            "minimum_deposit": 0,
+            "automated_trading": true,
+            "technical_indicators": [
+              "Moving averages",
+              "RSI",
+              "MACD",
+              "Bollinger Bands"
+            ],
+            "instruments_available": [
+              "Forex",
+              "CFDs",
+              "Commodities"
+            ]
+          }
+        ],
+        {
+          "web": [
+            "WebTrader"
+          ],
+          "mobile": [
+            "MT4 Mobile",
+            "MT5 Mobile",
+            "cTrader Mobile"
+          ],
+          "desktop": [
+            "MT4",
+            "MT5",
+            "cTrader"
+          ]
+        }
+      ],
+      "dataType": "array"
+    },
+    "mobile_trading_apps": {
+      "total": 147,
+      "nullCount": 141,
+      "emptyCount": 0,
+      "populatedCount": 6,
+      "uniqueValues": 5,
+      "sampleValues": [
+        [
+          {
+            "name": "IG Trading",
+            "features": [
+              "Full trading functionality",
+              "Real-time quotes",
+              "Charting",
+              "News"
+            ],
+            "platform": "ios"
+          },
+          {
+            "name": "IG Trading",
+            "features": [
+              "Full trading functionality",
+              "Real-time quotes",
+              "Charting",
+              "News"
+            ],
+            "platform": "android"
+          }
+        ],
+        [
+          {
+            "name": "OANDA Trade",
+            "features": [
+              "Full trading functionality",
+              "Real-time quotes",
+              "Charting",
+              "News",
+              "Push notifications"
+            ],
+            "platform": "ios"
+          },
+          {
+            "name": "OANDA Trade",
+            "features": [
+              "Full trading functionality",
+              "Real-time quotes",
+              "Charting",
+              "News",
+              "Push notifications"
+            ],
+            "platform": "android"
+          }
+        ],
+        {
+          "mt4": true,
+          "mt5": true,
+          "ctrader": true,
+          "features": [
+            "Full charting",
+            "One-click trading",
+            "Account management",
+            "Push notifications"
+          ]
+        }
+      ],
+      "dataType": "array"
+    },
+    "web_trading_platforms": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 3,
+      "sampleValues": [
+        {
+          "mt4_web": true,
+          "mt5_web": true,
+          "features": [
+            "No installation",
+            "Full functionality",
+            "Any device"
+          ],
+          "ctrader_web": true
+        },
+        {
+          "mt4_web": true,
+          "mt5_web": true,
+          "features": [
+            "No installation",
+            "Full functionality",
+            "Any device"
+          ],
+          "ctrader_web": true
+        },
+        {
+          "mt4_web": true,
+          "mt5_web": true,
+          "features": [
+            "No installation",
+            "Full functionality",
+            "Any device"
+          ]
+        }
+      ],
+      "dataType": "object"
+    },
+    "api_trading": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 3,
+      "sampleValues": [
+        {
+          "mt4": true,
+          "mt5": true,
+          "ctrader": true,
+          "libraries": [
+            "MQL4",
+            "MQL5",
+            "cAlgo"
+          ]
+        },
+        {
+          "mt4": true,
+          "mt5": true,
+          "ctrader": true,
+          "fix_api": true,
+          "libraries": [
+            "MQL4",
+            "MQL5",
+            "cAlgo"
+          ]
+        },
+        {
+          "mt4": true,
+          "mt5": true,
+          "fix_api": true,
+          "libraries": [
+            "MQL4",
+            "MQL5"
+          ]
+        }
+      ],
+      "dataType": "object"
+    },
+    "vps_hosting": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "automated_trading": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "social_trading": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 1,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "copy_trading": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 1,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "standard_account": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "ecn_stp_account": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "islamic_account": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 2,
+      "sampleValues": [
+        {
+          "available": true
+        },
+        {
+          "available": true
+        },
+        {
+          "available": false
+        }
+      ],
+      "dataType": "object"
+    },
+    "professional_account": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "demo_account_details": {
+      "total": 147,
+      "nullCount": 129,
+      "emptyCount": 0,
+      "populatedCount": 18,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "available": true
+        },
+        {
+          "available": true
+        },
+        {
+          "available": true
+        }
+      ],
+      "dataType": "object"
+    },
+    "swap_free": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "negative_balance_protection": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "deposit_methods": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 12,
+      "sampleValues": [
+        [
+          "Bank transfers",
+          "credit/debit cards",
+          "PayPal"
+        ],
+        [
+          "Bank transfers",
+          "credit/debit cards",
+          "PayPal",
+          "ACH",
+          "wire transfer"
+        ],
+        [
+          "Bank transfers",
+          "credit/debit cards",
+          "PayPal"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "withdrawal_methods": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 13,
+      "sampleValues": [
+        [
+          {
+            "type": "withdrawal",
+            "method": "Bank Transfer"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Credit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Debit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "PayPal"
+          }
+        ],
+        [
+          {
+            "type": "withdrawal",
+            "method": "Bank Transfer"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Credit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Debit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "PayPal"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Wire Transfer"
+          }
+        ],
+        [
+          {
+            "type": "withdrawal",
+            "method": "Bank Transfer"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Credit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "Debit Card"
+          },
+          {
+            "type": "withdrawal",
+            "method": "PayPal"
+          }
+        ]
+      ],
+      "dataType": "array"
+    },
+    "deposit_fees": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        },
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        },
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        }
+      ],
+      "dataType": "object"
+    },
+    "withdrawal_fees": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        },
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        },
+        {
+          "crypto": 0,
+          "ewallets": 0,
+          "credit_card": 0,
+          "bank_transfer": 0
+        }
+      ],
+      "dataType": "object"
+    },
+    "processing_times": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "deposit": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant",
+            "credit_card": "Instant",
+            "bank_transfer": "1-2 business days"
+          },
+          "withdrawal": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant-24 hours",
+            "credit_card": "1-3 business days",
+            "bank_transfer": "1-3 business days"
+          }
+        },
+        {
+          "deposit": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant",
+            "credit_card": "Instant",
+            "bank_transfer": "1-2 business days"
+          },
+          "withdrawal": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant-24 hours",
+            "credit_card": "1-3 business days",
+            "bank_transfer": "1-3 business days"
+          }
+        },
+        {
+          "deposit": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant",
+            "credit_card": "Instant",
+            "bank_transfer": "1-2 business days"
+          },
+          "withdrawal": {
+            "crypto": "1-24 hours",
+            "ewallets": "Instant-24 hours",
+            "credit_card": "1-3 business days",
+            "bank_transfer": "1-3 business days"
+          }
+        }
+      ],
+      "dataType": "object"
+    },
+    "base_currencies": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 2,
+      "sampleValues": [
+        [
+          "USD",
+          "EUR",
+          "GBP"
+        ],
+        [
+          "USD",
+          "EUR",
+          "GBP",
+          "AUD",
+          "JPY",
+          "CHF"
+        ],
+        [
+          "USD",
+          "EUR",
+          "GBP",
+          "AUD",
+          "JPY",
+          "CHF"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "currency_conversion_fees": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 1,
+      "sampleValues": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dataType": "number"
+    },
+    "inactivity_fees": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 9,
+      "sampleValues": [
+        {
+          "amount": 12,
+          "period": "monthly"
+        },
+        {
+          "amount": 10,
+          "period": "monthly"
+        },
+        {
+          "amount": 10,
+          "period": "monthly"
+        }
+      ],
+      "dataType": "object"
+    },
+    "account_fees": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 7,
+      "sampleValues": [
+        {
+          "deposit_fee": 0,
+          "inactivity_fee": 12,
+          "withdrawal_fee": 0
+        },
+        {
+          "deposit_fee": 0,
+          "inactivity_fee": 10,
+          "withdrawal_fee": 0
+        },
+        {
+          "deposit_fee": 0,
+          "inactivity_fee": 10,
+          "withdrawal_fee": 0
+        }
+      ],
+      "dataType": "object"
+    },
+    "support_channels": {
+      "total": 147,
+      "nullCount": 21,
+      "emptyCount": 0,
+      "populatedCount": 126,
+      "uniqueValues": 21,
+      "sampleValues": [
+        "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\",\"Multilingual\"}",
+        "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\"}",
+        "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\"}"
+      ],
+      "dataType": "string"
+    },
+    "support_languages": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 13,
+      "sampleValues": [
+        [
+          "English",
+          "German",
+          "Spanish",
+          "French",
+          "Italian",
+          "Swedish",
+          "Norwegian",
+          "Danish",
+          "Dutch",
+          "Japanese"
+        ],
+        [
+          "English",
+          "German",
+          "Spanish",
+          "French",
+          "Italian",
+          "Japanese",
+          "Chinese"
+        ],
+        [
+          "English",
+          "German",
+          "Spanish",
+          "French",
+          "Italian",
+          "Swedish",
+          "Norwegian",
+          "Danish",
+          "Dutch"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "support_availability": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 2,
+      "sampleValues": [
+        "24/5",
+        "24/5",
+        "24/5"
+      ],
+      "dataType": "string"
+    },
+    "response_times": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 2,
+      "sampleValues": [
+        {
+          "email": "24 hours",
+          "phone": "5-10 minutes",
+          "tickets": "4-8 hours",
+          "live_chat": "2-5 minutes"
+        },
+        {
+          "email": "24 hours",
+          "phone": "2-5 minutes",
+          "tickets": "2-4 hours",
+          "live_chat": "1-2 minutes"
+        },
+        {
+          "email": "24 hours",
+          "phone": "2-5 minutes",
+          "tickets": "2-4 hours",
+          "live_chat": "1-2 minutes"
+        }
+      ],
+      "dataType": "object"
+    },
+    "regional_offices": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "support_quality_rating": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 1,
+      "sampleValues": [
+        4,
+        4,
+        4
+      ],
+      "dataType": "number"
+    },
+    "educational_materials": {
+      "total": 147,
+      "nullCount": 111,
+      "emptyCount": 0,
+      "populatedCount": 36,
+      "uniqueValues": 13,
+      "sampleValues": [
+        {
+          "resources": [
+            "Trading courses",
+            "Webinars",
+            "Market analysis",
+            "Video tutorials"
+          ]
+        },
+        {
+          "resources": [
+            "Trading guides",
+            "Webinars",
+            "Market analysis",
+            "Video tutorials"
+          ]
+        },
+        {
+          "courses": true,
+          "webinars": true,
+          "market_analysis": true,
+          "trading_signals": true
+        }
+      ],
+      "dataType": "object"
+    },
+    "market_analysis": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "daily_analysis": true,
+          "economic_calendar": true
+        },
+        {
+          "daily_analysis": true,
+          "economic_calendar": true
+        },
+        {
+          "daily_analysis": true,
+          "economic_calendar": true
+        }
+      ],
+      "dataType": "object"
+    },
+    "trading_tools": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 1,
+      "sampleValues": [
+        {
+          "calculators": [
+            "Profit Calculator",
+            "Pip Calculator"
+          ]
+        },
+        {
+          "calculators": [
+            "Profit Calculator",
+            "Pip Calculator"
+          ]
+        },
+        {
+          "calculators": [
+            "Profit Calculator",
+            "Pip Calculator"
+          ]
+        }
+      ],
+      "dataType": "object"
+    },
+    "research_tools": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "educational_videos_count": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 1,
+      "sampleValues": [
+        50,
+        50,
+        50
+      ],
+      "dataType": "number"
+    },
+    "webinar_count": {
+      "total": 147,
+      "nullCount": 131,
+      "emptyCount": 0,
+      "populatedCount": 16,
+      "uniqueValues": 2,
+      "sampleValues": [
+        20,
+        20,
+        20
+      ],
+      "dataType": "number"
+    },
+    "article_count": {
+      "total": 147,
+      "nullCount": 145,
+      "emptyCount": 0,
+      "populatedCount": 2,
+      "uniqueValues": 2,
+      "sampleValues": [
+        1000,
+        1500
+      ],
+      "dataType": "number"
+    },
+    "regulatory_details": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        {
+          "FSCA": {
+            "status": "Active",
+            "license_number": "52224",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          },
+          "MISA": {
+            "status": "Active",
+            "license_number": "SD001",
+            "segregated_funds": true,
+            "compensation_scheme": false
+          },
+          "CySEC": {
+            "status": "Active",
+            "license_number": "372/18",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          }
+        },
+        {
+          "ASIC": {
+            "status": "Active",
+            "license_number": "335692",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          },
+          "FSCA": {
+            "status": "Active",
+            "license_number": "51624",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          },
+          "CySEC": {
+            "status": "Active",
+            "license_number": "362/18",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          }
+        },
+        {
+          "FCA": {
+            "status": "Active",
+            "license_number": "818436",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          },
+          "ASIC": {
+            "status": "Active",
+            "license_number": "280632",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          },
+          "FSCA": {
+            "status": "Active",
+            "license_number": "49952",
+            "segregated_funds": true,
+            "compensation_scheme": true
+          }
+        }
+      ],
+      "dataType": "object"
+    },
+    "license_numbers": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        {
+          "FSCA": "52224",
+          "MISA": "SD001",
+          "CySEC": "372/18"
+        },
+        {
+          "CMA": "0000026",
+          "FSA": "SD058",
+          "FSC": "B44",
+          "SCB": "SIA/FSA/107/2021",
+          "ASIC": "335692",
+          "FSCA": "51624",
+          "CySEC": "362/18"
+        },
+        {
+          "FCA": "818436",
+          "ASIC": "280632",
+          "DFSA": "F003484",
+          "FSCA": "49952"
+        }
+      ],
+      "dataType": "object"
+    },
+    "compensation_scheme": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 2,
+      "sampleValues": [
+        "CySEC Investor Compensation Fund available",
+        "Multiple investor protection funds available",
+        "Multiple investor protection funds available"
+      ],
+      "dataType": "string"
+    },
+    "investor_protection_funds": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        "CySEC Investor Compensation Fund up to €20,000",
+        "Financial Ombudsman Service (FOS), CySEC Investor Compensation Fund, FSCA FSCA Compensation Fund",
+        "Financial Ombudsman Service (FOS), FSCA Compensation Fund, DFSA Deposit Insurance"
+      ],
+      "dataType": "string"
+    },
+    "regulatory_history": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "overall_score": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 20,
+      "sampleValues": [
+        0,
+        0,
+        0
+      ],
+      "dataType": "number"
+    },
+    "trading_conditions_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 8,
+      "sampleValues": [
+        84,
+        78,
+        86
+      ],
+      "dataType": "number"
+    },
+    "platforms_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 4,
+      "sampleValues": [
+        85,
+        85,
+        85
+      ],
+      "dataType": "number"
+    },
+    "customer_support_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 5,
+      "sampleValues": [
+        85,
+        85,
+        85
+      ],
+      "dataType": "number"
+    },
+    "education_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 5,
+      "sampleValues": [
+        85,
+        85,
+        85
+      ],
+      "dataType": "number"
+    },
+    "trust_and_safety_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 17,
+      "sampleValues": [
+        95,
+        92,
+        93
+      ],
+      "dataType": "number"
+    },
+    "value_for_money_score": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 5,
+      "sampleValues": [
+        85,
+        85,
+        85
+      ],
+      "dataType": "number"
+    },
+    "meta_description": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 19,
+      "sampleValues": [
+        "IG Group is a UK-based financial services company offering trading in financial derivatives such as contracts for difference and financial spread betting and, a",
+        "OANDA Corporation is a financial services and trading company specializing in foreign exchange. The company provides market access and trading execution service",
+        "CMC Markets is a UK-based financial services company that offers online trading in shares, indices, foreign exchange, commodities, and treasuries. The company i"
+      ],
+      "dataType": "string"
+    },
+    "meta_keywords": {
+      "total": 147,
+      "nullCount": 128,
+      "emptyCount": 0,
+      "populatedCount": 19,
+      "uniqueValues": 19,
+      "sampleValues": [
+        [
+          "IG Group review",
+          "forex broker",
+          "online trading",
+          "CFD trading"
+        ],
+        [
+          "OANDA review",
+          "forex broker",
+          "online trading",
+          "CFD trading"
+        ],
+        [
+          "CMC Markets review",
+          "forex broker",
+          "online trading",
+          "CFD trading"
+        ]
+      ],
+      "dataType": "array"
+    },
+    "og_title": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        "OctaFX Review 2025: Reliable Forex Broker with Low Deposit",
+        "IC Markets Review 2025: Trusted ECN Forex Broker with Raw Spreads",
+        "Axi Review 2025: Trusted ECN Forex Broker"
+      ],
+      "dataType": "string"
+    },
+    "og_description": {
+      "total": 147,
+      "nullCount": 143,
+      "emptyCount": 0,
+      "populatedCount": 4,
+      "uniqueValues": 4,
+      "sampleValues": [
+        "Comprehensive OctaFX review covering spreads, platforms, regulation, and trading conditions. Is OctaFX the right forex broker for you?",
+        "Comprehensive IC Markets review covering spreads, platforms, regulation, and trading conditions. Is IC Markets the right forex broker for you?",
+        "Comprehensive Axi review covering spreads, platforms, regulation, and trading conditions. Is Axi the right forex broker for you?"
+      ],
+      "dataType": "string"
+    },
+    "og_image_url": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "twitter_card": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "canonical_url": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "schema_markup": {
+      "total": 147,
+      "nullCount": 147,
+      "emptyCount": 0,
+      "populatedCount": 0,
+      "uniqueValues": 0,
+      "sampleValues": [],
+      "dataType": "unknown"
+    },
+    "data_sources": {
+      "total": 147,
+      "nullCount": 141,
+      "emptyCount": 0,
+      "populatedCount": 6,
+      "uniqueValues": 6,
+      "sampleValues": [
+        [
+          {
+            "source_url": "https://www.ig.com",
+            "data_points": [
+              "regulation",
+              "trading_conditions",
+              "platforms",
+              "support"
+            ],
+            "source_name": "Manual Entry",
+            "last_scraped": "2025-09-09T14:50:52.508Z",
+            "confidence_score": 95
+          }
+        ],
+        [
+          {
+            "source_url": "https://www.oanda.com",
+            "data_points": [
+              "regulation",
+              "trading_conditions",
+              "platforms",
+              "support"
+            ],
+            "source_name": "Manual Entry",
+            "last_scraped": "2025-09-09T14:50:52.509Z",
+            "confidence_score": 92
+          }
+        ],
+        {
+          "primary": "https://www.octafx.com",
+          "secondary": [
+            "https://www.forexpeacearmy.com",
+            "https://www.tradingview.com/brokers/octafx/"
+          ]
+        }
+      ],
+      "dataType": "array"
+    },
+    "last_data_update": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 21,
+      "sampleValues": [
+        "2025-09-10T14:22:36.928+00:00",
+        "2025-09-10T14:22:37.297+00:00",
+        "2025-09-10T14:22:35.898+00:00"
+      ],
+      "dataType": "date"
+    },
+    "data_confidence_score": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 2,
+      "sampleValues": [
+        95,
+        95,
+        95
+      ],
+      "dataType": "number"
+    },
+    "is_verified": {
+      "total": 147,
+      "nullCount": 0,
+      "emptyCount": 0,
+      "populatedCount": 147,
+      "uniqueValues": 2,
+      "sampleValues": [
+        false,
+        false,
+        false
+      ],
+      "dataType": "boolean"
+    },
+    "verification_date": {
+      "total": 147,
+      "nullCount": 126,
+      "emptyCount": 0,
+      "populatedCount": 21,
+      "uniqueValues": 21,
+      "sampleValues": [
+        "2025-09-10T14:22:36.928+00:00",
+        "2025-09-10T14:22:37.297+00:00",
+        "2025-09-10T14:22:35.898+00:00"
+      ],
+      "dataType": "date"
+    },
+    "trading_conditions": {
+      "total": 147,
+      "nullCount": 145,
+      "emptyCount": 0,
+      "populatedCount": 2,
+      "uniqueValues": 2,
+      "sampleValues": [
+        {
+          "min_deposit": 0,
+          "order_types": [
+            "Market",
+            "Limit",
+            "Stop",
+            "Trailing Stop",
+            "OCO"
+          ],
+          "spread_type": "variable",
+          "spreads_avg": 0.8,
+          "leverage_max": "1:30",
+          "slippage_rate": 0.1,
+          "execution_type": "Market Maker",
+          "hedging_allowed": true,
+          "maximum_lot_size": 1000,
+          "minimum_lot_size": 0.01,
+          "scalping_allowed": true,
+          "execution_speed_ms": 40,
+          "margin_requirements": {
+            "initial_margin": 3.33,
+            "stop_out_level": 50,
+            "margin_call_level": 100,
+            "maintenance_margin": 1.5
+          },
+          "commission_structure": {
+            "type": "none",
+            "details": "No commission on forex trades"
+          },
+          "expert_advisors_allowed": false
+        },
+        {
+          "min_deposit": 0,
+          "order_types": [
+            "Market",
+            "Limit",
+            "Stop",
+            "Trailing Stop",
+            "OCO",
+            "IFD"
+          ],
+          "spread_type": "variable",
+          "spreads_avg": 1.2,
+          "leverage_max": "1:50",
+          "slippage_rate": 0.15,
+          "execution_type": "Market Maker",
+          "hedging_allowed": true,
+          "maximum_lot_size": 1000000,
+          "minimum_lot_size": 1,
+          "scalping_allowed": true,
+          "execution_speed_ms": 35,
+          "margin_requirements": {
+            "initial_margin": 2,
+            "stop_out_level": 20,
+            "margin_call_level": 100,
+            "maintenance_margin": 1
+          },
+          "commission_structure": {
+            "type": "none",
+            "details": "No commission on standard accounts"
+          },
+          "expert_advisors_allowed": true
+        }
+      ],
+      "dataType": "object"
+    }
+  },
+  "emptyColumns": [
+    {
+      "column": "spread_type",
+      "emptyPercentage": "80.27",
+      "nullCount": 118,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Medium"
+    },
+    {
+      "column": "commission_structure",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Medium"
+    },
+    {
+      "column": "educational_materials",
+      "emptyPercentage": "75.51",
+      "nullCount": 111,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Medium"
+    },
+    {
+      "column": "trading_tools",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Medium"
+    },
+    {
+      "column": "fees",
+      "emptyPercentage": "93.88",
+      "nullCount": 138,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "pros",
+      "emptyPercentage": "74.83",
+      "nullCount": 110,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "cons",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "seo_keywords",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "featured_image_url",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "social_media",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "trading_instruments",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "headquarters_location",
+      "emptyPercentage": "80.95",
+      "nullCount": 0,
+      "emptyCount": 119,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "parent_company",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "business_model",
+      "emptyPercentage": "95.92",
+      "nullCount": 141,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "company_description",
+      "emptyPercentage": "67.35",
+      "nullCount": 98,
+      "emptyCount": 1,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "year_founded",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "employee_count",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "active_traders_count",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "margin_requirements",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "execution_type",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "execution_speed_ms",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "slippage_rate",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "order_types",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "minimum_lot_size",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "maximum_lot_size",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "trading_platforms",
+      "emptyPercentage": "95.92",
+      "nullCount": 141,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "mobile_trading_apps",
+      "emptyPercentage": "95.92",
+      "nullCount": 141,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "web_trading_platforms",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "api_trading",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "standard_account",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "ecn_stp_account",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "islamic_account",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "professional_account",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "demo_account_details",
+      "emptyPercentage": "87.76",
+      "nullCount": 129,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "deposit_methods",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "withdrawal_methods",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "deposit_fees",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "withdrawal_fees",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "processing_times",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "base_currencies",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "currency_conversion_fees",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "inactivity_fees",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "account_fees",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "support_languages",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "support_availability",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "response_times",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "regional_offices",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "support_quality_rating",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "market_analysis",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "research_tools",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "educational_videos_count",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "webinar_count",
+      "emptyPercentage": "89.12",
+      "nullCount": 131,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "article_count",
+      "emptyPercentage": "98.64",
+      "nullCount": 145,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "regulatory_details",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "license_numbers",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    },
+    {
+      "column": "compensation_scheme",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "investor_protection_funds",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "regulatory_history",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "trading_conditions_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "platforms_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "customer_support_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "education_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "trust_and_safety_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "value_for_money_score",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "meta_description",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "meta_keywords",
+      "emptyPercentage": "87.07",
+      "nullCount": 128,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "og_title",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "og_description",
+      "emptyPercentage": "97.28",
+      "nullCount": 143,
+      "emptyCount": 0,
+      "dataType": "string",
+      "priority": "Low"
+    },
+    {
+      "column": "og_image_url",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "twitter_card",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "canonical_url",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "schema_markup",
+      "emptyPercentage": "100.00",
+      "nullCount": 147,
+      "emptyCount": 0,
+      "dataType": "unknown",
+      "priority": "Low"
+    },
+    {
+      "column": "data_sources",
+      "emptyPercentage": "95.92",
+      "nullCount": 141,
+      "emptyCount": 0,
+      "dataType": "array",
+      "priority": "Low"
+    },
+    {
+      "column": "last_data_update",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "date",
+      "priority": "Low"
+    },
+    {
+      "column": "data_confidence_score",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "number",
+      "priority": "Low"
+    },
+    {
+      "column": "verification_date",
+      "emptyPercentage": "85.71",
+      "nullCount": 126,
+      "emptyCount": 0,
+      "dataType": "date",
+      "priority": "Low"
+    },
+    {
+      "column": "trading_conditions",
+      "emptyPercentage": "98.64",
+      "nullCount": 145,
+      "emptyCount": 0,
+      "dataType": "object",
+      "priority": "Low"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "Basic Information",
+      "priority": "High",
+      "columns": [],
+      "action": "Extract from HTML files using enhanced parsing"
+    },
+    {
+      "category": "Trading Conditions",
+      "priority": "High",
+      "columns": [
+        {
+          "column": "spread_type",
+          "emptyPercentage": "80.27",
+          "nullCount": 118,
+          "emptyCount": 0,
+          "dataType": "string",
+          "priority": "Medium"
+        }
+      ],
+      "action": "Extract trading conditions from broker HTML content"
+    },
+    {
+      "category": "Features & Services",
+      "priority": "Medium",
+      "columns": [],
+      "action": "Parse feature sections from HTML files"
+    },
+    {
+      "category": "Enhanced Features",
+      "priority": "Medium",
+      "columns": [],
+      "action": "Extract additional features and search web if needed"
+    },
+    {
+      "category": "SEO & Content",
+      "priority": "Low",
+      "columns": [
+        {
+          "column": "meta_description",
+          "emptyPercentage": "87.07",
+          "nullCount": 128,
+          "emptyCount": 0,
+          "dataType": "string",
+          "priority": "Low"
+        }
+      ],
+      "action": "Generate SEO content based on broker information"
+    }
+  ],
+  "sampleData": [
+    {
+      "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+      "name": "Bdswiss",
+      "slug": "bdswiss",
+      "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+      "country": "which",
+      "established_year": 2021,
+      "website_url": "https://x.com/daily_forex",
+      "affiliate_url": "https://www.bdswiss.com/affiliate",
+      "min_deposit": 10,
+      "spreads_avg": 0,
+      "leverage_max": "0",
+      "platforms": [
+        "MT4",
+        "MT5",
+        "MetaTrader",
+        "cTrader",
+        "WebTrader",
+        "Mobile App"
+      ],
+      "instruments": [
+        "Forex",
+        "CFDs",
+        "Stocks",
+        "Indices",
+        "Commodities",
+        "Cryptocurrencies",
+        "Futures",
+        "Options"
+      ],
+      "regulations": [
+        "ASIC",
+        "FSC"
+      ],
+      "regulation_tier": "unregulated",
+      "trust_score": 100,
+      "fees": null,
+      "avg_rating": 4,
+      "total_reviews": 0,
+      "is_active": true,
+      "featured": false,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "pros": null,
+      "cons": null,
+      "created_at": "2025-09-16T05:27:50.905+00:00",
+      "updated_at": "2025-09-16T05:48:22.02109+00:00",
+      "seo_title": "Bdswiss Review - Detailed Analysis & Rating",
+      "seo_description": "Comprehensive review of Bdswiss. Trust score: 100/100. Min deposit: $10.00. Read detailed analysis.",
+      "seo_keywords": null,
+      "featured_image_url": null,
+      "social_media": null,
+      "trading_instruments": null,
+      "account_types": "{\"Standard\",\"ECN\",\"Islamic\",\"Demo\",\"Professional\",\"VIP\",\"Cent\"}",
+      "headquarters_location": "",
+      "parent_company": null,
+      "business_model": null,
+      "company_description": null,
+      "year_founded": null,
+      "employee_count": null,
+      "active_traders_count": null,
+      "spread_type": null,
+      "commission_structure": null,
+      "margin_requirements": null,
+      "execution_type": null,
+      "execution_speed_ms": null,
+      "slippage_rate": null,
+      "order_types": null,
+      "minimum_lot_size": null,
+      "maximum_lot_size": null,
+      "trading_platforms": null,
+      "mobile_trading_apps": null,
+      "web_trading_platforms": null,
+      "api_trading": null,
+      "vps_hosting": false,
+      "automated_trading": false,
+      "social_trading": false,
+      "copy_trading": false,
+      "standard_account": null,
+      "ecn_stp_account": null,
+      "islamic_account": null,
+      "professional_account": null,
+      "demo_account_details": null,
+      "swap_free": false,
+      "negative_balance_protection": false,
+      "deposit_methods": null,
+      "withdrawal_methods": null,
+      "deposit_fees": null,
+      "withdrawal_fees": null,
+      "processing_times": null,
+      "base_currencies": null,
+      "currency_conversion_fees": null,
+      "inactivity_fees": null,
+      "account_fees": null,
+      "support_channels": "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\",\"Multilingual\"}",
+      "support_languages": null,
+      "support_availability": null,
+      "response_times": null,
+      "regional_offices": null,
+      "support_quality_rating": null,
+      "educational_materials": null,
+      "market_analysis": null,
+      "trading_tools": null,
+      "research_tools": null,
+      "educational_videos_count": null,
+      "webinar_count": null,
+      "article_count": null,
+      "regulatory_details": null,
+      "license_numbers": null,
+      "compensation_scheme": null,
+      "investor_protection_funds": null,
+      "regulatory_history": null,
+      "overall_score": 0,
+      "trading_conditions_score": null,
+      "platforms_score": null,
+      "customer_support_score": null,
+      "education_score": null,
+      "trust_and_safety_score": null,
+      "value_for_money_score": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "og_title": null,
+      "og_description": null,
+      "og_image_url": null,
+      "twitter_card": null,
+      "canonical_url": null,
+      "schema_markup": null,
+      "data_sources": null,
+      "last_data_update": null,
+      "data_confidence_score": null,
+      "is_verified": false,
+      "verification_date": null,
+      "trading_conditions": null
+    },
+    {
+      "id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+      "name": "Binance",
+      "slug": "binance",
+      "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+      "country": "which",
+      "established_year": 2016,
+      "website_url": "https://x.com/daily_forex",
+      "affiliate_url": "https://www.binance.com/affiliate",
+      "min_deposit": 0,
+      "spreads_avg": 0,
+      "leverage_max": "0",
+      "platforms": [
+        "MT4",
+        "MT5",
+        "cTrader",
+        "Mobile App"
+      ],
+      "instruments": [
+        "Forex",
+        "CFDs",
+        "Stocks",
+        "Indices",
+        "Commodities",
+        "Cryptocurrencies",
+        "Futures",
+        "Options"
+      ],
+      "regulations": [
+        "ASIC"
+      ],
+      "regulation_tier": "unregulated",
+      "trust_score": 80,
+      "fees": null,
+      "avg_rating": 0.5,
+      "total_reviews": 0,
+      "is_active": true,
+      "featured": false,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "pros": null,
+      "cons": null,
+      "created_at": "2025-09-16T05:27:51.239+00:00",
+      "updated_at": "2025-09-16T05:48:26.222542+00:00",
+      "seo_title": "Binance Review - Detailed Analysis & Rating",
+      "seo_description": "Comprehensive review of Binance. Trust score: 80/100. Min deposit: $0.00. Read detailed analysis.",
+      "seo_keywords": null,
+      "featured_image_url": null,
+      "social_media": null,
+      "trading_instruments": null,
+      "account_types": "{\"Standard\",\"ECN\",\"STP\",\"Islamic\",\"Demo\",\"Professional\",\"VIP\",\"Cent\"}",
+      "headquarters_location": "",
+      "parent_company": null,
+      "business_model": null,
+      "company_description": null,
+      "year_founded": null,
+      "employee_count": null,
+      "active_traders_count": null,
+      "spread_type": null,
+      "commission_structure": null,
+      "margin_requirements": null,
+      "execution_type": null,
+      "execution_speed_ms": null,
+      "slippage_rate": null,
+      "order_types": null,
+      "minimum_lot_size": null,
+      "maximum_lot_size": null,
+      "trading_platforms": null,
+      "mobile_trading_apps": null,
+      "web_trading_platforms": null,
+      "api_trading": null,
+      "vps_hosting": false,
+      "automated_trading": false,
+      "social_trading": false,
+      "copy_trading": false,
+      "standard_account": null,
+      "ecn_stp_account": null,
+      "islamic_account": null,
+      "professional_account": null,
+      "demo_account_details": null,
+      "swap_free": false,
+      "negative_balance_protection": false,
+      "deposit_methods": null,
+      "withdrawal_methods": null,
+      "deposit_fees": null,
+      "withdrawal_fees": null,
+      "processing_times": null,
+      "base_currencies": null,
+      "currency_conversion_fees": null,
+      "inactivity_fees": null,
+      "account_fees": null,
+      "support_channels": "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\"}",
+      "support_languages": null,
+      "support_availability": null,
+      "response_times": null,
+      "regional_offices": null,
+      "support_quality_rating": null,
+      "educational_materials": null,
+      "market_analysis": null,
+      "trading_tools": null,
+      "research_tools": null,
+      "educational_videos_count": null,
+      "webinar_count": null,
+      "article_count": null,
+      "regulatory_details": null,
+      "license_numbers": null,
+      "compensation_scheme": null,
+      "investor_protection_funds": null,
+      "regulatory_history": null,
+      "overall_score": 0,
+      "trading_conditions_score": null,
+      "platforms_score": null,
+      "customer_support_score": null,
+      "education_score": null,
+      "trust_and_safety_score": null,
+      "value_for_money_score": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "og_title": null,
+      "og_description": null,
+      "og_image_url": null,
+      "twitter_card": null,
+      "canonical_url": null,
+      "schema_markup": null,
+      "data_sources": null,
+      "last_data_update": null,
+      "data_confidence_score": null,
+      "is_verified": false,
+      "verification_date": null,
+      "trading_conditions": null
+    },
+    {
+      "id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+      "name": "Capital",
+      "slug": "capital",
+      "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+      "country": "which",
+      "established_year": 2013,
+      "website_url": "https://x.com/daily_forex",
+      "affiliate_url": "https://www.capital.com/affiliate",
+      "min_deposit": 20,
+      "spreads_avg": 0.6,
+      "leverage_max": "0",
+      "platforms": [
+        "MT4",
+        "MT5",
+        "MetaTrader",
+        "cTrader",
+        "WebTrader",
+        "Mobile App",
+        "iOS",
+        "Android"
+      ],
+      "instruments": [
+        "Forex",
+        "CFDs",
+        "Stocks",
+        "Indices",
+        "Commodities",
+        "Cryptocurrencies",
+        "Futures",
+        "Options"
+      ],
+      "regulations": [
+        "FCA",
+        "ASIC",
+        "CySEC"
+      ],
+      "regulation_tier": "unregulated",
+      "trust_score": 100,
+      "fees": null,
+      "avg_rating": 3,
+      "total_reviews": 0,
+      "is_active": true,
+      "featured": false,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "pros": null,
+      "cons": null,
+      "created_at": "2025-09-16T05:27:51.795+00:00",
+      "updated_at": "2025-09-16T05:48:28.341737+00:00",
+      "seo_title": "Capital Review - Detailed Analysis & Rating",
+      "seo_description": "Comprehensive review of Capital. Trust score: 100/100. Min deposit: $20.00. Read detailed analysis.",
+      "seo_keywords": null,
+      "featured_image_url": null,
+      "social_media": null,
+      "trading_instruments": null,
+      "account_types": "{\"Standard\",\"ECN\",\"STP\",\"Islamic\",\"Demo\",\"Professional\",\"Cent\"}",
+      "headquarters_location": "",
+      "parent_company": null,
+      "business_model": null,
+      "company_description": null,
+      "year_founded": null,
+      "employee_count": null,
+      "active_traders_count": null,
+      "spread_type": null,
+      "commission_structure": null,
+      "margin_requirements": null,
+      "execution_type": null,
+      "execution_speed_ms": null,
+      "slippage_rate": null,
+      "order_types": null,
+      "minimum_lot_size": null,
+      "maximum_lot_size": null,
+      "trading_platforms": null,
+      "mobile_trading_apps": null,
+      "web_trading_platforms": null,
+      "api_trading": null,
+      "vps_hosting": false,
+      "automated_trading": false,
+      "social_trading": false,
+      "copy_trading": false,
+      "standard_account": null,
+      "ecn_stp_account": null,
+      "islamic_account": null,
+      "professional_account": null,
+      "demo_account_details": null,
+      "swap_free": false,
+      "negative_balance_protection": false,
+      "deposit_methods": null,
+      "withdrawal_methods": null,
+      "deposit_fees": null,
+      "withdrawal_fees": null,
+      "processing_times": null,
+      "base_currencies": null,
+      "currency_conversion_fees": null,
+      "inactivity_fees": null,
+      "account_fees": null,
+      "support_channels": "{\"Live Chat\",\"Email\",\"Phone\",\"24/7\"}",
+      "support_languages": null,
+      "support_availability": null,
+      "response_times": null,
+      "regional_offices": null,
+      "support_quality_rating": null,
+      "educational_materials": null,
+      "market_analysis": null,
+      "trading_tools": null,
+      "research_tools": null,
+      "educational_videos_count": null,
+      "webinar_count": null,
+      "article_count": null,
+      "regulatory_details": null,
+      "license_numbers": null,
+      "compensation_scheme": null,
+      "investor_protection_funds": null,
+      "regulatory_history": null,
+      "overall_score": 0,
+      "trading_conditions_score": null,
+      "platforms_score": null,
+      "customer_support_score": null,
+      "education_score": null,
+      "trust_and_safety_score": null,
+      "value_for_money_score": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "og_title": null,
+      "og_description": null,
+      "og_image_url": null,
+      "twitter_card": null,
+      "canonical_url": null,
+      "schema_markup": null,
+      "data_sources": null,
+      "last_data_update": null,
+      "data_confidence_score": null,
+      "is_verified": false,
+      "verification_date": null,
+      "trading_conditions": null
+    },
+    {
+      "id": "d58766a9-0f3b-4651-b365-a98c5f0e23ab",
+      "name": "Brokers Directory List",
+      "slug": "brokers-directory-list",
+      "logo_url": "https://www.brokersdirectorylist.com/logo.png",
+      "country": "which",
+      "established_year": 2016,
+      "website_url": "https://x.com/daily_forex",
+      "affiliate_url": "https://www.brokersdirectorylist.com/affiliate",
+      "min_deposit": 0,
+      "spreads_avg": 0,
+      "leverage_max": "0",
+      "platforms": [
+        "MT4",
+        "MT5",
+        "iOS"
+      ],
+      "instruments": [
+        "Forex",
+        "Stocks",
+        "Indices",
+        "Commodities",
+        "Futures",
+        "Options"
+      ],
+      "regulations": null,
+      "regulation_tier": "unregulated",
+      "trust_score": 50,
+      "fees": null,
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "is_active": true,
+      "featured": false,
+      "description": "A Forex broker is not technically a requirement to trade Forex, but practically it is the most efficient and effective method. Serious retail traders and professionals must use a Forex broker, like the ones reviewed here, but other ways exist for those requiring infrequent Forex trades.",
+      "pros": null,
+      "cons": null,
+      "created_at": "2025-09-16T05:27:51.643+00:00",
+      "updated_at": "2025-09-16T05:48:30.452204+00:00",
+      "seo_title": "Brokers Directory List Review - Detailed Analysis & Rating",
+      "seo_description": "Comprehensive review of Brokers Directory List. Trust score: 50/100. Min deposit: $0.00. Read detailed analysis.",
+      "seo_keywords": null,
+      "featured_image_url": null,
+      "social_media": null,
+      "trading_instruments": null,
+      "account_types": "{\"ECN\",\"Islamic\",\"Demo\",\"Professional\",\"Cent\"}",
+      "headquarters_location": "",
+      "parent_company": null,
+      "business_model": null,
+      "company_description": null,
+      "year_founded": null,
+      "employee_count": null,
+      "active_traders_count": null,
+      "spread_type": null,
+      "commission_structure": null,
+      "margin_requirements": null,
+      "execution_type": null,
+      "execution_speed_ms": null,
+      "slippage_rate": null,
+      "order_types": null,
+      "minimum_lot_size": null,
+      "maximum_lot_size": null,
+      "trading_platforms": null,
+      "mobile_trading_apps": null,
+      "web_trading_platforms": null,
+      "api_trading": null,
+      "vps_hosting": false,
+      "automated_trading": false,
+      "social_trading": false,
+      "copy_trading": false,
+      "standard_account": null,
+      "ecn_stp_account": null,
+      "islamic_account": null,
+      "professional_account": null,
+      "demo_account_details": null,
+      "swap_free": false,
+      "negative_balance_protection": false,
+      "deposit_methods": null,
+      "withdrawal_methods": null,
+      "deposit_fees": null,
+      "withdrawal_fees": null,
+      "processing_times": null,
+      "base_currencies": null,
+      "currency_conversion_fees": null,
+      "inactivity_fees": null,
+      "account_fees": null,
+      "support_channels": "{\"Email\"}",
+      "support_languages": null,
+      "support_availability": null,
+      "response_times": null,
+      "regional_offices": null,
+      "support_quality_rating": null,
+      "educational_materials": null,
+      "market_analysis": null,
+      "trading_tools": null,
+      "research_tools": null,
+      "educational_videos_count": null,
+      "webinar_count": null,
+      "article_count": null,
+      "regulatory_details": null,
+      "license_numbers": null,
+      "compensation_scheme": null,
+      "investor_protection_funds": null,
+      "regulatory_history": null,
+      "overall_score": 0,
+      "trading_conditions_score": null,
+      "platforms_score": null,
+      "customer_support_score": null,
+      "education_score": null,
+      "trust_and_safety_score": null,
+      "value_for_money_score": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "og_title": null,
+      "og_description": null,
+      "og_image_url": null,
+      "twitter_card": null,
+      "canonical_url": null,
+      "schema_markup": null,
+      "data_sources": null,
+      "last_data_update": null,
+      "data_confidence_score": null,
+      "is_verified": false,
+      "verification_date": null,
+      "trading_conditions": null
+    },
+    {
+      "id": "8164c2e3-6e80-40d6-8522-ded7fbcd444f",
+      "name": "Blackbull",
+      "slug": "blackbull",
+      "logo_url": "https://www.blackbull.com/logo.png",
+      "country": "Switzerland",
+      "established_year": 2011,
+      "website_url": "https://www.blackbull.com",
+      "affiliate_url": "https://www.blackbull.com/affiliate",
+      "min_deposit": 0,
+      "spreads_avg": 0,
+      "leverage_max": "0",
+      "platforms": null,
+      "instruments": null,
+      "regulations": null,
+      "regulation_tier": "unregulated",
+      "trust_score": null,
+      "fees": null,
+      "avg_rating": 4.7,
+      "total_reviews": 0,
+      "is_active": true,
+      "featured": false,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "pros": null,
+      "cons": null,
+      "created_at": "2025-09-16T05:27:51.406+00:00",
+      "updated_at": "2025-09-16T05:48:32.551685+00:00",
+      "seo_title": "Blackbull Review - Detailed Analysis & Rating",
+      "seo_description": null,
+      "seo_keywords": null,
+      "featured_image_url": null,
+      "social_media": null,
+      "trading_instruments": null,
+      "account_types": null,
+      "headquarters_location": "",
+      "parent_company": null,
+      "business_model": null,
+      "company_description": null,
+      "year_founded": null,
+      "employee_count": null,
+      "active_traders_count": null,
+      "spread_type": null,
+      "commission_structure": null,
+      "margin_requirements": null,
+      "execution_type": null,
+      "execution_speed_ms": null,
+      "slippage_rate": null,
+      "order_types": null,
+      "minimum_lot_size": null,
+      "maximum_lot_size": null,
+      "trading_platforms": null,
+      "mobile_trading_apps": null,
+      "web_trading_platforms": null,
+      "api_trading": null,
+      "vps_hosting": false,
+      "automated_trading": false,
+      "social_trading": false,
+      "copy_trading": false,
+      "standard_account": null,
+      "ecn_stp_account": null,
+      "islamic_account": null,
+      "professional_account": null,
+      "demo_account_details": null,
+      "swap_free": false,
+      "negative_balance_protection": false,
+      "deposit_methods": null,
+      "withdrawal_methods": null,
+      "deposit_fees": null,
+      "withdrawal_fees": null,
+      "processing_times": null,
+      "base_currencies": null,
+      "currency_conversion_fees": null,
+      "inactivity_fees": null,
+      "account_fees": null,
+      "support_channels": null,
+      "support_languages": null,
+      "support_availability": null,
+      "response_times": null,
+      "regional_offices": null,
+      "support_quality_rating": null,
+      "educational_materials": null,
+      "market_analysis": null,
+      "trading_tools": null,
+      "research_tools": null,
+      "educational_videos_count": null,
+      "webinar_count": null,
+      "article_count": null,
+      "regulatory_details": null,
+      "license_numbers": null,
+      "compensation_scheme": null,
+      "investor_protection_funds": null,
+      "regulatory_history": null,
+      "overall_score": 0,
+      "trading_conditions_score": null,
+      "platforms_score": null,
+      "customer_support_score": null,
+      "education_score": null,
+      "trust_and_safety_score": null,
+      "value_for_money_score": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "og_title": null,
+      "og_description": null,
+      "og_image_url": null,
+      "twitter_card": null,
+      "canonical_url": null,
+      "schema_markup": null,
+      "data_sources": null,
+      "last_data_update": null,
+      "data_confidence_score": null,
+      "is_verified": false,
+      "verification_date": null,
+      "trading_conditions": null
+    }
+  ],
+  "nextSteps": [
+    "1. Extract missing basic information from HTML files",
+    "2. Parse trading conditions and features",
+    "3. Generate missing SEO content",
+    "4. Search web for information not available locally",
+    "5. Update database with complete information"
+  ]
+}

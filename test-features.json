@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "broker_id": 1,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at Admirals",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 2,
+    "broker_id": 1,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Admirals",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 3,
+    "broker_id": 1,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Admirals",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 4,
+    "broker_id": 2,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at Pepperstone",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 5,
+    "broker_id": 2,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at Pepperstone",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 6,
+    "broker_id": 2,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at Pepperstone",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 7,
+    "broker_id": 2,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Pepperstone",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 8,
+    "broker_id": 2,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at Pepperstone",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.905Z"
+  },
+  {
+    "id": 9,
+    "broker_id": 2,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Pepperstone",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 10,
+    "broker_id": 3,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at IC Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 11,
+    "broker_id": 3,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at IC Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 12,
+    "broker_id": 3,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at IC Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 13,
+    "broker_id": 3,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at IC Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 14,
+    "broker_id": 3,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at IC Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 15,
+    "broker_id": 3,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at IC Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 16,
+    "broker_id": 4,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at FP Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 17,
+    "broker_id": 4,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at FP Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 18,
+    "broker_id": 4,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at FP Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 19,
+    "broker_id": 4,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at FP Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 20,
+    "broker_id": 4,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at FP Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 21,
+    "broker_id": 5,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at AxiTrader",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 22,
+    "broker_id": 5,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at AxiTrader",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 23,
+    "broker_id": 5,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at AxiTrader",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 24,
+    "broker_id": 5,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at AxiTrader",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 25,
+    "broker_id": 5,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at AxiTrader",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 26,
+    "broker_id": 6,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at FxPro",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 27,
+    "broker_id": 6,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at FxPro",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 28,
+    "broker_id": 6,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at FxPro",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 29,
+    "broker_id": 6,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at FxPro",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 30,
+    "broker_id": 6,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at FxPro",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 31,
+    "broker_id": 7,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at OctaFX",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 32,
+    "broker_id": 7,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at OctaFX",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 33,
+    "broker_id": 7,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at OctaFX",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 34,
+    "broker_id": 7,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at OctaFX",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 35,
+    "broker_id": 7,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at OctaFX",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 36,
+    "broker_id": 8,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at FXTM",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 37,
+    "broker_id": 8,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at FXTM",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 38,
+    "broker_id": 8,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at FXTM",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 39,
+    "broker_id": 9,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at HotForex",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 40,
+    "broker_id": 9,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at HotForex",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 41,
+    "broker_id": 9,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at HotForex",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 42,
+    "broker_id": 9,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at HotForex",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 43,
+    "broker_id": 9,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at HotForex",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 44,
+    "broker_id": 9,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at HotForex",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 45,
+    "broker_id": 10,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at XM.com",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 46,
+    "broker_id": 10,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at XM.com",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 47,
+    "broker_id": 10,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at XM.com",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 48,
+    "broker_id": 10,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at XM.com",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 49,
+    "broker_id": 10,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at XM.com",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 50,
+    "broker_id": 10,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at XM.com",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 51,
+    "broker_id": 11,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at Tickmill",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 52,
+    "broker_id": 11,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Tickmill",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 53,
+    "broker_id": 11,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Tickmill",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 54,
+    "broker_id": 12,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at BlackBull Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 55,
+    "broker_id": 12,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at BlackBull Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 56,
+    "broker_id": 12,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at BlackBull Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 57,
+    "broker_id": 12,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at BlackBull Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 58,
+    "broker_id": 12,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at BlackBull Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 59,
+    "broker_id": 12,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at BlackBull Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 60,
+    "broker_id": 13,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Admiral Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 61,
+    "broker_id": 13,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Admiral Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 62,
+    "broker_id": 13,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at Admiral Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 63,
+    "broker_id": 13,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at Admiral Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 64,
+    "broker_id": 13,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at Admiral Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 65,
+    "broker_id": 13,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at Admiral Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 66,
+    "broker_id": 14,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at IG Group",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 67,
+    "broker_id": 14,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at IG Group",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 68,
+    "broker_id": 14,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at IG Group",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 69,
+    "broker_id": 14,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at IG Group",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 70,
+    "broker_id": 14,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at IG Group",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 71,
+    "broker_id": 14,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at IG Group",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 72,
+    "broker_id": 15,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at CMC Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 73,
+    "broker_id": 15,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at CMC Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 74,
+    "broker_id": 15,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at CMC Markets",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 75,
+    "broker_id": 15,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at CMC Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 76,
+    "broker_id": 15,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at CMC Markets",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 77,
+    "broker_id": 15,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at CMC Markets",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 78,
+    "broker_id": 16,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at City Index",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 79,
+    "broker_id": 16,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at City Index",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 80,
+    "broker_id": 16,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at City Index",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 81,
+    "broker_id": 16,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at City Index",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 82,
+    "broker_id": 16,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at City Index",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 83,
+    "broker_id": 16,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at City Index",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 84,
+    "broker_id": 17,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Saxo Bank",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 85,
+    "broker_id": 17,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at Saxo Bank",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 86,
+    "broker_id": 17,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Saxo Bank",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 87,
+    "broker_id": 17,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at Saxo Bank",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 88,
+    "broker_id": 17,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at Saxo Bank",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 89,
+    "broker_id": 17,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at Saxo Bank",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 90,
+    "broker_id": 18,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at Interactive Brokers",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 91,
+    "broker_id": 18,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at Interactive Brokers",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 92,
+    "broker_id": 18,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at Interactive Brokers",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 93,
+    "broker_id": 18,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at Interactive Brokers",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 94,
+    "broker_id": 18,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at Interactive Brokers",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 95,
+    "broker_id": 19,
+    "feature_name": "Fast Execution",
+    "feature_type": "Trading Feature",
+    "description": "Fast Execution available at TD Ameritrade",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 96,
+    "broker_id": 19,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at TD Ameritrade",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 97,
+    "broker_id": 19,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at TD Ameritrade",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 98,
+    "broker_id": 19,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at TD Ameritrade",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 99,
+    "broker_id": 19,
+    "feature_name": "Negative Balance Protection",
+    "feature_type": "Safety Feature",
+    "description": "Negative Balance Protection available at TD Ameritrade",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 100,
+    "broker_id": 19,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at TD Ameritrade",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 101,
+    "broker_id": 20,
+    "feature_name": "High Leverage",
+    "feature_type": "Trading Feature",
+    "description": "High Leverage available at OANDA",
+    "availability": true,
+    "category": "Trading Tools",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 102,
+    "broker_id": 20,
+    "feature_name": "No Commission",
+    "feature_type": "Trading Condition",
+    "description": "No Commission available at OANDA",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 103,
+    "broker_id": 20,
+    "feature_name": "Segregated Funds",
+    "feature_type": "Safety Feature",
+    "description": "Segregated Funds available at OANDA",
+    "availability": true,
+    "category": "Safety & Security",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  },
+  {
+    "id": 104,
+    "broker_id": 20,
+    "feature_name": "Low Spreads",
+    "feature_type": "Trading Condition",
+    "description": "Low Spreads available at OANDA",
+    "availability": true,
+    "category": "Trading Costs",
+    "created_at": "2025-09-16T05:05:18.906Z"
+  }
+]

@@ -1,0 +1,274 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Main broker information
+model Broker {
+  id                  String    @id @default(uuid()) @db.Uuid
+  name                String    @unique @db.VarChar(255)
+  slug                String    @unique @db.VarChar(255)
+  logo_url            String?   @db.Text
+  website_url         String?   @db.Text
+  description         String?   @db.Text
+  short_description   String?   @db.Text
+  rating              Decimal   @default(0.00) @db.Decimal(3, 2)
+  review_count        Int       @default(0)
+  featured_status     Boolean   @default(false)
+  min_deposit         Decimal   @default(0.00) @db.Decimal(15, 2)
+  min_deposit_currency String    @default("USD") @db.VarChar(3)
+  spread_type         String    @default("Variable") @db.VarChar(50)
+  typical_spread      Decimal?  @db.Decimal(10, 4)
+  max_leverage        Int       @default(0)
+  established_year    Int?
+  headquarters        String?   @db.VarChar(255)
+  company_size        String?   @db.VarChar(100)
+  total_assets        Decimal?  @db.Decimal(20, 2)
+  active_traders      Int?
+  meta_title          String?   @db.Text
+  meta_description    String?   @db.Text
+  affiliate_link      String?   @db.Text
+  status              String    @default("active") @db.VarChar(20)
+  created_at          DateTime  @default(now()) @db.Timestamptz
+  updated_at          DateTime  @updatedAt @db.Timestamptz
+
+  // Relations
+  regulations         BrokerRegulation[]
+  features            BrokerFeature[]
+  trading_conditions  BrokerTradingCondition[]
+  account_types       BrokerAccountType[]
+  platforms           BrokerPlatform[]
+  payment_methods     BrokerPaymentMethod[]
+  support             BrokerSupport[]
+  education           BrokerEducation[]
+  reviews             BrokerReview[]
+  affiliate_links     BrokerAffiliateLink[]
+  promotions          BrokerPromotion[]
+
+  @@map("brokers")
+}
+
+// Broker regulatory information
+model BrokerRegulation {
+  id                String    @id @default(uuid()) @db.Uuid
+  broker_id         String    @db.Uuid
+  regulatory_body   String    @db.VarChar(255)
+  license_number    String?   @db.VarChar(100)
+  regulation_status String    @default("Regulated") @db.VarChar(50)
+  verification_date DateTime? @db.Date
+  jurisdiction      String?   @db.VarChar(100)
+  created_at        DateTime  @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, regulatory_body, jurisdiction])
+  @@map("broker_regulations")
+}
+
+// Broker features and services
+model BrokerFeature {
+  id           String    @id @default(uuid()) @db.Uuid
+  broker_id    String    @db.Uuid
+  feature_name String  @db.VarChar(255)
+  feature_type String  @db.VarChar(100)
+  description  String? @db.Text
+  availability Boolean @default(true)
+  category     String? @db.VarChar(100)
+  created_at   DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, feature_name])
+  @@map("broker_features")
+}
+
+// Broker trading conditions
+model BrokerTradingCondition {
+  id              String    @id @default(uuid()) @db.Uuid
+  broker_id       String    @db.Uuid
+  instrument_type String  @db.VarChar(100)
+  min_spread      Decimal? @db.Decimal(10, 4)
+  typical_spread  Decimal? @db.Decimal(10, 4)
+  max_leverage    Int?
+  commission_rate Decimal? @db.Decimal(10, 4)
+  commission_type String  @default("per_lot") @db.VarChar(50)
+  min_trade_size  Decimal? @db.Decimal(15, 2)
+  swap_rates      String?  @db.Text // JSON for long/short swap rates
+  created_at      DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, instrument_type])
+  @@map("broker_trading_conditions")
+}
+
+// Broker account types
+model BrokerAccountType {
+  id               String    @id @default(uuid()) @db.Uuid
+  broker_id        String    @db.Uuid
+  account_name     String   @db.VarChar(255)
+  account_type     String?  @db.VarChar(100)
+  min_deposit      Decimal? @db.Decimal(15, 2)
+  min_deposit_currency String  @default("USD") @db.VarChar(3)
+  spread_type      String?  @db.VarChar(50)
+  commission       Decimal? @db.Decimal(10, 4)
+  leverage         Int?
+  islamic_account  Boolean  @default(false)
+  demo_available   Boolean  @default(true)
+  features         String?  @db.Text // JSON array of features
+  created_at       DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, account_name])
+  @@map("broker_account_types")
+}
+
+// Broker trading platforms
+model BrokerPlatform {
+  id              String    @id @default(uuid()) @db.Uuid
+  broker_id       String    @db.Uuid
+  platform_name   String   @db.VarChar(255)
+  platform_type   String?  @db.VarChar(100)
+  version         String?  @db.VarChar(50)
+  web_trading     Boolean  @default(false)
+  mobile_trading  Boolean  @default(false)
+  desktop_trading Boolean  @default(false)
+  features        String?  @db.Text // JSON array of features
+  download_url    String?  @db.Text
+  created_at      DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, platform_name])
+  @@map("broker_platforms")
+}
+
+// Broker payment methods
+model BrokerPaymentMethod {
+  id             String    @id @default(uuid()) @db.Uuid
+  broker_id      String    @db.Uuid
+  payment_method String   @db.VarChar(255)
+  currency       String?  @db.VarChar(10)
+  min_amount     Decimal? @db.Decimal(15, 2)
+  max_amount     Decimal? @db.Decimal(15, 2)
+  processing_time String?  @db.VarChar(100)
+  fees           String?  @db.Text // JSON for fee structure
+  deposit        Boolean  @default(true)
+  withdrawal     Boolean  @default(true)
+  created_at     DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, payment_method, currency])
+  @@map("broker_payment_methods")
+}
+
+// Broker customer support
+model BrokerSupport {
+  id             String    @id @default(uuid()) @db.Uuid
+  broker_id      String    @db.Uuid
+  support_type   String   @db.VarChar(100) // 'phone', 'email', 'live_chat', 'ticket'
+  contact_info   String?  @db.VarChar(255)
+  availability   String?  @db.VarChar(100)
+  languages      String?  @db.Text // JSON array of supported languages
+  response_time  String?  @db.VarChar(100)
+  created_at     DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@unique([broker_id, support_type])
+  @@map("broker_support")
+}
+
+// Broker educational resources
+model BrokerEducation {
+  id               String    @id @default(uuid()) @db.Uuid
+  broker_id        String    @db.Uuid
+  resource_type    String   @db.VarChar(100) // 'webinar', 'course', 'article', 'video', 'ebook'
+  title            String   @db.VarChar(255)
+  description      String?  @db.Text
+  url              String?  @db.Text
+  difficulty_level String?  @db.VarChar(50)
+  duration         String?  @db.VarChar(100)
+  language         String?  @db.VarChar(50)
+  created_at       DateTime @default(now()) @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@map("broker_education")
+}
+
+// User reviews
+model BrokerReview {
+  id              String    @id @default(uuid()) @db.Uuid
+  broker_id       String    @db.Uuid
+  user_id         String?   @db.Uuid    // Will reference Clerk users when implemented
+  username        String?  @db.VarChar(255)
+  email           String?  @db.VarChar(255)
+  rating          Int      // 1-5
+  review_text     String?  @db.Text
+  trading_experience Int?   // 0-20 years
+  account_type    String?  @db.VarChar(100)
+  verified_status Boolean  @default(false)
+  approved        Boolean  @default(false)
+  helpful_count   Int      @default(0)
+  reported_count  Int      @default(0)
+  created_at      DateTime @default(now()) @db.Timestamptz
+  updated_at      DateTime @updatedAt @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@map("broker_reviews")
+}
+
+// Affiliate links and tracking
+model BrokerAffiliateLink {
+  id               String    @id @default(uuid()) @db.Uuid
+  broker_id        String    @db.Uuid
+  link_url         String   @db.Text
+  tracking_code    String?  @db.VarChar(255)
+  commission_rate  Decimal? @db.Decimal(10, 4)
+  commission_type  String   @default("cpa") @db.VarChar(50)
+  active_status    Boolean  @default(true)
+  geo_targeting    String?  @db.Text // JSON for geo-specific targeting
+  device_targeting String? @db.Text // JSON for device-specific targeting
+  click_count      Int      @default(0)
+  conversion_count Int      @default(0)
+  created_at       DateTime @default(now()) @db.Timestamptz
+  updated_at       DateTime @updatedAt @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@map("broker_affiliate_links")
+}
+
+// Broker promotions and bonuses
+model BrokerPromotion {
+  id                 String    @id @default(uuid()) @db.Uuid
+  broker_id          String    @db.Uuid
+  title              String   @db.VarChar(255)
+  description        String?  @db.Text
+  promotion_type     String?  @db.VarChar(100)
+  bonus_amount       Decimal? @db.Decimal(15, 2)
+  bonus_currency     String   @default("USD") @db.VarChar(3)
+  min_deposit        Decimal? @db.Decimal(15, 2)
+  wagering_requirement Int?
+  start_date         DateTime? @db.Date
+  end_date           DateTime? @db.Date
+  terms_conditions   String?  @db.Text
+  active_status      Boolean  @default(true)
+  created_at         DateTime @default(now()) @db.Timestamptz
+  updated_at         DateTime @updatedAt @db.Timestamptz
+
+  broker Broker @relation(fields: [broker_id], references: [id], onDelete: Cascade)
+
+  @@map("broker_promotions")
+}

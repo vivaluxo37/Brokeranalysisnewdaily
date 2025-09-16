@@ -1,0 +1,172 @@
+{
+  "component": "BrokerComparison",
+  "tests": [
+    {
+      "name": "Comparison Data Structure Test",
+      "status": "passed",
+      "startTime": 1757999319523,
+      "details": {
+        "comparisonBrokersCount": 10,
+        "requiredFields": [
+          "id",
+          "name",
+          "rating",
+          "min_deposit",
+          "typical_spread",
+          "max_leverage",
+          "platforms",
+          "regulations",
+          "affiliate_link"
+        ],
+        "missingFields": [],
+        "averageRating": "4.10",
+        "message": "All required fields present for comparison"
+      },
+      "endTime": 1757999319525,
+      "duration": 2
+    },
+    {
+      "name": "Comparison Table Structure Test",
+      "status": "passed",
+      "startTime": 1757999319525,
+      "details": {
+        "comparisonColumns": 8,
+        "compatibilityIssues": 0,
+        "tableStructure": "Responsive grid layout",
+        "message": "All brokers compatible with comparison table"
+      },
+      "endTime": 1757999319528,
+      "duration": 3
+    },
+    {
+      "name": "Comparison Sorting Test",
+      "status": "passed",
+      "startTime": 1757999319528,
+      "details": {
+        "sortableFields": 3,
+        "sortingTests": [
+          {
+            "field": "rating",
+            "ascendingValid": true,
+            "descendingValid": true
+          },
+          {
+            "field": "min_deposit",
+            "ascendingValid": true,
+            "descendingValid": true
+          },
+          {
+            "field": "max_leverage",
+            "ascendingValid": true,
+            "descendingValid": true
+          }
+        ],
+        "failedSorts": 0,
+        "message": "All sorting functions work correctly"
+      },
+      "endTime": 1757999319530,
+      "duration": 2
+    },
+    {
+      "name": "Comparison Filtering Test",
+      "status": "passed",
+      "startTime": 1757999319530,
+      "details": {
+        "filterTests": 4,
+        "filterResults": [
+          {
+            "name": "Regulation Filter",
+            "actualCount": 4,
+            "expectedCount": 4,
+            "success": true
+          },
+          {
+            "name": "Platform Filter",
+            "actualCount": 7,
+            "expectedCount": 7,
+            "success": true
+          },
+          {
+            "name": "Min Deposit Filter",
+            "actualCount": 5,
+            "expectedCount": 5,
+            "success": true
+          },
+          {
+            "name": "Rating Filter",
+            "actualCount": 6,
+            "expectedCount": 6,
+            "success": true
+          }
+        ],
+        "failedFilters": 0,
+        "message": "All filter functions work correctly"
+      },
+      "endTime": 1757999319531,
+      "duration": 1
+    },
+    {
+      "name": "Comparison Performance Test",
+      "status": "passed",
+      "startTime": 1757999319531,
+      "details": {
+        "performanceResults": [
+          {
+            "brokerCount": 10,
+            "duration": 0,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 25,
+            "duration": 1,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 50,
+            "duration": 0,
+            "acceptable": true
+          },
+          {
+            "brokerCount": 100,
+            "duration": 0,
+            "acceptable": true
+          }
+        ],
+        "totalTests": 4,
+        "failedTests": 0,
+        "message": "All performance tests within acceptable limits"
+      },
+      "endTime": 1757999319533,
+      "duration": 2
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "successRate": "100.00%"
+  },
+  "comparisonData": {},
+  "performance": {
+    "totalDuration": "10 ms",
+    "averageDuration": "2 ms"
+  },
+  "issues": [],
+  "recommendations": [
+    {
+      "priority": "Medium",
+      "issue": "User experience",
+      "recommendation": "Add loading states and error handling for comparison features"
+    }
+  ],
+  "generatedAt": "2025-09-16T05:08:39.536Z",
+  "testDataInfo": {
+    "file": "test-broker-data.json",
+    "totalBrokers": 20,
+    "comparisonBrokers": 10
+  },
+  "filesGenerated": [
+    "broker-comparison-test.html",
+    "broker-comparison-test-results.json"
+  ]
+}

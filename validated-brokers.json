@@ -1,0 +1,3152 @@
+{
+  "metadata": {
+    "validatedAt": "2025-09-16T04:53:58.027Z",
+    "validationStats": {
+      "total": 118,
+      "valid": 117,
+      "invalid": 1,
+      "totalErrors": 1,
+      "totalWarnings": 2,
+      "topErrors": {
+        "name": 1
+      },
+      "topWarnings": {
+        "regulations": 2
+      }
+    },
+    "totalProcessed": 118,
+    "validRecords": 117,
+    "invalidRecords": 1
+  },
+  "validBrokers": [
+    {
+      "name": "url",
+      "rating": 1.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 100,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/admiral markets efsa primary regulator.png\" lazy=loading title=\"Admiral Markets EFSA Primary regulator\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "//www.dailyforex.com/files/admiral markets additional regulators.png\" lazy=loading title=\"Markets additional regulators\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.802Z",
+      "sourceFile": "admirals-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\admirals-review.html",
+      "fileSize": 479573,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:57.999Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "justify>Minimum Deposit"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.822Z",
+      "sourceFile": "alpari-international-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\alpari-international-review.html",
+      "fileSize": 494003,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.000Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:48.841Z",
+      "sourceFile": "apex-trader-funding-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\apex-trader-funding-review.html",
+      "fileSize": 481488,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.001Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.6,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 100,
+      "spread": 0.9,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "400 for retail traders.",
+        "\"AvaTrade does not operate in the"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.860Z",
+      "sourceFile": "avatrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\avatrade-review.html",
+      "fileSize": 523776,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.001Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.3,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 4,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "1 for shares."
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.912Z",
+      "sourceFile": "axitrader-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\axitrader-review.html",
+      "fileSize": 1884573,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.001Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"BDSwiss processes withdrawal requests within 24 hours.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.931Z",
+      "sourceFile": "bdswiss-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\bdswiss-review.html",
+      "fileSize": 479659,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.001Z"
+    },
+    {
+      "name": "Top Regulated Forex Brokers & Trading Platforms",
+      "rating": 0,
+      "description": "I’m a trader and manage my own capital. I trade the major Forex pairs, some Futures contracts, and I rely entirely on Technical Analysis to place my trades. Today, I am also a Senior Analyst for DailyForex.com. I began trading the markets in the early 1990s, at the age of sixteen. I had a few hundred British pounds saved up (I grew up in England), with which I was able to open a small account with some help from my Dad. I started my trading j...",
+      "minDeposit": 100,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "this",
+        "Tier",
+        "a",
+        "//assets.dailyforex.com/files/mainlisting1.webp lazy=loading src=../images/placeholder.svg title=\"Example of Regulator Showing Broker Authorisation\">",
+        "\"A regulated broker is a broker which has"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Micro Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.944Z",
+      "sourceFile": "best-forex-brokers.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\best-forex-brokers.html",
+      "fileSize": 529378,
+      "slug": "top-regulated-forex-brokers-trading-platforms",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Binance has licenses from 18 regulators"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.962Z",
+      "sourceFile": "binance-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\binance-review.html",
+      "fileSize": 475341,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.7,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Forex commissions at BlackBull Markets are between $4.00 and $6.00 per 1.0 standard round lot"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:48.979Z",
+      "sourceFile": "blackbull-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\blackbull-markets-review.html",
+      "fileSize": 487891,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "Top Forex Brokers List",
+      "rating": 0,
+      "description": "A Forex broker is not technically a requirement to trade Forex, but practically it is the most efficient and effective method. Serious retail traders and professionals must use a Forex broker, like the ones reviewed here, but other ways exist for those requiring infrequent Forex trades.",
+      "leverage": "0",
+      "regulations": [
+        "\"The best MT4 Forex brokers offer fast order execution"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:48.992Z",
+      "sourceFile": "brokers-directory-list.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\brokers-directory-list.html",
+      "fileSize": 342702,
+      "slug": "top-forex-brokers-list",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 20,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/pc1.jpg lazy=loading title=\"Capital.com Regulators\" class=LazyLoading src=../images/placeholder.svg>",
+        "\"Yes",
+        "\"Is Capital.com the right Forex broker for you? Find out what you can trade",
+        "//www.dailyforex.com\"}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.008Z",
+      "sourceFile": "capital-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\capital-review.html",
+      "fileSize": 481362,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.030Z",
+      "sourceFile": "cfi-trade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\cfi-trade-review.html",
+      "fileSize": 477790,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.002Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "spread": null,
+      "leverage": "400",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.047Z",
+      "sourceFile": "cft-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\cft-review.html",
+      "fileSize": 483430,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.5,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Spreads are as low as 0.5 pips for currency pairs and 1.0 points on indices. Equity CFDs carry a fee of 0.08% with a minimum of £10 or the currency equivalent.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Web Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.068Z",
+      "sourceFile": "city-index-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\city-index-review.html",
+      "fileSize": 455966,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 3,
+      "spread": 0.7,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.100Z",
+      "sourceFile": "cmc-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\cmc-markets-review.html",
+      "fileSize": 468055,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 1.2,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "center>CMTrading maintains a clean regulatory track record with two competitive regulators",
+        "//www.dailyforex.com/files/cm trading regulators.png\" lazy=loading title=\"CM Trading Regulators\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "\"CMTrading is the trading name of GCMT SOUTH AFRICA PTY LTD"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Web Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.125Z",
+      "sourceFile": "cmtrading-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\cmtrading-review.html",
+      "fileSize": 461113,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/coinbase review regulatory oversight.png\" lazy=loading title=\"Coinbase Review regulatory oversight\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.150Z",
+      "sourceFile": "coinbase-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\coinbase-review.html",
+      "fileSize": 525184,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "Best Forex Brokers that Accept Credit Cards",
+      "rating": 0,
+      "description": "Christopher Lewis has been trading Forex and has over 20 years experience in financial markets. Chris has been a regular contributor to Daily Forex since the early days of the site. He writes about Forex for several online publications, including FX Empire, Investing.com, and his own site, aptly named The Trader Guy. Chris favours technical analysis methods to identify his trades and likes to trade equity indices and commodities as well as Forex...",
+      "minDeposit": 100,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.167Z",
+      "sourceFile": "credit-card-brokers.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\credit-card-brokers.html",
+      "fileSize": 465712,
+      "slug": "best-forex-brokers-that-accept-credit-cards",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.8,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Crypto.com is the most secure cryptocurrency exchange and very trustworthy. Unlike competitors"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.186Z",
+      "sourceFile": "crypto-com-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\crypto-com-review.html",
+      "fileSize": 472840,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.205Z",
+      "sourceFile": "ctrader-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ctrader-review.html",
+      "fileSize": 488449,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.8,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 16,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "justify id=toc-header-0-13 class=\"c-title-sections JS-anchor\">Opening an Account"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.228Z",
+      "sourceFile": "degiro-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\degiro-review.html",
+      "fileSize": 474848,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 5,
+      "spread": 0.5,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "\"No"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.248Z",
+      "sourceFile": "deriv-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\deriv-review.html",
+      "fileSize": 465378,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.269Z",
+      "sourceFile": "dna-funded-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\dna-funded-review.html",
+      "fileSize": 485503,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.003Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 100,
+      "spread": 0.2,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.285Z",
+      "sourceFile": "dukascopy-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\dukascopy-review.html",
+      "fileSize": 489158,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.004Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"E*TRADE can be trusted. It is owned by Morgan Stanley and is one of the most trusted US-based banks and brokers.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.301Z",
+      "sourceFile": "e-trade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\e-trade-review.html",
+      "fileSize": 473224,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.004Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "spread": 0.3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.331Z",
+      "sourceFile": "e8-funding-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\e8-funding-review.html",
+      "fileSize": 453765,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.004Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 20,
+      "spread": 0.9,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.350Z",
+      "sourceFile": "easymarkets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\easymarkets-review.html",
+      "fileSize": 469633,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.004Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.8,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "border-box>",
+        "\"Verified traders can withdraw all their money from Eightcap after they close all open positions and wait for trades to settle to show a cash balance in their Eightcap trading account.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.368Z",
+      "sourceFile": "eightcap-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\eightcap-review.html",
+      "fileSize": 534255,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.005Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": 0.8,
+      "leverage": "0",
+      "regulations": [
+        "US",
+        "24px}",
+        "//www.dailyforex.com/files/et1 (1) (1).jpg\" lazy=loading title=\"eToro Regulators\" class=LazyLoading src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.381Z",
+      "sourceFile": "etoro-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\etoro-review.html",
+      "fileSize": 481187,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.013Z"
+    },
+    {
+      "name": "url",
+      "rating": 1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"The minimum deposit at ETX Capital is an acceptable £100 or a currency equivalent. It is low enough for most retail traders but above that of the most competitive brokers"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.398Z",
+      "sourceFile": "etx-capital-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\etx-capital-review.html",
+      "fileSize": 480647,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.013Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.7,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 200,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "\"EuropeFX has offices in Cyprus and Germany.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.414Z",
+      "sourceFile": "europefx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\europefx-review.html",
+      "fileSize": 461832,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.013Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 10,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Exness ranks among the industry leaders and is the largest retail Forex broker by trading volume. The well-regulated trading environment includes oversight by one central bank and Hong Kong-based Financial Commission membership"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.433Z",
+      "sourceFile": "exness-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\exness-review.html",
+      "fileSize": 516197,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.013Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 200,
+      "spread": 0.7,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "the FSC in Belize",
+        "\"FBS's secure back office handles all"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.450Z",
+      "sourceFile": "fbs-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fbs-review.html",
+      "fileSize": 480107,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.467Z",
+      "sourceFile": "fidelity-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fidelity-review.html",
+      "fileSize": 493596,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.7,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.4,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Fineco Bank offers an extremely cost-friendly trading environment and an excellent asset selection from a state-of-art trading platform. Therefore"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.483Z",
+      "sourceFile": "fineco-bank-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fineco-bank-review.html",
+      "fileSize": 469295,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "CySEC",
+        "a",
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.498Z",
+      "sourceFile": "fondex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fondex-review.html",
+      "fileSize": 444936,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/forex.com 17042024 image01new.jpeg\" lazy=loading title=\"FOREX.com Regulators\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.514Z",
+      "sourceFile": "forex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\forex-review.html",
+      "fileSize": 498659,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "spread": 2,
+      "leverage": "0",
+      "regulations": [
+        "CySec",
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "Metatrader4",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.530Z",
+      "sourceFile": "forexmart-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\forexmart-review.html",
+      "fileSize": 443527,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.9,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 1,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"FP Markets has its headquarters in"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.548Z",
+      "sourceFile": "fp-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fp-markets-review.html",
+      "fileSize": 532742,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.563Z",
+      "sourceFile": "freetrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\freetrade-review.html",
+      "fileSize": 462348,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 250,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "p>",
+        "//www.dailyforex.com/files/friedberg direct review regulatory oversight.png\" lazy=loading title=\"Friedberg Direct Review regulatory oversight\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.584Z",
+      "sourceFile": "friedberg-direct-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\friedberg-direct-review.html",
+      "fileSize": 503561,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.601Z",
+      "sourceFile": "ftmo-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ftmo-review.html",
+      "fileSize": 458300,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.618Z",
+      "sourceFile": "funded-prime-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\funded-prime-review.html",
+      "fileSize": 458892,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.635Z",
+      "sourceFile": "funded-traders-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\funded-traders-review.html",
+      "fileSize": 457485,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "FundedNext Review",
+      "rating": 4.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.653Z",
+      "sourceFile": "fundednext-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fundednext-review.html",
+      "fileSize": 483010,
+      "slug": "fundednext-review",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "Fusion Markets Review 2023 - Pros & Cons Revealed",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.669Z",
+      "sourceFile": "fusion-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fusion-markets-review.html",
+      "fileSize": 475135,
+      "slug": "fusion-markets-review-2023-pros-cons-revealed",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 5,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.687Z",
+      "sourceFile": "fx-club-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fx-club-review.html",
+      "fileSize": 446945,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.014Z"
+    },
+    {
+      "name": "url",
+      "rating": 1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"FXCC is an ECN broker and only maintains one ECN account for"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.705Z",
+      "sourceFile": "fxcc-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxcc-review.html",
+      "fileSize": 493323,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": 0.2,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "\"FXCM levies a $50 annual inactivity fee after twelve months\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.727Z",
+      "sourceFile": "fxcm-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxcm-review.html",
+      "fileSize": 497883,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>FXGT.com ​ remains one of the most secure brokers with licenses from two of the most trusted regulators.",
+        "\"FXGT.com offers the core MT5 trading platform.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Micro Account",
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.752Z",
+      "sourceFile": "fxgt-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxgt-review.html",
+      "fileSize": 488040,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.771Z",
+      "sourceFile": "fxify-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxify-review.html",
+      "fileSize": 459272,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1000,
+      "spread": 0.2,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.788Z",
+      "sourceFile": "fxprimus-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxprimus-review.html",
+      "fileSize": 472322,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 100,
+      "spread": 1.2,
+      "leverage": "0",
+      "regulations": [
+        "Financial",
+        "24px}",
+        "center>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Web Trader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.804Z",
+      "sourceFile": "fxpro-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxpro-review.html",
+      "fileSize": 486180,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.015Z"
+    },
+    {
+      "name": "url",
+      "rating": 5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 200,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "//www.dailyforex.com/files/picturesda2.jpg lazy=loading title=\"FXTM Regulators\" class=LazyLoading src=../images/placeholder.svg>",
+        "\"The FXTM minimum deposit is $200.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.822Z",
+      "sourceFile": "fxtm-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\fxtm-review.html",
+      "fileSize": 522993,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "Goat Funded Trader",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.841Z",
+      "sourceFile": "goat-funded-trader-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\goat-funded-trader-review.html",
+      "fileSize": 469673,
+      "slug": "goat-funded-trader",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 48,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:49.858Z",
+      "sourceFile": "hola-prime-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\hola-prime-review.html",
+      "fileSize": 472458,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 1.3,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"HFM has established itself among the most"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.874Z",
+      "sourceFile": "hotforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\hotforex-review.html",
+      "fileSize": 480194,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.8,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/hugo’s way review ambiguity re regulator.png\" lazy=loading title=\"Hugo’s Way Review ambiguity re regulator\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "//www.dailyforex.com/files/hugo’s way review ambiguity re regulator.png\" img-responsive=\"\" lazy=loading title=\"Hugo’s Way Review ambiguity re regulator\" class=LazyLoading src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.891Z",
+      "sourceFile": "hugo-s-way-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\hugo-s-way-review.html",
+      "fileSize": 458053,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "\"IC Markets is one of the best brokers industry-wide as it offers one of the most competitive trading environments"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.907Z",
+      "sourceFile": "ic-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ic-markets-review.html",
+      "fileSize": 475610,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.1,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 2,
+      "spread": 0.4,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"IFC Markets holds licenses from the British"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Micro Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.926Z",
+      "sourceFile": "ifc-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ifc-markets-review.html",
+      "fileSize": 513654,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.016Z"
+    },
+    {
+      "name": "url",
+      "rating": 5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 2,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.943Z",
+      "sourceFile": "ig-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ig-review.html",
+      "fileSize": 495735,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.018Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.959Z",
+      "sourceFile": "instaforex-ltd-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\instaforex-ltd-review.html",
+      "fileSize": 474137,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.020Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.7,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "spread": 0.8,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Web Trader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.977Z",
+      "sourceFile": "instaforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\instaforex-review.html",
+      "fileSize": 473874,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.020Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 0,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:49.994Z",
+      "sourceFile": "interactive-brokers-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\interactive-brokers-review.html",
+      "fileSize": 498946,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.021Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Withdrawals are processed within 24 hours and may take up to five business days. Credit/debit cards face a 3.5% charge"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.011Z",
+      "sourceFile": "investous-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\investous-review.html",
+      "fileSize": 483089,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.021Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": 2,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.029Z",
+      "sourceFile": "iq-option-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\iq-option-review.html",
+      "fileSize": 474052,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.021Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.045Z",
+      "sourceFile": "ironfx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\ironfx-review.html",
+      "fileSize": 469611,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "BaFin.",
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.064Z",
+      "sourceFile": "kraken-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\kraken-review.html",
+      "fileSize": 473875,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.9,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.5,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.081Z",
+      "sourceFile": "legacy-fx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\legacy-fx-review.html",
+      "fileSize": 472944,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 100,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.099Z",
+      "sourceFile": "libertex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\libertex-review.html",
+      "fileSize": 479589,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 2,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.115Z",
+      "sourceFile": "liteforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\liteforex-review.html",
+      "fileSize": 482590,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 100,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"After signing up for a trading account with Markets.com",
+        "\"Is Markets.com the right Forex broker for you? Find out what you can trade",
+        "//www.dailyforex.com\"}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.137Z",
+      "sourceFile": "markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\markets-review.html",
+      "fileSize": 491412,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.022Z"
+    },
+    {
+      "name": "url",
+      "rating": 0,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "Metatrader4",
+        "Metatrader5"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.167Z",
+      "sourceFile": "metatrader-4-product-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\metatrader-4-product-review.html",
+      "fileSize": 451675,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.023Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.190Z",
+      "sourceFile": "moomoo-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\moomoo-review.html",
+      "fileSize": 467569,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.023Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.227Z",
+      "sourceFile": "mtrading-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\mtrading-review.html",
+      "fileSize": 470290,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.023Z"
+    },
+    {
+      "name": "My Funded Futures Review",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.248Z",
+      "sourceFile": "my-funded-futures-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\my-funded-futures-review.html",
+      "fileSize": 476932,
+      "slug": "my-funded-futures-review",
+      "validatedAt": "2025-09-16T04:53:58.023Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 11,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>Nadex operates under the oversight of the CFTC.",
+        "center>",
+        "\"It depends on individual requirements and preferences. NADEX"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.286Z",
+      "sourceFile": "nadex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\nadex-review.html",
+      "fileSize": 460665,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "spread": 0.5,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "DE000A161NR7. NAGA also has a clean track record and is a trustworthy broker.",
+        "DE000A161NR7. NAGA also has a clean track record and is a trustworthy broker.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.306Z",
+      "sourceFile": "naga-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\naga-review.html",
+      "fileSize": 474478,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "SEBI?",
+        "SEBI",
+        "SEBI?\"",
+        "24px}",
+        "\"The NordFX headquarters is"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.323Z",
+      "sourceFile": "nord-fx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\nord-fx-review.html",
+      "fileSize": 471514,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Oanda offers tight spreads",
+        "both"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.341Z",
+      "sourceFile": "oanda-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\oanda-review.html",
+      "fileSize": 493814,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 25,
+      "spread": 0.6,
+      "leverage": "0",
+      "regulations": [
+        "CySEC",
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.357Z",
+      "sourceFile": "octa-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\octa-review.html",
+      "fileSize": 493084,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 4,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "Metatrader4",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Standard Account",
+        "Mini Account",
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.374Z",
+      "sourceFile": "paxforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\paxforex-review.html",
+      "fileSize": 447565,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.8,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "200 at the SCB subsidiaries.",
+        "\"Pepperstone ranks among the best brokers globally due to its competitive trading environment and trustworthiness.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.390Z",
+      "sourceFile": "pepperstone-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\pepperstone-review.html",
+      "fileSize": 511072,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "PipFarm Review 2024 - Pros & Cons Revealed",
+      "rating": 5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "400",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.405Z",
+      "sourceFile": "pipfarm-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\pipfarm-review.html",
+      "fileSize": 476823,
+      "slug": "pipfarm-review-2024-pros-cons-revealed",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 500,
+      "spread": 0.8,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"While Plus500 offers demo accounts with a virtual balance of $50"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.422Z",
+      "sourceFile": "plus500-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\plus500-review.html",
+      "fileSize": 491940,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": 0.1,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"PrimeXBT is a legitimate broker founded in"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.441Z",
+      "sourceFile": "primexbt-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\primexbt-review.html",
+      "fileSize": 480402,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.459Z",
+      "sourceFile": "profitex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\profitex-review.html",
+      "fileSize": 464195,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.024Z"
+    },
+    {
+      "name": "PU Prime Review - Pros & Cons Revealed",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 2,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.475Z",
+      "sourceFile": "pu-prime-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\pu-prime-review.html",
+      "fileSize": 497180,
+      "slug": "pu-prime-review-pros-cons-revealed",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 100,
+      "spread": 0.3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "VIP Account",
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.498Z",
+      "sourceFile": "purple-trading-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\purple-trading-review.html",
+      "fileSize": 472408,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 3.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1000,
+      "spread": 0.8,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/questrade review regulatory oversight.png\" lazy=loading title=\"Questrade Review regulatory oversight\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.513Z",
+      "sourceFile": "questrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\questrade-review.html",
+      "fileSize": 472349,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.530Z",
+      "sourceFile": "rebels-funding-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\rebels-funding-review.html",
+      "fileSize": 491359,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "Forex Regulations",
+      "rating": 0,
+      "minDeposit": 10000,
+      "leverage": "0",
+      "regulations": [
+        "FCA?",
+        "FCA?\"",
+        "\"The Forex market is a decentralized over the",
+        "//www.crunchbase.com/organization/dailyforex\"]}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5"
+      ],
+      "description": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.545Z",
+      "sourceFile": "regulation.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\regulation.html",
+      "fileSize": 450225,
+      "slug": "forex-regulations",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.562Z",
+      "sourceFile": "revolut-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\revolut-review.html",
+      "fileSize": 475830,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/robinhood review regulatory oversight.png\" lazy=loading title=\"Robinhood Review regulatory oversight\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.583Z",
+      "sourceFile": "robinhood-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\robinhood-review.html",
+      "fileSize": 475255,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": 1.3,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"The RoboForex headquarters is in Belize.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.601Z",
+      "sourceFile": "roboforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\roboforex-review.html",
+      "fileSize": 502575,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.617Z",
+      "sourceFile": "sabiotrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\sabiotrade-review.html",
+      "fileSize": 456884,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 500,
+      "spread": 0.4,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"No",
+        "Italian"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.634Z",
+      "sourceFile": "saxo-bank-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\saxo-bank-review.html",
+      "fileSize": 476173,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.651Z",
+      "sourceFile": "saxo-capital-markets-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\saxo-capital-markets-review.html",
+      "fileSize": 469844,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 5000,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Yes",
+        "\"Is Squared Financial the right Forex broker for you? Find out what you can trade",
+        "//www.dailyforex.com\"}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.667Z",
+      "sourceFile": "squared-financial-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\squared-financial-review.html",
+      "fileSize": 474024,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.025Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 1.7,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Swissquote is a licensed bank in Switzerland with FINMA as its regulator. It is also a member of the Swiss Bankers Association.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.684Z",
+      "sourceFile": "swissquote-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\swissquote-review.html",
+      "fileSize": 486879,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "tastyfx Review and Rating",
+      "rating": 3.1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 250,
+      "spread": 0.7,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.700Z",
+      "sourceFile": "tastyfx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\tastyfx-review.html",
+      "fileSize": 472248,
+      "slug": "tastyfx-review-and-rating",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.8,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 50,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/td ameritrade review regulatory oversight.png\" lazy=loading title=\"TD Ameritrade Review regulatory oversight\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "//www.dailyforex.com/files/td ameritrade review regulatory costs.png\" lazy=loading title=\"TD Ameritrade Review regulatory costs\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.715Z",
+      "sourceFile": "td-ameritrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\td-ameritrade-review.html",
+      "fileSize": 466084,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.4,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "p>",
+        "//www.dailyforex.com/files/thinkmarkets review regulatory environment.png\" lazy=loading longdesc=\"../files/thinkmarkets%20review%20regulatory%20environment.png\" src=\"../files/thinkmarkets%20review%20regulatory%20environment.png\" title=\"ThinkMarkets Review regulatory environment\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "\"ThinkMarkets is a multi-asset online broker with a dual headquarters in Australia and the UK.\"}}]}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.731Z",
+      "sourceFile": "thinkforex-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\thinkforex-review.html",
+      "fileSize": 469833,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 20,
+      "spread": 1.6,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/tickmill regulators.png\" lazy=loading title=\"Tickmill regulators\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>",
+        "//www.dailyforex.com/forex-brokers/best-forex-brokers/usa>US-"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.746Z",
+      "sourceFile": "tickmill-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\tickmill-review.html",
+      "fileSize": 479140,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "TopStep Review - Pros & Cons Revealed",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 3,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [],
+      "extractedAt": "2025-09-16T04:51:50.762Z",
+      "sourceFile": "topstep-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\topstep-review.html",
+      "fileSize": 483193,
+      "slug": "topstep-review-pros-cons-revealed",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "TopTier Trader Review - Pros & Cons Revealed",
+      "rating": 1.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "minDeposit": null,
+      "spread": null,
+      "accountTypes": [
+        "Micro Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.781Z",
+      "sourceFile": "toptier-trader-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\toptier-trader-review.html",
+      "fileSize": 476448,
+      "slug": "toptier-trader-review-pros-cons-revealed",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 4,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "border-box>",
+        "3. Leverage is also asset dependent and can vary within each sector."
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.801Z",
+      "sourceFile": "trade-nation-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\trade-nation-review.html",
+      "fileSize": 467571,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.8,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 500,
+      "spread": 2,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "center>",
+        "//www.dailyforex.com/files/360.jpg lazy=loading title=\"Trade360 Regulators\" class=LazyLoading src=../images/placeholder.svg>",
+        "\"Yes",
+        "\"Is Trade360 the right Forex broker for you? Find out what you can trade",
+        "//www.dailyforex.com\"}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Mini Account",
+        "VIP Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.821Z",
+      "sourceFile": "trade360-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\trade360-review.html",
+      "fileSize": 474391,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 1,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 10,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.838Z",
+      "sourceFile": "traders-way-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\traders-way-review.html",
+      "fileSize": 478332,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 3,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 2000,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/tradestation review regulatory fine print.png\" lazy=loading title=\"TradeStation Review regulatory fine print\" class=\"img-responsive center LazyLoading\" src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.857Z",
+      "sourceFile": "tradestation-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\tradestation-review.html",
+      "fileSize": 480385,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.6,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 1,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Trading 212 issues the occasional promo code campaign offering financial rewards"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Web Trader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.874Z",
+      "sourceFile": "trading-212-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\trading-212-review.html",
+      "fileSize": 489424,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.7,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"One of Vanguard’s most significant flaws"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.892Z",
+      "sourceFile": "vanguard-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\vanguard-review.html",
+      "fileSize": 483965,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.026Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.9,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": null,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/vn1.jpg lazy=loading title=\"Vantage Regulators\" class=LazyLoading src=../images/placeholder.svg>"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account",
+        "ECN Account",
+        "STP Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.908Z",
+      "sourceFile": "vantage-fx-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\vantage-fx-review.html",
+      "fileSize": 478228,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.027Z"
+    },
+    {
+      "name": "url",
+      "rating": 0.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "\"Is Webull the right Forex broker for you? Find out what you can trade",
+        "//www.dailyforex.com\"}}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.924Z",
+      "sourceFile": "webull-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\webull-review.html",
+      "fileSize": 475822,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.027Z"
+    },
+    {
+      "name": "url",
+      "rating": 4.5,
+      "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+      "minDeposit": 2,
+      "spread": 0.6,
+      "leverage": "400",
+      "regulations": [
+        "DFSA",
+        "24px}",
+        "\"Yes"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader",
+        "Mobile Trader"
+      ],
+      "accountTypes": [
+        "Standard Account",
+        "Micro Account",
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.940Z",
+      "sourceFile": "xm-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\xm-review.html",
+      "fileSize": 499639,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.027Z"
+    },
+    {
+      "name": "url",
+      "rating": 1.9,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 0,
+      "spread": 0.5,
+      "leverage": "0",
+      "regulations": [
+        "24px}",
+        "//www.dailyforex.com/files/tbx1.jpg lazy=loading title=\"XTB Regulators\" class=LazyLoading src=../images/placeholder.svg>",
+        "center>",
+        "the KNF",
+        "\"No"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.959Z",
+      "sourceFile": "xtb-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\xtb-review.html",
+      "fileSize": 467084,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.027Z"
+    },
+    {
+      "name": "url",
+      "rating": 2.5,
+      "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+      "minDeposit": 9,
+      "leverage": "0",
+      "regulations": [
+        "24px}"
+      ],
+      "platforms": [
+        "MetaTrader 4",
+        "MetaTrader 5",
+        "cTrader"
+      ],
+      "spread": null,
+      "accountTypes": [
+        "Islamic Account"
+      ],
+      "extractedAt": "2025-09-16T04:51:50.976Z",
+      "sourceFile": "zulutrade-review.html",
+      "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\zulutrade-review.html",
+      "fileSize": 473101,
+      "slug": "url",
+      "validatedAt": "2025-09-16T04:53:58.027Z"
+    }
+  ],
+  "invalidBrokers": [
+    {
+      "original": {
+        "name": "",
+        "rating": 0,
+        "description": "Sorry, the DailyForex page you’re looking for could not be found. Here are your options.",
+        "regulations": [
+          "'"
+        ],
+        "minDeposit": null,
+        "spread": null,
+        "leverage": "0",
+        "accountTypes": [],
+        "platforms": [
+          "mt4",
+          "mT4",
+          "MT4",
+          "mt5",
+          "mT5",
+          "MT5"
+        ],
+        "extractedAt": "2025-09-16T04:51:49.315Z",
+        "sourceFile": "e.html",
+        "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\e.html",
+        "fileSize": 431217
+      },
+      "validation": {
+        "isValid": false,
+        "errors": [
+          {
+            "field": "name",
+            "message": "Broker name must be at least 3 characters long",
+            "value": null
+          }
+        ],
+        "warnings": [
+          {
+            "field": "regulations",
+            "message": "Broker should have at least one regulatory body",
+            "value": []
+          }
+        ],
+        "transformed": {
+          "name": null,
+          "rating": 0,
+          "description": "Sorry, the DailyForex page you’re looking for could not be found. Here are your options.",
+          "leverage": "0",
+          "regulations": [],
+          "platforms": [
+            "MetaTrader 4",
+            "MetaTrader 5"
+          ],
+          "minDeposit": null,
+          "spread": null,
+          "accountTypes": [],
+          "extractedAt": "2025-09-16T04:51:49.315Z",
+          "sourceFile": "e.html",
+          "filePath": "C:\\My Web Sites\\daily forex\\www.dailyforex.com\\forex-brokers\\e.html",
+          "fileSize": 431217,
+          "validatedAt": "2025-09-16T04:53:58.004Z"
+        }
+      }
+    }
+  ],
+  "validationRules": 3
+}

@@ -1,0 +1,47 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-filesystem"],
+      "env": {}
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-memory"],
+      "env": {}
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-sequential-thinking"],
+      "env": {}
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": ["@hisma/server-puppeteer"],
+      "env": {}
+    },
+    "supabase": {
+      "command": "node",
+      "args": ["./mcp/supabase-server-simple.js"],
+      "env": {
+        "SUPABASE_URL": "https://efxpwrnxdorgzcqhbnfn.supabase.co",
+        "SUPABASE_SERVICE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVmeHB3cm54ZG9yZ3pjcWhibmZuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzAzMzIzNSwiZXhwIjoyMDcyNjA5MjM1fQ.BKmSaW8dSc6soQZOh7zZGXMNO-evJZkSbLVJzxoYSYA"
+      }
+    },
+    "clerk": {
+      "command": "npx",
+      "args": ["-y", "@clerk/agent-toolkit", "-p=local-mcp"],
+      "env": {
+        "CLERK_SECRET_KEY": "sk_test_X85XT3vFgQAgEwN7XyJzfqBCoTcNuTF02KXOv84qVG",
+        "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_YWN0dWFsLXNoYXJrLTMxLmNsZXJrLmFjY291bnRzLmRldiQ"
+      }
+    },
+    "context7": {
+      "command": "node",
+      "args": ["./mcp/context7-server.js"],
+      "env": {
+        "CONTEXT7_API_KEY": "${CONTEXT7_API_KEY}"
+      }
+    }
+  }
+}
