@@ -1,5 +1,88 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
+import { findBestLogoMatch } from '@/lib/broker-logo-map';
+
+// Broker interface for type safety
+interface Broker {
+  id: number;
+  name: string;
+  slug: string;
+  logo_url: string;
+  rating: number;
+  review_count: number;
+  min_deposit: number;
+  min_deposit_currency: string;
+  spread_type: string;
+  typical_spread: number;
+  max_leverage: string;
+  established_year: number;
+  headquarters: string;
+  website_url: string;
+  regulations: Regulation[];
+  trading_instruments: TradingInstrument[];
+  account_types: AccountType[];
+  fees: Fee[];
+  platforms: Platform[];
+  customer_support: CustomerSupport[];
+  education: Education[];
+  promotions: Promotion[];
+}
+
+interface Regulation {
+  regulatory_body: string;
+  license_number: string;
+  jurisdiction: string;
+  status: string;
+}
+
+interface TradingInstrument {
+  category: string;
+  instruments: string[];
+  spreads: string;
+  commissions: string;
+}
+
+interface AccountType {
+  name: string;
+  min_deposit: number;
+  currency: string;
+  spread_type: string;
+  commission: string;
+  leverage: string;
+  islamic: boolean;
+}
+
+interface Fee {
+  type: string;
+  value: string;
+  description: string;
+}
+
+interface Platform {
+  name: string;
+  type: string;
+  devices: string[];
+}
+
+interface CustomerSupport {
+  channel: string;
+  availability: string;
+  languages: string[];
+}
+
+interface Education {
+  type: string;
+  title: string;
+  level: string;
+  description: string;
+}
+
+interface Promotion {
+  type: string;
+  title: string;
+  description: string;
+  expiry_date: string | null;
+}
 
 const supabase = createClient(
   process.env.SUPABASE_URL!,
@@ -65,7 +148,7 @@ export async function GET(request: NextRequest) {
       id: broker.id,
       name: broker.name,
       slug: broker.slug,
-      logo_url: broker.logo_url,
+      logo_url: findBestLogoMatch((broker.name as string) || ''),
       website_url: broker.website_url,
       description: broker.description,
       rating: broker.avg_rating || 0,
@@ -140,13 +223,13 @@ export async function GET(request: NextRequest) {
   }
 }
 
-function generateComparisonData(brokers: any[]) {
+function generateComparisonData(brokers: Record<string, unknown>[]) {
   // Basic information comparison
   const basicInfo = brokers.map(broker => ({
     id: broker.id,
     name: broker.name,
     slug: broker.slug,
-    logo_url: broker.logo_url,
+    logo_url: findBestLogoMatch((broker.name as string) || ''),
     rating: broker.rating,
     review_count: broker.review_count,
     min_deposit: broker.min_deposit,
@@ -163,7 +246,7 @@ function generateComparisonData(brokers: any[]) {
   const regulations = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    regulations: broker.regulations.map((reg: any) => ({
+    regulations: (broker.regulations as Record<string, unknown>[]).map((reg: Record<string, unknown>) => ({
       regulatory_body: reg.regulatory_body,
       license_number: reg.license_number,
       jurisdiction: reg.jurisdiction,
@@ -175,7 +258,7 @@ function generateComparisonData(brokers: any[]) {
   const features = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    features: broker.features.map((feature: any) => ({
+    features: (broker.features as Record<string, unknown>[]).map((feature: Record<string, unknown>) => ({
       name: feature.feature_name,
       type: feature.feature_type,
       category: feature.category,
@@ -187,7 +270,7 @@ function generateComparisonData(brokers: any[]) {
   const tradingConditions = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    conditions: broker.tradingConditions.map((condition: any) => ({
+    conditions: (broker.tradingConditions as Record<string, unknown>[]).map((condition: Record<string, unknown>) => ({
       instrument_type: condition.instrument_type,
       min_spread: condition.min_spread,
       typical_spread: condition.typical_spread,
@@ -201,7 +284,7 @@ function generateComparisonData(brokers: any[]) {
   const accountTypes = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    accounts: broker.accountTypes.map((account: any) => ({
+    accounts: (broker.accountTypes as Record<string, unknown>[]).map((account: Record<string, unknown>) => ({
       name: account.account_name,
       type: account.account_type,
       min_deposit: account.min_deposit,
@@ -217,7 +300,7 @@ function generateComparisonData(brokers: any[]) {
   const platforms = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    platforms: broker.platforms.map((platform: any) => ({
+    platforms: (broker.platforms as Record<string, unknown>[]).map((platform: Record<string, unknown>) => ({
       name: platform.platform_name,
       type: platform.platform_type,
       version: platform.version,
@@ -231,7 +314,7 @@ function generateComparisonData(brokers: any[]) {
   const paymentMethods = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    methods: broker.paymentMethods.map((method: any) => ({
+    methods: (broker.paymentMethods as Record<string, unknown>[]).map((method: Record<string, unknown>) => ({
       name: method.payment_method,
       currency: method.currency,
       deposit: method.deposit,
@@ -244,7 +327,7 @@ function generateComparisonData(brokers: any[]) {
   const support = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    support: broker.support.map((sup: any) => ({
+    support: (broker.support as Record<string, unknown>[]).map((sup: Record<string, unknown>) => ({
       type: sup.support_type,
       contact_info: sup.contact_info,
       availability: sup.availability,
@@ -256,7 +339,7 @@ function generateComparisonData(brokers: any[]) {
   const promotions = brokers.map(broker => ({
     brokerId: broker.id,
     brokerName: broker.name,
-    promotions: broker.promotions.map((promo: any) => ({
+    promotions: (broker.promotions as Record<string, unknown>[]).map((promo: Record<string, unknown>) => ({
       title: promo.title,
       type: promo.promotion_type,
       bonus_amount: promo.bonus_amount,
@@ -287,25 +370,25 @@ function generateComparisonData(brokers: any[]) {
   };
 }
 
-function generateFeatureMatrix(brokers: any[]) {
+function generateFeatureMatrix(brokers: Record<string, unknown>[]) {
   // Collect all unique features across all brokers
   const allFeatures = new Set<string>();
   brokers.forEach(broker => {
-    broker.features.forEach((feature: any) => {
-      allFeatures.add(feature.feature_name);
+    (broker.features as Record<string, unknown>[]).forEach((feature: Record<string, unknown>) => {
+      allFeatures.add(feature.feature_name as string);
     });
   });
 
   // Create matrix
-  const matrix: any[] = [];
+  const matrix: Record<string, unknown>[] = [];
   Array.from(allFeatures).sort().forEach(featureName => {
-    const row: any = {
+    const row: Record<string, unknown> = {
       feature: featureName,
     };
 
     brokers.forEach(broker => {
-      const feature = broker.features.find((f: any) => f.feature_name === featureName);
-      row[broker.id] = feature ? feature.availability : false;
+      const feature = (broker.features as Record<string, unknown>[]).find((f: Record<string, unknown>) => (f.feature_name as string) === featureName);
+      row[broker.id as string] = feature ? feature.availability : false;
     });
 
     matrix.push(row);
@@ -314,41 +397,41 @@ function generateFeatureMatrix(brokers: any[]) {
   return matrix;
 }
 
-function generateComparisonScores(brokers: any[]) {
+function generateComparisonScores(brokers: Record<string, unknown>[]) {
   const scores = brokers.map(broker => {
     let score = 0;
     let maxScore = 0;
 
     // Rating score (30%)
-    score += (broker.rating / 5) * 30;
+    score += ((broker.rating as number) / 5) * 30;
     maxScore += 30;
 
     // Regulations score (25%)
-    const regulationScore = broker.regulations.length > 0 ? 25 : 0;
+    const regulationScore = (broker.regulations as Record<string, unknown>[]).length > 0 ? 25 : 0;
     score += regulationScore;
     maxScore += 25;
 
     // Features score (20%)
-    const featureScore = Math.min(broker.features.length * 2, 20);
+    const featureScore = Math.min((broker.features as Record<string, unknown>[]).length * 2, 20);
     score += featureScore;
     maxScore += 20;
 
     // Platforms score (15%)
-    const platformScore = Math.min(broker.platforms.length * 5, 15);
+    const platformScore = Math.min((broker.platforms as Record<string, unknown>[]).length * 5, 15);
     score += platformScore;
     maxScore += 15;
 
     // Support score (10%)
-    const supportScore = Math.min(broker.support.length * 3, 10);
+    const supportScore = Math.min((broker.support as Record<string, unknown>[]).length * 3, 10);
     score += supportScore;
     maxScore += 10;
 
     return {
-      brokerId: broker.id,
-      brokerName: broker.name,
+      brokerId: broker.id as string,
+      brokerName: broker.name as string,
       score: Math.round((score / maxScore) * 100),
       breakdown: {
-        rating: Math.round((broker.rating / 5) * 30),
+        rating: Math.round(((broker.rating as number) / 5) * 30),
         regulations: regulationScore,
         features: featureScore,
         platforms: platformScore,
@@ -360,22 +443,22 @@ function generateComparisonScores(brokers: any[]) {
   return scores.sort((a, b) => b.score - a.score);
 }
 
-function generateComparisonSummary(brokers: any[]) {
+function generateComparisonSummary(brokers: Record<string, unknown>[]) {
   const totalBrokers = brokers.length;
-  const avgRating = brokers.reduce((sum, b) => sum + b.rating, 0) / totalBrokers;
-  const totalRegulations = brokers.reduce((sum, b) => sum + b.regulations.length, 0);
-  const avgMinDeposit = brokers.reduce((sum, b) => sum + b.min_deposit, 0) / totalBrokers;
+  const avgRating = brokers.reduce((sum, b) => sum + (b.rating as number), 0) / totalBrokers;
+  const totalRegulations = brokers.reduce((sum, b) => sum + (b.regulations as Record<string, unknown>[]).length, 0);
+  const avgMinDeposit = brokers.reduce((sum, b) => sum + (b.min_deposit as number), 0) / totalBrokers;
 
   const mostRegulated = brokers.reduce((prev, current) =>
-    prev.regulations.length > current.regulations.length ? prev : current
+    (prev.regulations as Record<string, unknown>[]).length > (current.regulations as Record<string, unknown>[]).length ? prev : current
   );
 
   const highestRated = brokers.reduce((prev, current) =>
-    prev.rating > current.rating ? prev : current
+    (prev.rating as number) > (current.rating as number) ? prev : current
   );
 
   const lowestDeposit = brokers.reduce((prev, current) =>
-    prev.min_deposit < current.min_deposit ? prev : current
+    (prev.min_deposit as number) < (current.min_deposit as number) ? prev : current
   );
 
   return {
@@ -383,8 +466,8 @@ function generateComparisonSummary(brokers: any[]) {
     averageRating: Math.round(avgRating * 100) / 100,
     averageMinDeposit: Math.round(avgMinDeposit),
     totalRegulations,
-    mostRegulated: mostRegulated.name,
-    highestRated: highestRated.name,
-    lowestDeposit: lowestDeposit.name,
+    mostRegulated: mostRegulated.name as string,
+    highestRated: highestRated.name as string,
+    lowestDeposit: lowestDeposit.name as string,
   };
 }

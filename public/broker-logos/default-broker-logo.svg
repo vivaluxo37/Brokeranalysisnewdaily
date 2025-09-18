@@ -1,0 +1,10 @@
+<svg width="120" height="60" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="60" rx="8" fill="#f3f4f6"/>
+  <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6b7280">
+    Broker
+  </text>
+  <circle cx="15" cy="15" r="3" fill="#9ca3af"/>
+  <circle cx="105" cy="15" r="3" fill="#9ca3af"/>
+  <circle cx="15" cy="45" r="3" fill="#9ca3af"/>
+  <circle cx="105" cy="45" r="3" fill="#9ca3af"/>
+</svg>

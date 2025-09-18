@@ -8,10 +8,10 @@ const supabase = createClient(
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
   try {
-    const { slug } = params;
+    const { slug } = await params;
 
     // Get broker with full details using Supabase
     const { data: broker, error } = await supabase
@@ -30,12 +30,39 @@ export async function GET(
       );
     }
 
+    // Map broker slugs to correct local logo paths
+    const getLocalLogoUrl = (slug: string, originalUrl: string): string => {
+      const logoMap: Record<string, string> = {
+        'axi': '/broker-logos/axi.svg',
+        'blackbull': '/broker-logos/imgi_35_blackbull-markets-review.png',
+        'admirals': '/broker-logos/imgi_10_admirals-admiral-markets-review.png',
+        'avatrade': '/broker-logos/imgi_16_avatrade-review.png',
+        'alpari-international': '/broker-logos/imgi_27_alpari.webp',
+        'bdswiss': '/broker-logos/imgi_6_BDSwiss_RGB.png',
+        'binance': '/broker-logos/imgi_9_binance-logo-300x300.png',
+        'apex-trader-funding': '/broker-logos/default-broker-logo.svg',
+      };
+
+      // Return mapped logo if available, otherwise try to use original or default
+      if (logoMap[slug]) {
+        return logoMap[slug];
+      }
+
+      // If original URL is a base64 image or external URL that doesn't exist, use default
+      if (originalUrl && (originalUrl.startsWith('data:') || originalUrl.startsWith('http'))) {
+        return '/broker-logos/default-broker-logo.svg';
+      }
+
+      // Try to use original URL if it's a local path
+      return originalUrl || '/broker-logos/default-broker-logo.svg';
+    };
+
     // Transform the data to match the expected structure
     const transformedBroker = {
       id: broker.id,
       name: broker.name,
       slug: broker.slug,
-      logo_url: broker.logo_url,
+      logo_url: getLocalLogoUrl(broker.slug, broker.logo_url),
       website_url: broker.website_url,
       description: broker.description,
       short_description: broker.description?.substring(0, 150) + '...',
@@ -396,10 +423,10 @@ export async function GET(
 
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
   try {
-    const { slug } = params;
+    const { slug } = await params;
     const body = await request.json();
 
     // Check if broker exists
@@ -488,10 +515,10 @@ export async function PUT(
 
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
   try {
-    const { slug } = params;
+    const { slug } = await params;
 
     // Check if broker exists
     const { data: existingBroker, error: checkError } = await supabase

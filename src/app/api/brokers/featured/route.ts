@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
+import { findBestLogoMatch } from '@/lib/broker-logo-map';
 
 const supabase = createClient(
   process.env.SUPABASE_URL!,
@@ -128,7 +129,7 @@ export async function GET(request: NextRequest) {
     // Try to fetch from database first
     let featuredBrokers;
     try {
-      let query = supabase
+      const query = supabase
         .from('brokers')
         .select('*')
         .eq('featured', true)
@@ -146,14 +147,12 @@ export async function GET(request: NextRequest) {
 
       featuredBrokers = data || [];
 
-      // If detailed information is requested, fetch related data
-      if (includeDetails && featuredBrokers.length > 0) {
-        // Transform data to match expected structure
-        featuredBrokers = featuredBrokers.map(broker => ({
+      // Transform data to match expected structure
+      featuredBrokers = featuredBrokers.map(broker => ({
           id: broker.id,
           name: broker.name,
           slug: broker.slug,
-          logo_url: broker.logo_url,
+          logo_url: findBestLogoMatch(broker.name || ''),
           website_url: broker.website_url,
           description: broker.description,
           short_description: broker.description?.substring(0, 150) + '...',
@@ -199,7 +198,6 @@ export async function GET(request: NextRequest) {
           platforms: [],
           promotions: []
         }));
-      }
     } catch (dbError) {
       console.warn('Database connection failed, using mock data:', dbError);
       // Fallback to mock data when database is not available

@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
+import { findBestLogoMatch } from '@/lib/broker-logo-map';
 
 const supabase = createClient(
   process.env.SUPABASE_URL!,
@@ -27,7 +28,7 @@ export async function GET(request: NextRequest) {
     // Build query
     let query = supabase
       .from('brokers')
-      .select('*');
+      .select('*', { count: 'exact' });
 
     // Apply filters
     if (search) {
@@ -56,61 +57,44 @@ export async function GET(request: NextRequest) {
       query = query.order('established_year', { ascending: sortOrder === 'asc' });
     } else if (sortBy === 'review_count') {
       query = query.order('total_reviews', { ascending: sortOrder === 'asc' });
+    } else if (sortBy === 'display_order') {
+      query = query.order('display_order', { ascending: sortOrder === 'asc' });
     } else {
-      query = query.order('name', { ascending: true });
+      query = query.order('display_order', { ascending: true });
     }
 
     // Apply pagination
     query = query.range(offset, offset + limit - 1);
 
-    const { data: brokers, error } = await query;
+    const { data: brokers, error, count } = await query;
 
     if (error) {
+      console.error('Supabase query error:', error);
       throw error;
     }
 
-    // Get total count for pagination
-    let countQuery = supabase
-      .from('brokers')
-      .select('*', { count: 'exact', head: true });
-
-    // Apply same filters for count
-    if (search) {
-      countQuery = countQuery.ilike('name', `%${search}%`);
-    }
-    if (featured) {
-      countQuery = countQuery.eq('featured', true);
-    }
-    if (status === 'active') {
-      countQuery = countQuery.eq('is_active', true);
-    }
-    if (minRating > 0 || maxRating < 5) {
-      countQuery = countQuery.gte('avg_rating', minRating).lte('avg_rating', maxRating);
-    }
-
-    const { count } = await countQuery;
-
+    
     // Transform data to match expected structure
     const transformedBrokers = (brokers || []).map(broker => ({
       id: broker.id,
       name: broker.name,
       slug: broker.slug,
-      logo_url: broker.logo_url,
+      logo_url: findBestLogoMatch(broker.name || ''),
       website_url: broker.website_url,
       description: broker.description,
-      short_description: broker.description?.substring(0, 150) + '...',
+      short_description: broker.short_description || broker.description?.substring(0, 150) + '...',
       rating: broker.avg_rating || 0,
       review_count: broker.total_reviews || 0,
-      featured_status: broker.featured,
+      featured_status: broker.featured || false,
       min_deposit: broker.min_deposit || 0,
-      min_deposit_currency: 'USD',
+      min_deposit_currency: broker.min_deposit_currency || 'USD',
       spread_type: broker.spread_type || 'Variable',
       typical_spread: broker.spreads_avg || 0,
       max_leverage: parseInt(broker.leverage_max) || 0,
-      established_year: broker.established_year || new Date().getFullYear(),
-      headquarters: broker.headquarters_location || 'Unknown',
-      company_size: broker.employee_count || 'Unknown',
-      total_assets: 0,
+      established_year: broker.established_year,
+      headquarters: broker.headquarters_location,
+      company_size: broker.employee_count,
+      total_assets: broker.total_assets || 0,
       active_traders: broker.active_traders_count || 0,
       status: broker.is_active ? 'active' : 'inactive',
       created_at: broker.created_at,
@@ -189,6 +173,7 @@ export async function GET(request: NextRequest) {
     });
   } catch (error) {
     console.error('Error fetching brokers:', error);
+    console.error('Error details:', JSON.stringify(error, null, 2));
     return NextResponse.json(
       {
         success: false,
@@ -219,14 +204,11 @@ export async function POST(request: NextRequest) {
     }
 
     // Check if broker already exists
-    const existingBroker = await prisma.broker.findFirst({
-      where: {
-        OR: [
-          { name: body.name },
-          { slug: body.slug },
-        ],
-      },
-    });
+    const { data: existingBroker } = await supabase
+      .from('brokers')
+      .select('id')
+      .or(`name.eq.${body.name},slug.eq.${body.slug}`)
+      .single();
 
     if (existingBroker) {
       return NextResponse.json(
@@ -239,33 +221,37 @@ export async function POST(request: NextRequest) {
     }
 
     // Create broker
-    const broker = await prisma.broker.create({
-      data: {
+    const { data: broker, error: createError } = await supabase
+      .from('brokers')
+      .insert({
         name: body.name,
         slug: body.slug,
         logo_url: body.logo_url,
         website_url: body.website_url,
         description: body.description,
         short_description: body.short_description,
-        rating: body.rating || 0,
-        review_count: body.review_count || 0,
-        featured_status: body.featured_status || false,
+        avg_rating: body.rating || 0,
+        total_reviews: body.review_count || 0,
+        featured: body.featured_status || false,
         min_deposit: body.min_deposit || 0,
         min_deposit_currency: body.min_deposit_currency || 'USD',
         spread_type: body.spread_type || 'Variable',
-        typical_spread: body.typical_spread,
-        max_leverage: body.max_leverage || 0,
+        spreads_avg: body.typical_spread,
+        leverage_max: body.max_leverage?.toString() || '0',
         established_year: body.established_year,
-        headquarters: body.headquarters,
-        company_size: body.company_size,
-        total_assets: body.total_assets,
-        active_traders: body.active_traders,
-        meta_title: body.meta_title,
-        meta_description: body.meta_description,
+        headquarters_location: body.headquarters,
+        employee_count: body.company_size,
+        total_assets: body.total_assets || 0,
+        active_traders_count: body.active_traders || 0,
         affiliate_link: body.affiliate_link,
-        status: body.status || 'active',
-      },
-    });
+        is_active: (body.status || 'active') === 'active',
+      })
+      .select()
+      .single();
+
+    if (createError) {
+      throw createError;
+    }
 
     return NextResponse.json({
       success: true,

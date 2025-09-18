@@ -1,17 +1,17 @@
 import { Broker, BrokerRegulation, BrokerFeature, BrokerTradingCondition, BrokerAccountType, BrokerPlatform, BrokerPaymentMethod, BrokerSupport, BrokerEducation, BrokerReview, BrokerAffiliateLink, BrokerPromotion } from '@/lib/db/schema';
 
-export interface ValidationResult {
+export interface ValidationResult<T = unknown> {
   isValid: boolean;
   errors: string[];
   warnings: string[];
-  data: any;
+  data: T;
 }
 
 export class BrokerDataValidator {
   /**
    * Validate broker data
    */
-  static validateBroker(data: Partial<Broker>): ValidationResult {
+  static validateBroker(data: Partial<Broker>): ValidationResult<Partial<Broker>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -76,7 +76,7 @@ export class BrokerDataValidator {
   /**
    * Validate regulation data
    */
-  static validateRegulation(data: Partial<BrokerRegulation>): ValidationResult {
+  static validateRegulation(data: Partial<BrokerRegulation>): ValidationResult<Partial<BrokerRegulation>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -118,7 +118,7 @@ export class BrokerDataValidator {
   /**
    * Validate feature data
    */
-  static validateFeature(data: Partial<BrokerFeature>): ValidationResult {
+  static validateFeature(data: Partial<BrokerFeature>): ValidationResult<Partial<BrokerFeature>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -152,7 +152,7 @@ export class BrokerDataValidator {
   /**
    * Validate trading condition data
    */
-  static validateTradingCondition(data: Partial<BrokerTradingCondition>): ValidationResult {
+  static validateTradingCondition(data: Partial<BrokerTradingCondition>): ValidationResult<Partial<BrokerTradingCondition>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -203,7 +203,7 @@ export class BrokerDataValidator {
   /**
    * Validate account type data
    */
-  static validateAccountType(data: Partial<BrokerAccountType>): ValidationResult {
+  static validateAccountType(data: Partial<BrokerAccountType>): ValidationResult<Partial<BrokerAccountType>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -249,7 +249,7 @@ export class BrokerDataValidator {
   /**
    * Validate platform data
    */
-  static validatePlatform(data: Partial<BrokerPlatform>): ValidationResult {
+  static validatePlatform(data: Partial<BrokerPlatform>): ValidationResult<Partial<BrokerPlatform>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -291,7 +291,7 @@ export class BrokerDataValidator {
   /**
    * Validate payment method data
    */
-  static validatePaymentMethod(data: Partial<BrokerPaymentMethod>): ValidationResult {
+  static validatePaymentMethod(data: Partial<BrokerPaymentMethod>): ValidationResult<Partial<BrokerPaymentMethod>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -337,7 +337,7 @@ export class BrokerDataValidator {
   /**
    * Validate support data
    */
-  static validateSupport(data: Partial<BrokerSupport>): ValidationResult {
+  static validateSupport(data: Partial<BrokerSupport>): ValidationResult<Partial<BrokerSupport>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -372,7 +372,7 @@ export class BrokerDataValidator {
   /**
    * Validate education data
    */
-  static validateEducation(data: Partial<BrokerEducation>): ValidationResult {
+  static validateEducation(data: Partial<BrokerEducation>): ValidationResult<Partial<BrokerEducation>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -411,7 +411,7 @@ export class BrokerDataValidator {
   /**
    * Validate review data
    */
-  static validateReview(data: Partial<BrokerReview>): ValidationResult {
+  static validateReview(data: Partial<BrokerReview>): ValidationResult<Partial<BrokerReview>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -456,7 +456,7 @@ export class BrokerDataValidator {
   /**
    * Validate affiliate link data
    */
-  static validateAffiliateLink(data: Partial<BrokerAffiliateLink>): ValidationResult {
+  static validateAffiliateLink(data: Partial<BrokerAffiliateLink>): ValidationResult<Partial<BrokerAffiliateLink>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -503,7 +503,7 @@ export class BrokerDataValidator {
   /**
    * Validate promotion data
    */
-  static validatePromotion(data: Partial<BrokerPromotion>): ValidationResult {
+  static validatePromotion(data: Partial<BrokerPromotion>): ValidationResult<Partial<BrokerPromotion>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
@@ -568,19 +568,19 @@ export class BrokerDataValidator {
   /**
    * Validate complete broker data set
    */
-  static validateCompleteBrokerData(data: any): ValidationResult {
+  static validateCompleteBrokerData(data: Record<string, unknown>): ValidationResult<Record<string, unknown>> {
     const errors: string[] = [];
     const warnings: string[] = [];
 
     // Validate broker
-    const brokerResult = this.validateBroker(data.broker || {});
+    const brokerResult = this.validateBroker((data.broker || {}) as Partial<Broker>);
     errors.push(...brokerResult.errors);
     warnings.push(...brokerResult.warnings);
 
     // Validate regulations
     if (data.regulations && Array.isArray(data.regulations)) {
-      data.regulations.forEach((reg: any, index: number) => {
-        const regResult = this.validateRegulation(reg);
+      data.regulations.forEach((reg: unknown, index: number) => {
+        const regResult = this.validateRegulation(reg as Partial<BrokerRegulation>);
         errors.push(...regResult.errors.map(e => `Regulation ${index}: ${e}`));
         warnings.push(...regResult.warnings.map(w => `Regulation ${index}: ${w}`));
       });
@@ -588,8 +588,8 @@ export class BrokerDataValidator {
 
     // Validate features
     if (data.features && Array.isArray(data.features)) {
-      data.features.forEach((feature: any, index: number) => {
-        const featureResult = this.validateFeature(feature);
+      data.features.forEach((feature: unknown, index: number) => {
+        const featureResult = this.validateFeature(feature as Partial<BrokerFeature>);
         errors.push(...featureResult.errors.map(e => `Feature ${index}: ${e}`));
         warnings.push(...featureResult.warnings.map(w => `Feature ${index}: ${w}`));
       });
@@ -610,8 +610,8 @@ export class BrokerDataValidator {
 
     arrayFields.forEach(({ name, validator }) => {
       if (data[name] && Array.isArray(data[name])) {
-        data[name].forEach((item: any, index: number) => {
-          const itemResult = validator(item);
+        (data[name] as unknown[]).forEach((item: unknown, index: number) => {
+          const itemResult = validator(item as any);
           errors.push(...itemResult.errors.map(e => `${name} ${index}: ${e}`));
           warnings.push(...itemResult.warnings.map(w => `${name} ${index}: ${w}`));
         });

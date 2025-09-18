@@ -282,15 +282,8 @@ export class BrokerDataImporter {
     if (data.affiliateLinks && Array.isArray(data.affiliateLinks)) {
       for (const affiliateLink of data.affiliateLinks) {
         try {
-          await prisma.brokerAffiliateLink.upsert({
-            where: {
-              broker_id_link_url: {
-                broker_id: brokerId,
-                link_url: affiliateLink.link_url,
-              }
-            },
-            update: { ...affiliateLink, broker_id: brokerId },
-            create: { ...affiliateLink, broker_id: brokerId },
+          await prisma.brokerAffiliateLink.create({
+            data: { ...affiliateLink, broker_id: brokerId },
           });
           result.stats.affiliateLinks++;
         } catch (error) {

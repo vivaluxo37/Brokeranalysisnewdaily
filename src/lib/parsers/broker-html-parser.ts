@@ -265,7 +265,7 @@ export class BrokerHTMLParser {
 
       paymentItems.forEach(item => {
         const methodName = this.extractText('.name, .method, .payment-name', item) ||
-                          this.extractText(item);
+                          this.extractText('', item);
 
         if (methodName && !paymentMethods.find(p => p.payment_method === methodName)) {
           const payment: Partial<BrokerPaymentMethod> = {
@@ -306,7 +306,7 @@ export class BrokerHTMLParser {
         support.push({
           support_type: type,
           contact_info: this.extractText('.number, .address, .contact-info', supportSection) ||
-                        this.extractText(supportSection),
+                        this.extractText('', supportSection),
           availability: this.extractText('.hours, .availability, .schedule', supportSection),
           languages: this.extractLanguages(supportSection),
           response_time: this.extractText('.response-time, .response', supportSection),

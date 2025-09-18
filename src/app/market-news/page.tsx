@@ -8,8 +8,11 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { Calendar, Clock, Filter, Search, TrendingUp, Globe, DollarSign, BarChart3, RefreshCw } from 'lucide-react'
+import { Calendar, Clock, Filter, Search, TrendingUp, Globe, DollarSign, BarChart3, RefreshCw, Bell, Settings } from 'lucide-react'
 import Link from 'next/link'
+import { UserButton } from '@clerk/nextjs'
+import DatabaseBrokerSearch from '@/app/components/DatabaseBrokerSearch'
+import Footer from '@/app/components/Footer'
 
 const impactColors = {
   High: 'bg-red-100 text-red-800 border-red-200',
@@ -99,8 +102,40 @@ export default function MarketNewsPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white shadow-sm border-b">
+      {/* Dashboard Header */}
+      <header className="bg-white shadow-sm border-b">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex justify-between items-center h-16">
+            <div className="flex items-center">
+              <Link href="/" className="text-2xl font-bold text-blue-900">
+                BrokerAnalysis.com
+              </Link>
+            </div>
+            <div className="flex items-center space-x-4">
+              <DatabaseBrokerSearch
+                placeholder="Search brokers..."
+                className="w-96"
+              />
+              <Link href="/brokers" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
+                Brokers
+              </Link>
+              <Link href="/market-news" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
+                Market News
+              </Link>
+              <button className="text-gray-700 hover:text-blue-600 p-2 rounded-md">
+                <Bell className="h-5 w-5" />
+              </button>
+              <button className="text-gray-700 hover:text-blue-600 p-2 rounded-md">
+                <Settings className="h-5 w-5" />
+              </button>
+              <UserButton afterSignOutUrl="/" />
+            </div>
+          </div>
+        </div>
+      </header>
+
+      {/* Page Header */}
+      <div className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex items-center justify-between">
             <div>
@@ -391,6 +426,7 @@ export default function MarketNewsPage() {
           </TabsContent>
         </Tabs>
       </div>
+      <Footer />
     </div>
   )
 }

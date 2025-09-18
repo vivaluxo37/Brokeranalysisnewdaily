@@ -1,0 +1,2441 @@
+{
+  "timestamp": "2025-09-17T09:14:17.866Z",
+  "summary": {
+    "totalBrokers": 5,
+    "databaseSuccess": 0,
+    "apiSuccess": 5,
+    "pageSuccess": 0
+  },
+  "details": {
+    "database": [
+      {
+        "slug": "bdswiss",
+        "exists": false,
+        "error": "column brokers.status does not exist"
+      },
+      {
+        "slug": "capital",
+        "exists": false,
+        "error": "column brokers.status does not exist"
+      },
+      {
+        "slug": "etoro",
+        "exists": false,
+        "error": "column brokers.status does not exist"
+      },
+      {
+        "slug": "plus500",
+        "exists": false,
+        "error": "column brokers.status does not exist"
+      },
+      {
+        "slug": "xtb",
+        "exists": false,
+        "error": "column brokers.status does not exist"
+      }
+    ],
+    "api": [
+      {
+        "slug": "bdswiss",
+        "status": 200,
+        "success": true,
+        "data": {
+          "success": true,
+          "data": {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "name": "Bdswiss",
+            "slug": "bdswiss",
+            "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+            "website_url": "https://x.com/daily_forex",
+            "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+            "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+            "rating": 4,
+            "review_count": 0,
+            "featured_status": false,
+            "min_deposit": 10,
+            "min_deposit_currency": "USD",
+            "spread_type": "Variable",
+            "typical_spread": 0,
+            "max_leverage": 500,
+            "established_year": 2021,
+            "headquarters": "Unknown",
+            "company_size": "Unknown",
+            "total_assets": 0,
+            "active_traders": 0,
+            "status": "active",
+            "created_at": "2025-09-16T05:27:50.905+00:00",
+            "updated_at": "2025-09-16T05:48:22.02109+00:00",
+            "phone": "+61 2 8014 4280",
+            "regulations": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-reg-0",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "regulatory_body": "ASIC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-reg-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "regulatory_body": "FSC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              }
+            ],
+            "features": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-0",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "feature_name": "MT4",
+                "feature_type": "Platform",
+                "description": "MT4 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "feature_name": "MT5",
+                "feature_type": "Platform",
+                "description": "MT5 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "feature_name": "MetaTrader",
+                "feature_type": "Platform",
+                "description": "MetaTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "feature_name": "cTrader",
+                "feature_type": "Platform",
+                "description": "cTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-4",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "feature_name": "WebTrader",
+                "feature_type": "Platform",
+                "description": "WebTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:50.905+00:00"
+              }
+            ],
+            "tradingConditions": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-tc-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "instrument_type": "Forex",
+                "min_spread": 0,
+                "typical_spread": 0.3,
+                "max_leverage": 500,
+                "commission_rate": 3.5,
+                "commission_type": "USD per lot",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-tc-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "instrument_type": "Indices",
+                "min_spread": 0.4,
+                "typical_spread": 0.8,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.1
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-tc-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "instrument_type": "Commodities",
+                "min_spread": 0.2,
+                "typical_spread": 0.5,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-tc-4",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "instrument_type": "Cryptocurrency",
+                "min_spread": 0.5,
+                "typical_spread": 0.8,
+                "max_leverage": 20,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              }
+            ],
+            "accountTypes": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-acc-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "account_name": "Raw Spread Account",
+                "account_type": "ECN",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Raw",
+                "commission": 3.5,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-acc-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "account_name": "Standard Account",
+                "account_type": "Standard",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-acc-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "account_name": "Islamic Account",
+                "account_type": "Islamic",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": true,
+                "demo_available": true
+              }
+            ],
+            "platforms": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-0",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "MT4",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt4-download"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "MT5",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt5-download"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "MetaTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "cTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/ctrader-download"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-4",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "WebTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-5",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "platform_name": "Mobile App",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              }
+            ],
+            "paymentMethods": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-pm-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "payment_method": "Credit/Debit Card",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-pm-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "payment_method": "Bank Wire Transfer",
+                "currency": "USD",
+                "min_amount": 200,
+                "max_amount": 1000000,
+                "processing_time": "1-3 days",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-pm-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "payment_method": "PayPal",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 10000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-pm-4",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "payment_method": "Skrill",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-pm-5",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "payment_method": "Neteller",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              }
+            ],
+            "support": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-sup-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "support_type": "24/7 Live Chat",
+                "contact_info": "https://www.icmarkets.com/support",
+                "availability": "24/7",
+                "response_time": "< 1 minute"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-sup-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "support_type": "Email",
+                "contact_info": "support@icmarkets.com",
+                "availability": "24/7",
+                "response_time": "< 1 hour"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-sup-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "support_type": "Phone",
+                "contact_info": "+61 2 8014 4280",
+                "availability": "24/5",
+                "response_time": "< 5 minutes"
+              }
+            ],
+            "education": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-edu-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "resource_type": "Video Tutorial",
+                "title": "MT4 Trading Platform Guide",
+                "description": "Complete guide to using MetaTrader 4 for forex trading",
+                "url": "https://www.icmarkets.com/mt4-tutorial",
+                "difficulty_level": "Beginner",
+                "duration": "15 minutes"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-edu-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "resource_type": "Webinar",
+                "title": "Technical Analysis Basics",
+                "description": "Learn fundamental technical analysis concepts and strategies",
+                "url": "https://www.icmarkets.com/technical-analysis-webinar",
+                "difficulty_level": "Intermediate",
+                "duration": "45 minutes"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-edu-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "resource_type": "Trading Guide",
+                "title": "Risk Management Strategies",
+                "description": "Essential risk management techniques for forex traders",
+                "url": "https://www.icmarkets.com/risk-management-guide",
+                "difficulty_level": "Intermediate",
+                "duration": "30 minutes"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-edu-4",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "resource_type": "Economic Calendar",
+                "title": "Daily Market Analysis",
+                "description": "Daily market updates and economic event calendar",
+                "url": "https://www.icmarkets.com/market-analysis",
+                "difficulty_level": "All Levels",
+                "duration": "Daily"
+              }
+            ],
+            "reviews": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-rev-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "rating": 5,
+                "review_text": "IC Markets offers excellent trading conditions with raw spreads starting from 0.0 pips. The execution speed is impressive, and customer support is very responsive.",
+                "trading_experience": 3,
+                "account_type": "Raw Spread Account",
+                "username": "JohnTrader",
+                "helpful_count": 45,
+                "created_at": "2024-01-15T10:30:00Z"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-rev-2",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "rating": 4,
+                "review_text": "Great broker with reliable platforms and competitive spreads. The only downside is the limited educational content for beginners.",
+                "trading_experience": 2,
+                "account_type": "Standard Account",
+                "username": "SarahFX",
+                "helpful_count": 32,
+                "created_at": "2024-01-10T14:20:00Z"
+              },
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-rev-3",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "rating": 5,
+                "review_text": "Been trading with IC Markets for over 2 years. Excellent service, fast withdrawals, and great trading conditions. Highly recommended!",
+                "trading_experience": 5,
+                "account_type": "Raw Spread Account",
+                "username": "ProTrader99",
+                "helpful_count": 28,
+                "created_at": "2024-01-05T09:15:00Z"
+              }
+            ],
+            "affiliate_links": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-aff-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "link_url": "https://www.icmarkets.com?aff=brokeranalysis",
+                "tracking_code": "brokeranalysis",
+                "commission_rate": 10,
+                "commission_type": "CPA"
+              }
+            ],
+            "promotions": [
+              {
+                "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-promo-1",
+                "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+                "title": "50% Deposit Bonus",
+                "description": "Get a 50% bonus on your first deposit up to $2000",
+                "promotion_type": "Deposit Bonus",
+                "bonus_amount": 2000,
+                "bonus_currency": "USD",
+                "min_deposit": 200,
+                "terms_conditions": "Trading volume requirement: 1 lot per $10 bonus",
+                "start_date": "2024-01-01",
+                "end_date": "2024-12-31"
+              }
+            ],
+            "_count": {
+              "reviews": 0,
+              "affiliateLinks": 0,
+              "promotions": 1
+            }
+          }
+        }
+      },
+      {
+        "slug": "capital",
+        "status": 200,
+        "success": true,
+        "data": {
+          "success": true,
+          "data": {
+            "id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+            "name": "Capital",
+            "slug": "capital",
+            "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+            "website_url": "https://x.com/daily_forex",
+            "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+            "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+            "rating": 3,
+            "review_count": 0,
+            "featured_status": false,
+            "min_deposit": 20,
+            "min_deposit_currency": "USD",
+            "spread_type": "Variable",
+            "typical_spread": 0.6,
+            "max_leverage": 500,
+            "established_year": 2013,
+            "headquarters": "Unknown",
+            "company_size": "Unknown",
+            "total_assets": 0,
+            "active_traders": 0,
+            "status": "active",
+            "created_at": "2025-09-16T05:27:51.795+00:00",
+            "updated_at": "2025-09-16T05:48:28.341737+00:00",
+            "phone": "+61 2 8014 4280",
+            "regulations": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-reg-0",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "regulatory_body": "FCA",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-reg-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "regulatory_body": "ASIC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-reg-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "regulatory_body": "CySEC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              }
+            ],
+            "features": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-feat-0",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "feature_name": "MT4",
+                "feature_type": "Platform",
+                "description": "MT4 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-feat-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "feature_name": "MT5",
+                "feature_type": "Platform",
+                "description": "MT5 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-feat-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "feature_name": "MetaTrader",
+                "feature_type": "Platform",
+                "description": "MetaTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-feat-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "feature_name": "cTrader",
+                "feature_type": "Platform",
+                "description": "cTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-feat-4",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "feature_name": "WebTrader",
+                "feature_type": "Platform",
+                "description": "WebTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:51.795+00:00"
+              }
+            ],
+            "tradingConditions": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-tc-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "instrument_type": "Forex",
+                "min_spread": 0,
+                "typical_spread": 0.3,
+                "max_leverage": 500,
+                "commission_rate": 3.5,
+                "commission_type": "USD per lot",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-tc-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "instrument_type": "Indices",
+                "min_spread": 0.4,
+                "typical_spread": 0.8,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.1
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-tc-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "instrument_type": "Commodities",
+                "min_spread": 0.2,
+                "typical_spread": 0.5,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-tc-4",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "instrument_type": "Cryptocurrency",
+                "min_spread": 0.5,
+                "typical_spread": 0.8,
+                "max_leverage": 20,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              }
+            ],
+            "accountTypes": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-acc-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "account_name": "Raw Spread Account",
+                "account_type": "ECN",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Raw",
+                "commission": 3.5,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-acc-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "account_name": "Standard Account",
+                "account_type": "Standard",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-acc-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "account_name": "Islamic Account",
+                "account_type": "Islamic",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": true,
+                "demo_available": true
+              }
+            ],
+            "platforms": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-0",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "MT4",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt4-download"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "MT5",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt5-download"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "MetaTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "cTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/ctrader-download"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-4",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "WebTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-5",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "Mobile App",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-6",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "iOS",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-plat-7",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "platform_name": "Android",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              }
+            ],
+            "paymentMethods": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-pm-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "payment_method": "Credit/Debit Card",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-pm-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "payment_method": "Bank Wire Transfer",
+                "currency": "USD",
+                "min_amount": 200,
+                "max_amount": 1000000,
+                "processing_time": "1-3 days",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-pm-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "payment_method": "PayPal",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 10000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-pm-4",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "payment_method": "Skrill",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-pm-5",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "payment_method": "Neteller",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              }
+            ],
+            "support": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-sup-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "support_type": "24/7 Live Chat",
+                "contact_info": "https://www.icmarkets.com/support",
+                "availability": "24/7",
+                "response_time": "< 1 minute"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-sup-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "support_type": "Email",
+                "contact_info": "support@icmarkets.com",
+                "availability": "24/7",
+                "response_time": "< 1 hour"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-sup-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "support_type": "Phone",
+                "contact_info": "+61 2 8014 4280",
+                "availability": "24/5",
+                "response_time": "< 5 minutes"
+              }
+            ],
+            "education": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-edu-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "resource_type": "Video Tutorial",
+                "title": "MT4 Trading Platform Guide",
+                "description": "Complete guide to using MetaTrader 4 for forex trading",
+                "url": "https://www.icmarkets.com/mt4-tutorial",
+                "difficulty_level": "Beginner",
+                "duration": "15 minutes"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-edu-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "resource_type": "Webinar",
+                "title": "Technical Analysis Basics",
+                "description": "Learn fundamental technical analysis concepts and strategies",
+                "url": "https://www.icmarkets.com/technical-analysis-webinar",
+                "difficulty_level": "Intermediate",
+                "duration": "45 minutes"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-edu-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "resource_type": "Trading Guide",
+                "title": "Risk Management Strategies",
+                "description": "Essential risk management techniques for forex traders",
+                "url": "https://www.icmarkets.com/risk-management-guide",
+                "difficulty_level": "Intermediate",
+                "duration": "30 minutes"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-edu-4",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "resource_type": "Economic Calendar",
+                "title": "Daily Market Analysis",
+                "description": "Daily market updates and economic event calendar",
+                "url": "https://www.icmarkets.com/market-analysis",
+                "difficulty_level": "All Levels",
+                "duration": "Daily"
+              }
+            ],
+            "reviews": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-rev-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "rating": 5,
+                "review_text": "IC Markets offers excellent trading conditions with raw spreads starting from 0.0 pips. The execution speed is impressive, and customer support is very responsive.",
+                "trading_experience": 3,
+                "account_type": "Raw Spread Account",
+                "username": "JohnTrader",
+                "helpful_count": 45,
+                "created_at": "2024-01-15T10:30:00Z"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-rev-2",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "rating": 4,
+                "review_text": "Great broker with reliable platforms and competitive spreads. The only downside is the limited educational content for beginners.",
+                "trading_experience": 2,
+                "account_type": "Standard Account",
+                "username": "SarahFX",
+                "helpful_count": 32,
+                "created_at": "2024-01-10T14:20:00Z"
+              },
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-rev-3",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "rating": 5,
+                "review_text": "Been trading with IC Markets for over 2 years. Excellent service, fast withdrawals, and great trading conditions. Highly recommended!",
+                "trading_experience": 5,
+                "account_type": "Raw Spread Account",
+                "username": "ProTrader99",
+                "helpful_count": 28,
+                "created_at": "2024-01-05T09:15:00Z"
+              }
+            ],
+            "affiliate_links": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-aff-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "link_url": "https://www.icmarkets.com?aff=brokeranalysis",
+                "tracking_code": "brokeranalysis",
+                "commission_rate": 10,
+                "commission_type": "CPA"
+              }
+            ],
+            "promotions": [
+              {
+                "id": "01c12620-c579-4c48-be01-664cb3bef9c9-promo-1",
+                "broker_id": "01c12620-c579-4c48-be01-664cb3bef9c9",
+                "title": "50% Deposit Bonus",
+                "description": "Get a 50% bonus on your first deposit up to $2000",
+                "promotion_type": "Deposit Bonus",
+                "bonus_amount": 2000,
+                "bonus_currency": "USD",
+                "min_deposit": 200,
+                "terms_conditions": "Trading volume requirement: 1 lot per $10 bonus",
+                "start_date": "2024-01-01",
+                "end_date": "2024-12-31"
+              }
+            ],
+            "_count": {
+              "reviews": 0,
+              "affiliateLinks": 0,
+              "promotions": 1
+            }
+          }
+        }
+      },
+      {
+        "slug": "etoro",
+        "status": 200,
+        "success": true,
+        "data": {
+          "success": true,
+          "data": {
+            "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+            "name": "Etoro",
+            "slug": "etoro",
+            "logo_url": "https://www.dailyforex.comdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAAAyBAMAAACQW0seAAAAIVBMVEX///9boQX9//pUnAJ1qiyKuE7O5LXz+uuiyHPl89i11ZGB3BIIAAAFbklEQVRYw91YTW9b1xE9GMCkpd3BSIjp1WBgfe4GQwqCVqVIxXZXtinWaley4jh2VgzhmElWtgmnRVeUUDuoV4qYxk1/ZRePUmVDcSI+rno3vCTx3rlnznzdAT6yBIaqueCSSwA3E8O0SwwO9C7/YH/FYCgHLKt3Ls0Y9tMIYjI9MMRseHLpFxg+uweUA0al3r/8c35l08tobAI53PTLA0slTwSOEpTXWjXxyx+42tooo7G5fJ13Lg/shnF9VIIwTIa6L+Zn4fkxhyr+NwAOO9SbKGPpda2PzIpU8ruTB2C2FI1SEj+IhpnB3d0vZev51JMSXj3X4paYQ+Q3DP2hb/hyxEaJOF5KbnwsEZwP1XN7c1SVMZo+koeMDYPZrzqXXbx3eJN6b+pIXmZwq2cwyIpfdPpzwstk7w7AsKzKLZ/W2Euh5IGZofrmyQVFSgaDs+PIysAAyMABM3kdDPantfSDIGOheyDf3dXYOTBB9dv/vOru/e3nHwCTZ91me+/I3Ay29q8mT0we77L9veObrjKpz2VKWw9Dg7rZW29FhNYP/O0uMzIzFv5y4OutVObivonZ3IvMRt8eamrEp/YsQql6Bz6de3WCDL1f7ahSVTdlHGQEI5kvq50Iqup1g+BhkPexGkFS9a8+ppK6LVM2Ax0GGUdLEaoM1ePVCAaV1AZeBxkk8yWkkowY+TCpodRG/0oEmVMDj0nGNRkHNRiht6utTFVmZk2GwcxM6obIIUM3bT3J1AzqcYWk6j2xqYDlMJTcqLZUbz1584K66Z2F7gvq3m7z3nIwbz368m6y4T4MLvxiT4P1vz/6d4tRq7aUocdTAmM1qHpzOdjoAcst1u1RT56GHvib/avBaz1grUndX2uSJ8CY+mcBXoduSYdkfQSbzq3nOkG9Oa+swVzG5EggX4Xui2Ap9I6JyWHoyZxyy1yGrB+Ze7XJho+p+immzZn2TURszwe33QyHypHZKfCN0OcA5Ebo80qwBtiQDQCQoTYwptb3py4SVfk88w/zodsC+IPgyArGAG5EfgCMIRswQIZsyDjr70q0PvDHzfuroYvdbrd7l2fAUgACwAfAAHzIhv+480WJhh5usjaaj1DNzGCcMZYLGMuQDUjxad8O3EvUYxODrQZDQ0nqyORixvrJ+4xNgOmBxQGBzQc1MzMzRpBf1/g9xhBDGY0Bk/mMxfZud2envWfmE8b4DY3dpQQwHG5yNXTbxAzmEPs9GkfDAFgJ5wLgdjX0ZnHldcDPaXwsJnaqsYgN2TB4EU6CskuwGrotEIOJnTIuTCzi/tWEsYgNuWAuqHYK5qWB11NrMPeBwd1ONb4SWQOAH5nHlWBNIOPgAcSWyUZJMxceVgk2jgxzL94Bk3CCYDW4cCD+VoNHhcb+mfJ6T/o/RWyZlwf2apP6x/7Kw6y/MzmNYyyH6uLPj1uq9V4l9BOYPY3IW49eKbU2A41NfMzQhWZSt84YQ6TD0MwgN1AJ1mCyHsqMDOZLzICw2NcREUHmbfhprob8I6kawXx5ClwdklRlNPrlCUME1Q5JUhdH4mfVydY6RWd33awSrIkDq0qSzPvwGWgMyHorQ7P+ruiHMg8g5lhvZWZeOxCrRNQAQD7XzMw/YVZLvtsld34pvrxut78oWotnr9rtvR8AVNrt20UBf7vb3vm+NzNgmPzzySRCrDoY9OEQB3ylD8CB/qA3qd8YmM8OVxzuk1uBWQEgLu6Tu5pZkTCkmMnNDrm4lv8vNk8nSe5uMIih+MHdz2Yhs7F0MQOxya27KLanJO3c4MXcZ4kLg1sxUC1sbRN64l6w9HODoVmk6fdGOZMe2cy82NrZmMmqdu5SLjP0rv+n9V88gTZ27XqJpQAAAABJRU5ErkJggg==",
+            "website_url": "https://www.etoro.com/customer-service/terms-conditions/trading-restriction/",
+            "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+            "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+            "rating": 4.5,
+            "review_count": 0,
+            "featured_status": false,
+            "min_deposit": 50,
+            "min_deposit_currency": "USD",
+            "spread_type": "Variable",
+            "typical_spread": 0.8,
+            "max_leverage": 500,
+            "established_year": 2019,
+            "headquarters": "Unknown",
+            "company_size": "Unknown",
+            "total_assets": 0,
+            "active_traders": 0,
+            "status": "active",
+            "created_at": "2025-09-16T05:27:54.773+00:00",
+            "updated_at": "2025-09-16T05:50:43.184176+00:00",
+            "phone": "+61 2 8014 4280",
+            "regulations": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-reg-0",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "regulatory_body": "FCA",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-reg-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "regulatory_body": "ASIC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-reg-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "regulatory_body": "CySEC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              }
+            ],
+            "features": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-feat-0",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "feature_name": "MT4",
+                "feature_type": "Platform",
+                "description": "MT4 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-feat-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "feature_name": "MT5",
+                "feature_type": "Platform",
+                "description": "MT5 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-feat-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "feature_name": "cTrader",
+                "feature_type": "Platform",
+                "description": "cTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-feat-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "feature_name": "Mobile App",
+                "feature_type": "Platform",
+                "description": "Mobile App trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-feat-4",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "feature_name": "iOS",
+                "feature_type": "Platform",
+                "description": "iOS trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:27:54.773+00:00"
+              }
+            ],
+            "tradingConditions": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-tc-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "instrument_type": "Forex",
+                "min_spread": 0,
+                "typical_spread": 0.3,
+                "max_leverage": 500,
+                "commission_rate": 3.5,
+                "commission_type": "USD per lot",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-tc-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "instrument_type": "Indices",
+                "min_spread": 0.4,
+                "typical_spread": 0.8,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.1
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-tc-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "instrument_type": "Commodities",
+                "min_spread": 0.2,
+                "typical_spread": 0.5,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-tc-4",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "instrument_type": "Cryptocurrency",
+                "min_spread": 0.5,
+                "typical_spread": 0.8,
+                "max_leverage": 20,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              }
+            ],
+            "accountTypes": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-acc-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "account_name": "Raw Spread Account",
+                "account_type": "ECN",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Raw",
+                "commission": 3.5,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-acc-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "account_name": "Standard Account",
+                "account_type": "Standard",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-acc-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "account_name": "Islamic Account",
+                "account_type": "Islamic",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": true,
+                "demo_available": true
+              }
+            ],
+            "platforms": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-plat-0",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "platform_name": "MT4",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt4-download"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-plat-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "platform_name": "MT5",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt5-download"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-plat-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "platform_name": "cTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/ctrader-download"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-plat-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "platform_name": "Mobile App",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-plat-4",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "platform_name": "iOS",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              }
+            ],
+            "paymentMethods": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-pm-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "payment_method": "Credit/Debit Card",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-pm-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "payment_method": "Bank Wire Transfer",
+                "currency": "USD",
+                "min_amount": 200,
+                "max_amount": 1000000,
+                "processing_time": "1-3 days",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-pm-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "payment_method": "PayPal",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 10000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-pm-4",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "payment_method": "Skrill",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-pm-5",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "payment_method": "Neteller",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              }
+            ],
+            "support": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-sup-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "support_type": "24/7 Live Chat",
+                "contact_info": "https://www.icmarkets.com/support",
+                "availability": "24/7",
+                "response_time": "< 1 minute"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-sup-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "support_type": "Email",
+                "contact_info": "support@icmarkets.com",
+                "availability": "24/7",
+                "response_time": "< 1 hour"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-sup-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "support_type": "Phone",
+                "contact_info": "+61 2 8014 4280",
+                "availability": "24/5",
+                "response_time": "< 5 minutes"
+              }
+            ],
+            "education": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-edu-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "resource_type": "Video Tutorial",
+                "title": "MT4 Trading Platform Guide",
+                "description": "Complete guide to using MetaTrader 4 for forex trading",
+                "url": "https://www.icmarkets.com/mt4-tutorial",
+                "difficulty_level": "Beginner",
+                "duration": "15 minutes"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-edu-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "resource_type": "Webinar",
+                "title": "Technical Analysis Basics",
+                "description": "Learn fundamental technical analysis concepts and strategies",
+                "url": "https://www.icmarkets.com/technical-analysis-webinar",
+                "difficulty_level": "Intermediate",
+                "duration": "45 minutes"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-edu-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "resource_type": "Trading Guide",
+                "title": "Risk Management Strategies",
+                "description": "Essential risk management techniques for forex traders",
+                "url": "https://www.icmarkets.com/risk-management-guide",
+                "difficulty_level": "Intermediate",
+                "duration": "30 minutes"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-edu-4",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "resource_type": "Economic Calendar",
+                "title": "Daily Market Analysis",
+                "description": "Daily market updates and economic event calendar",
+                "url": "https://www.icmarkets.com/market-analysis",
+                "difficulty_level": "All Levels",
+                "duration": "Daily"
+              }
+            ],
+            "reviews": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-rev-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "rating": 5,
+                "review_text": "IC Markets offers excellent trading conditions with raw spreads starting from 0.0 pips. The execution speed is impressive, and customer support is very responsive.",
+                "trading_experience": 3,
+                "account_type": "Raw Spread Account",
+                "username": "JohnTrader",
+                "helpful_count": 45,
+                "created_at": "2024-01-15T10:30:00Z"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-rev-2",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "rating": 4,
+                "review_text": "Great broker with reliable platforms and competitive spreads. The only downside is the limited educational content for beginners.",
+                "trading_experience": 2,
+                "account_type": "Standard Account",
+                "username": "SarahFX",
+                "helpful_count": 32,
+                "created_at": "2024-01-10T14:20:00Z"
+              },
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-rev-3",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "rating": 5,
+                "review_text": "Been trading with IC Markets for over 2 years. Excellent service, fast withdrawals, and great trading conditions. Highly recommended!",
+                "trading_experience": 5,
+                "account_type": "Raw Spread Account",
+                "username": "ProTrader99",
+                "helpful_count": 28,
+                "created_at": "2024-01-05T09:15:00Z"
+              }
+            ],
+            "affiliate_links": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-aff-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "link_url": "https://www.icmarkets.com?aff=brokeranalysis",
+                "tracking_code": "brokeranalysis",
+                "commission_rate": 10,
+                "commission_type": "CPA"
+              }
+            ],
+            "promotions": [
+              {
+                "id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2-promo-1",
+                "broker_id": "1b2f83d0-25c8-416d-80f9-8bf77f8c38f2",
+                "title": "50% Deposit Bonus",
+                "description": "Get a 50% bonus on your first deposit up to $2000",
+                "promotion_type": "Deposit Bonus",
+                "bonus_amount": 2000,
+                "bonus_currency": "USD",
+                "min_deposit": 200,
+                "terms_conditions": "Trading volume requirement: 1 lot per $10 bonus",
+                "start_date": "2024-01-01",
+                "end_date": "2024-12-31"
+              }
+            ],
+            "_count": {
+              "reviews": 0,
+              "affiliateLinks": 0,
+              "promotions": 1
+            }
+          }
+        }
+      },
+      {
+        "slug": "plus500",
+        "status": 200,
+        "success": true,
+        "data": {
+          "success": true,
+          "data": {
+            "id": "77246090-401f-4321-887b-37996eb27d64",
+            "name": "Plus500",
+            "slug": "plus500",
+            "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+            "website_url": "https://www.linkedin.com/in/adam-lemon-9ba7391",
+            "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+            "short_description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University...",
+            "rating": 4.5,
+            "review_count": 0,
+            "featured_status": false,
+            "min_deposit": 500,
+            "min_deposit_currency": "USD",
+            "spread_type": "variable",
+            "typical_spread": 0.8,
+            "max_leverage": 500,
+            "established_year": 2025,
+            "headquarters": "Unknown",
+            "company_size": 1000,
+            "total_assets": 0,
+            "active_traders": 0,
+            "status": "active",
+            "created_at": "2025-09-16T05:28:05.824+00:00",
+            "updated_at": "2025-09-16T05:47:01.012307+00:00",
+            "phone": "+61 2 8014 4280",
+            "regulations": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-reg-0",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "regulatory_body": "FCA",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-reg-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "regulatory_body": "ASIC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-reg-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "regulatory_body": "CySEC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-reg-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "regulatory_body": "FSC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-reg-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "regulatory_body": "NFA",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              }
+            ],
+            "features": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-feat-0",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "feature_name": "MT4",
+                "feature_type": "Platform",
+                "description": "MT4 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-feat-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "feature_name": "MT5",
+                "feature_type": "Platform",
+                "description": "MT5 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-feat-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "feature_name": "cTrader",
+                "feature_type": "Platform",
+                "description": "cTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-feat-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "feature_name": "WebTrader",
+                "feature_type": "Platform",
+                "description": "WebTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-feat-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "feature_name": "Mobile App",
+                "feature_type": "Platform",
+                "description": "Mobile App trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:05.824+00:00"
+              }
+            ],
+            "tradingConditions": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-tc-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "instrument_type": "Forex",
+                "min_spread": 0,
+                "typical_spread": 0.3,
+                "max_leverage": 500,
+                "commission_rate": 3.5,
+                "commission_type": "USD per lot",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-tc-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "instrument_type": "Indices",
+                "min_spread": 0.4,
+                "typical_spread": 0.8,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.1
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-tc-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "instrument_type": "Commodities",
+                "min_spread": 0.2,
+                "typical_spread": 0.5,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-tc-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "instrument_type": "Cryptocurrency",
+                "min_spread": 0.5,
+                "typical_spread": 0.8,
+                "max_leverage": 20,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              }
+            ],
+            "accountTypes": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-acc-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "account_name": "Raw Spread Account",
+                "account_type": "ECN",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Raw",
+                "commission": 3.5,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-acc-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "account_name": "Standard Account",
+                "account_type": "Standard",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-acc-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "account_name": "Islamic Account",
+                "account_type": "Islamic",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": true,
+                "demo_available": true
+              }
+            ],
+            "platforms": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-0",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "MT4",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt4-download"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "MT5",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt5-download"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "cTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/ctrader-download"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "WebTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "Mobile App",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-plat-5",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "platform_name": "iOS",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              }
+            ],
+            "paymentMethods": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-pm-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "payment_method": "Credit/Debit Card",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-pm-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "payment_method": "Bank Wire Transfer",
+                "currency": "USD",
+                "min_amount": 200,
+                "max_amount": 1000000,
+                "processing_time": "1-3 days",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-pm-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "payment_method": "PayPal",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 10000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-pm-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "payment_method": "Skrill",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-pm-5",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "payment_method": "Neteller",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              }
+            ],
+            "support": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-sup-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "support_type": "24/7 Live Chat",
+                "contact_info": "https://www.icmarkets.com/support",
+                "availability": "24/7",
+                "response_time": "< 1 minute"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-sup-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "support_type": "Email",
+                "contact_info": "support@icmarkets.com",
+                "availability": "24/7",
+                "response_time": "< 1 hour"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-sup-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "support_type": "Phone",
+                "contact_info": "+61 2 8014 4280",
+                "availability": "24/5",
+                "response_time": "< 5 minutes"
+              }
+            ],
+            "education": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-edu-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "resource_type": "Video Tutorial",
+                "title": "MT4 Trading Platform Guide",
+                "description": "Complete guide to using MetaTrader 4 for forex trading",
+                "url": "https://www.icmarkets.com/mt4-tutorial",
+                "difficulty_level": "Beginner",
+                "duration": "15 minutes"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-edu-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "resource_type": "Webinar",
+                "title": "Technical Analysis Basics",
+                "description": "Learn fundamental technical analysis concepts and strategies",
+                "url": "https://www.icmarkets.com/technical-analysis-webinar",
+                "difficulty_level": "Intermediate",
+                "duration": "45 minutes"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-edu-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "resource_type": "Trading Guide",
+                "title": "Risk Management Strategies",
+                "description": "Essential risk management techniques for forex traders",
+                "url": "https://www.icmarkets.com/risk-management-guide",
+                "difficulty_level": "Intermediate",
+                "duration": "30 minutes"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-edu-4",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "resource_type": "Economic Calendar",
+                "title": "Daily Market Analysis",
+                "description": "Daily market updates and economic event calendar",
+                "url": "https://www.icmarkets.com/market-analysis",
+                "difficulty_level": "All Levels",
+                "duration": "Daily"
+              }
+            ],
+            "reviews": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-rev-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "rating": 5,
+                "review_text": "IC Markets offers excellent trading conditions with raw spreads starting from 0.0 pips. The execution speed is impressive, and customer support is very responsive.",
+                "trading_experience": 3,
+                "account_type": "Raw Spread Account",
+                "username": "JohnTrader",
+                "helpful_count": 45,
+                "created_at": "2024-01-15T10:30:00Z"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-rev-2",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "rating": 4,
+                "review_text": "Great broker with reliable platforms and competitive spreads. The only downside is the limited educational content for beginners.",
+                "trading_experience": 2,
+                "account_type": "Standard Account",
+                "username": "SarahFX",
+                "helpful_count": 32,
+                "created_at": "2024-01-10T14:20:00Z"
+              },
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-rev-3",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "rating": 5,
+                "review_text": "Been trading with IC Markets for over 2 years. Excellent service, fast withdrawals, and great trading conditions. Highly recommended!",
+                "trading_experience": 5,
+                "account_type": "Raw Spread Account",
+                "username": "ProTrader99",
+                "helpful_count": 28,
+                "created_at": "2024-01-05T09:15:00Z"
+              }
+            ],
+            "affiliate_links": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-aff-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "link_url": "https://www.icmarkets.com?aff=brokeranalysis",
+                "tracking_code": "brokeranalysis",
+                "commission_rate": 10,
+                "commission_type": "CPA"
+              }
+            ],
+            "promotions": [
+              {
+                "id": "77246090-401f-4321-887b-37996eb27d64-promo-1",
+                "broker_id": "77246090-401f-4321-887b-37996eb27d64",
+                "title": "50% Deposit Bonus",
+                "description": "Get a 50% bonus on your first deposit up to $2000",
+                "promotion_type": "Deposit Bonus",
+                "bonus_amount": 2000,
+                "bonus_currency": "USD",
+                "min_deposit": 200,
+                "terms_conditions": "Trading volume requirement: 1 lot per $10 bonus",
+                "start_date": "2024-01-01",
+                "end_date": "2024-12-31"
+              }
+            ],
+            "_count": {
+              "reviews": 0,
+              "affiliateLinks": 0,
+              "promotions": 1
+            }
+          }
+        }
+      },
+      {
+        "slug": "xtb",
+        "status": 200,
+        "success": true,
+        "data": {
+          "success": true,
+          "data": {
+            "id": "ab15a435-7399-4fda-83e1-424ce076e623",
+            "name": "Xtb",
+            "slug": "xtb",
+            "logo_url": "https://www.dailyforex.comdata:image/png;base64,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",
+            "website_url": "https://x.com/daily_forex",
+            "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+            "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+            "rating": 1.9,
+            "review_count": 0,
+            "featured_status": false,
+            "min_deposit": 0,
+            "min_deposit_currency": "USD",
+            "spread_type": "Variable",
+            "typical_spread": 0.5,
+            "max_leverage": 500,
+            "established_year": 2025,
+            "headquarters": "Unknown",
+            "company_size": "Unknown",
+            "total_assets": 0,
+            "active_traders": 0,
+            "status": "active",
+            "created_at": "2025-09-16T05:28:11.295+00:00",
+            "updated_at": "2025-09-16T05:47:00.531645+00:00",
+            "phone": "+61 2 8014 4280",
+            "regulations": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-reg-0",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "regulatory_body": "FCA",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-reg-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "regulatory_body": "ASIC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-reg-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "regulatory_body": "CySEC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-reg-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "regulatory_body": "FSC",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-reg-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "regulatory_body": "BaFin",
+                "license_number": "",
+                "regulation_status": "Regulated",
+                "jurisdiction": "Global",
+                "verification_date": "2025-09-17",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              }
+            ],
+            "features": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-feat-0",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "feature_name": "MT4",
+                "feature_type": "Platform",
+                "description": "MT4 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-feat-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "feature_name": "MT5",
+                "feature_type": "Platform",
+                "description": "MT5 trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-feat-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "feature_name": "cTrader",
+                "feature_type": "Platform",
+                "description": "cTrader trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-feat-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "feature_name": "Mobile App",
+                "feature_type": "Platform",
+                "description": "Mobile App trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-feat-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "feature_name": "iOS",
+                "feature_type": "Platform",
+                "description": "iOS trading platform",
+                "availability": true,
+                "category": "Trading",
+                "created_at": "2025-09-16T05:28:11.295+00:00"
+              }
+            ],
+            "tradingConditions": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-tc-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "instrument_type": "Forex",
+                "min_spread": 0,
+                "typical_spread": 0.3,
+                "max_leverage": 500,
+                "commission_rate": 3.5,
+                "commission_type": "USD per lot",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-tc-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "instrument_type": "Indices",
+                "min_spread": 0.4,
+                "typical_spread": 0.8,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.1
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-tc-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "instrument_type": "Commodities",
+                "min_spread": 0.2,
+                "typical_spread": 0.5,
+                "max_leverage": 100,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-tc-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "instrument_type": "Cryptocurrency",
+                "min_spread": 0.5,
+                "typical_spread": 0.8,
+                "max_leverage": 20,
+                "commission_rate": 0,
+                "commission_type": "None",
+                "min_trade_size": 0.01
+              }
+            ],
+            "accountTypes": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-acc-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "account_name": "Raw Spread Account",
+                "account_type": "ECN",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Raw",
+                "commission": 3.5,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-acc-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "account_name": "Standard Account",
+                "account_type": "Standard",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": false,
+                "demo_available": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-acc-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "account_name": "Islamic Account",
+                "account_type": "Islamic",
+                "min_deposit": 200,
+                "min_deposit_currency": "USD",
+                "spread_type": "Variable",
+                "commission": 0,
+                "leverage": 500,
+                "islamic_account": true,
+                "demo_available": true
+              }
+            ],
+            "platforms": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-plat-0",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "platform_name": "MT4",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt4-download"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-plat-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "platform_name": "MT5",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/mt5-download"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-plat-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "platform_name": "cTrader",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": "https://www.icmarkets.com/ctrader-download"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-plat-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "platform_name": "Mobile App",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-plat-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "platform_name": "iOS",
+                "platform_type": "Trading",
+                "version": "Latest",
+                "web_trading": true,
+                "mobile_trading": true,
+                "desktop_trading": true,
+                "download_url": null
+              }
+            ],
+            "paymentMethods": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-pm-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "payment_method": "Credit/Debit Card",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-pm-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "payment_method": "Bank Wire Transfer",
+                "currency": "USD",
+                "min_amount": 200,
+                "max_amount": 1000000,
+                "processing_time": "1-3 days",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-pm-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "payment_method": "PayPal",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 10000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-pm-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "payment_method": "Skrill",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-pm-5",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "payment_method": "Neteller",
+                "currency": "USD",
+                "min_amount": 50,
+                "max_amount": 50000,
+                "processing_time": "Instant",
+                "deposit": true,
+                "withdrawal": true
+              }
+            ],
+            "support": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-sup-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "support_type": "24/7 Live Chat",
+                "contact_info": "https://www.icmarkets.com/support",
+                "availability": "24/7",
+                "response_time": "< 1 minute"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-sup-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "support_type": "Email",
+                "contact_info": "support@icmarkets.com",
+                "availability": "24/7",
+                "response_time": "< 1 hour"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-sup-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "support_type": "Phone",
+                "contact_info": "+61 2 8014 4280",
+                "availability": "24/5",
+                "response_time": "< 5 minutes"
+              }
+            ],
+            "education": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-edu-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "resource_type": "Video Tutorial",
+                "title": "MT4 Trading Platform Guide",
+                "description": "Complete guide to using MetaTrader 4 for forex trading",
+                "url": "https://www.icmarkets.com/mt4-tutorial",
+                "difficulty_level": "Beginner",
+                "duration": "15 minutes"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-edu-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "resource_type": "Webinar",
+                "title": "Technical Analysis Basics",
+                "description": "Learn fundamental technical analysis concepts and strategies",
+                "url": "https://www.icmarkets.com/technical-analysis-webinar",
+                "difficulty_level": "Intermediate",
+                "duration": "45 minutes"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-edu-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "resource_type": "Trading Guide",
+                "title": "Risk Management Strategies",
+                "description": "Essential risk management techniques for forex traders",
+                "url": "https://www.icmarkets.com/risk-management-guide",
+                "difficulty_level": "Intermediate",
+                "duration": "30 minutes"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-edu-4",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "resource_type": "Economic Calendar",
+                "title": "Daily Market Analysis",
+                "description": "Daily market updates and economic event calendar",
+                "url": "https://www.icmarkets.com/market-analysis",
+                "difficulty_level": "All Levels",
+                "duration": "Daily"
+              }
+            ],
+            "reviews": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-rev-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "rating": 5,
+                "review_text": "IC Markets offers excellent trading conditions with raw spreads starting from 0.0 pips. The execution speed is impressive, and customer support is very responsive.",
+                "trading_experience": 3,
+                "account_type": "Raw Spread Account",
+                "username": "JohnTrader",
+                "helpful_count": 45,
+                "created_at": "2024-01-15T10:30:00Z"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-rev-2",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "rating": 4,
+                "review_text": "Great broker with reliable platforms and competitive spreads. The only downside is the limited educational content for beginners.",
+                "trading_experience": 2,
+                "account_type": "Standard Account",
+                "username": "SarahFX",
+                "helpful_count": 32,
+                "created_at": "2024-01-10T14:20:00Z"
+              },
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-rev-3",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "rating": 5,
+                "review_text": "Been trading with IC Markets for over 2 years. Excellent service, fast withdrawals, and great trading conditions. Highly recommended!",
+                "trading_experience": 5,
+                "account_type": "Raw Spread Account",
+                "username": "ProTrader99",
+                "helpful_count": 28,
+                "created_at": "2024-01-05T09:15:00Z"
+              }
+            ],
+            "affiliate_links": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-aff-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "link_url": "https://www.icmarkets.com?aff=brokeranalysis",
+                "tracking_code": "brokeranalysis",
+                "commission_rate": 10,
+                "commission_type": "CPA"
+              }
+            ],
+            "promotions": [
+              {
+                "id": "ab15a435-7399-4fda-83e1-424ce076e623-promo-1",
+                "broker_id": "ab15a435-7399-4fda-83e1-424ce076e623",
+                "title": "50% Deposit Bonus",
+                "description": "Get a 50% bonus on your first deposit up to $2000",
+                "promotion_type": "Deposit Bonus",
+                "bonus_amount": 2000,
+                "bonus_currency": "USD",
+                "min_deposit": 200,
+                "terms_conditions": "Trading volume requirement: 1 lot per $10 bonus",
+                "start_date": "2024-01-01",
+                "end_date": "2024-12-31"
+              }
+            ],
+            "_count": {
+              "reviews": 0,
+              "affiliateLinks": 0,
+              "promotions": 1
+            }
+          }
+        }
+      }
+    ],
+    "pages": [
+      {
+        "slug": "bdswiss",
+        "status": 200,
+        "hasMainElement": false,
+        "hasErrorBoundary": false,
+        "hasLoadingState": false,
+        "hasBrokerContent": true,
+        "is404": true,
+        "success": false
+      },
+      {
+        "slug": "capital",
+        "status": 200,
+        "hasMainElement": false,
+        "hasErrorBoundary": false,
+        "hasLoadingState": false,
+        "hasBrokerContent": true,
+        "is404": true,
+        "success": false
+      },
+      {
+        "slug": "etoro",
+        "status": 200,
+        "hasMainElement": false,
+        "hasErrorBoundary": false,
+        "hasLoadingState": false,
+        "hasBrokerContent": true,
+        "is404": true,
+        "success": false
+      },
+      {
+        "slug": "plus500",
+        "status": 200,
+        "hasMainElement": false,
+        "hasErrorBoundary": false,
+        "hasLoadingState": false,
+        "hasBrokerContent": true,
+        "is404": true,
+        "success": false
+      },
+      {
+        "slug": "xtb",
+        "status": 200,
+        "hasMainElement": false,
+        "hasErrorBoundary": false,
+        "hasLoadingState": false,
+        "hasBrokerContent": true,
+        "is404": true,
+        "success": false
+      }
+    ]
+  },
+  "recommendations": [
+    "Some brokers are missing from the database. Consider adding sample data.",
+    "Some broker pages are not rendering correctly. Check component implementation and routing."
+  ]
+}

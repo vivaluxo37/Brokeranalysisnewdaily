@@ -1,6 +1,6 @@
-import { generateResponse, analyzeBrokerData as analyzeWithGroq } from './groq'
-import { generateAnthropicResponse, analyzeBrokerWithAnthropic } from './anthropic'
-import { generateOpenAIResponse, analyzeBrokerWithOpenAI } from './openai'
+import { generateResponse, analyzeBrokerData as analyzeWithGroq, GroqMessage } from './groq'
+import { generateAnthropicResponse, analyzeBrokerWithAnthropic, AnthropicMessage } from './anthropic'
+import { generateOpenAIResponse, analyzeBrokerWithOpenAI, OpenAIMessage } from './openai'
 
 export type AIProvider = 'groq' | 'anthropic' | 'openai'
 
@@ -13,7 +13,11 @@ export interface AIServiceConfig {
 
 export interface UnifiedAIResponse {
   content: string
-  usage: any
+  usage: {
+    prompt_tokens?: number
+    completion_tokens?: number
+    total_tokens?: number
+  }
   model: string
   provider: AIProvider
 }
@@ -25,40 +29,50 @@ export class AIService {
     this.config = config
   }
 
-  async generateResponse(messages: any[]): Promise<UnifiedAIResponse> {
+  async generateResponse(messages: { role: string; content: string }[]): Promise<UnifiedAIResponse> {
     switch (this.config.provider) {
       case 'groq':
         const groqResponse = await generateResponse(
-          messages.map(m => ({ role: m.role, content: m.content })),
+          messages.map(m => ({ role: m.role as 'system' | 'user' | 'assistant', content: m.content })) as GroqMessage[],
           this.config.model || 'llama3-70b-8192',
           this.config.temperature || 0.7,
           this.config.maxTokens || 2048
         )
         return {
-          ...groqResponse,
+          content: groqResponse.content,
+          usage: groqResponse.usage,
+          model: groqResponse.model,
           provider: 'groq'
         }
 
       case 'anthropic':
         const anthropicResponse = await generateAnthropicResponse(
-          messages.filter(m => m.role !== 'system').map(m => ({ role: m.role, content: m.content })),
+          messages.filter(m => m.role !== 'system').map(m => ({ role: m.role as 'user' | 'assistant', content: m.content })) as AnthropicMessage[],
           this.config.model || 'claude-3-sonnet-20240229',
           this.config.maxTokens || 2048
         )
         return {
-          ...anthropicResponse,
+          content: anthropicResponse.content,
+          usage: {
+            prompt_tokens: anthropicResponse.usage.input_tokens,
+            completion_tokens: anthropicResponse.usage.output_tokens,
+            total_tokens: anthropicResponse.usage.input_tokens + anthropicResponse.usage.output_tokens
+          },
+          model: anthropicResponse.model,
           provider: 'anthropic'
         }
 
       case 'openai':
         const openaiResponse = await generateOpenAIResponse(
-          messages,
+          messages.map(m => ({ role: m.role as 'system' | 'user' | 'assistant', content: m.content })) as OpenAIMessage[],
           this.config.model || 'gpt-4-turbo-preview',
           this.config.temperature || 0.7,
           this.config.maxTokens || 2048
         )
         return {
-          ...openaiResponse,
+          content: openaiResponse.content,
+          usage: openaiResponse.usage,
+          model: openaiResponse.model,
           provider: 'openai'
         }
 
@@ -67,26 +81,36 @@ export class AIService {
     }
   }
 
-  async analyzeBroker(brokerData: any): Promise<UnifiedAIResponse> {
+  async analyzeBroker(brokerData: Record<string, unknown>): Promise<UnifiedAIResponse> {
     switch (this.config.provider) {
       case 'groq':
         const groqAnalysis = await analyzeWithGroq(JSON.stringify(brokerData, null, 2))
         return {
-          ...groqAnalysis,
+          content: groqAnalysis.content,
+          usage: groqAnalysis.usage,
+          model: groqAnalysis.model,
           provider: 'groq'
         }
 
       case 'anthropic':
         const anthropicAnalysis = await analyzeBrokerWithAnthropic(brokerData)
         return {
-          ...anthropicAnalysis,
+          content: anthropicAnalysis.content,
+          usage: {
+            prompt_tokens: anthropicAnalysis.usage.input_tokens,
+            completion_tokens: anthropicAnalysis.usage.output_tokens,
+            total_tokens: anthropicAnalysis.usage.input_tokens + anthropicAnalysis.usage.output_tokens
+          },
+          model: anthropicAnalysis.model,
           provider: 'anthropic'
         }
 
       case 'openai':
         const openaiAnalysis = await analyzeBrokerWithOpenAI(brokerData)
         return {
-          ...openaiAnalysis,
+          content: openaiAnalysis.content,
+          usage: openaiAnalysis.usage,
+          model: openaiAnalysis.model,
           provider: 'openai'
         }
 
@@ -143,12 +167,16 @@ export function getDefaultAIService(): AIService {
 }
 
 // Multi-provider analysis for comprehensive insights
-export async function analyzeWithMultipleProviders(brokerData: any): Promise<{
+export async function analyzeWithMultipleProviders(brokerData: Record<string, unknown>): Promise<{
   groq?: UnifiedAIResponse
   anthropic?: UnifiedAIResponse
   openai?: UnifiedAIResponse
 }> {
-  const results: any = {}
+  const results: {
+    groq?: UnifiedAIResponse
+    anthropic?: UnifiedAIResponse
+    openai?: UnifiedAIResponse
+  } = {}
 
   // Try each provider if API keys are available
   try {

@@ -1,64 +1,217 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
-  /* Custom colors for broker analysis theme */
+  /* Modern 2025 Color Palette */
+  --background: #ffffff;
+  --foreground: #0f172a;
+  --surface: #f8fafc;
+  --surface-elevated: #ffffff;
+  
+  /* Primary Brand Colors */
   --primary: #15418F;
   --primary-foreground: #ffffff;
+  --primary-light: #3b82f6;
+  --primary-lighter: #93c5fd;
+  
+  /* Secondary Colors */
   --secondary: #129AE7;
   --secondary-foreground: #ffffff;
+  --secondary-light: #38bdf8;
+  
+  /* Accent Colors */
   --accent: #93CCFF;
   --accent-foreground: #15418F;
-  --muted: #f9f9f9;
-  --muted-foreground: #52616B;
-  --destructive: #D62957;
+  --accent-dark: #0ea5e9;
+  
+  /* Success & Status Colors */
+  --success: #10b981;
+  --success-foreground: #ffffff;
+  --warning: #f59e0b;
+  --warning-foreground: #ffffff;
+  --destructive: #ef4444;
   --destructive-foreground: #ffffff;
+  
+  /* Neutral Colors */
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
   --border: #e2e8f0;
   --input: #e2e8f0;
   --ring: #15418F;
-  --radius: 0.5rem;
+  --radius: 12px;
+  
+  /* Glass Effect Variables */
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  
+  /* Gradient Variables */
+  --gradient-primary: linear-gradient(135deg, #15418F 0%, #129AE7 100%);
+  --gradient-secondary: linear-gradient(135deg, #93CCFF 0%, #15418F 100%);
+  --gradient-surface: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-
-  /* Custom theme colors */
+  --color-surface: var(--surface);
+  --color-surface-elevated: var(--surface-elevated);
+  
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
+  --color-primary-light: var(--primary-light);
+  --color-primary-lighter: var(--primary-lighter);
+  
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary-light: var(--secondary-light);
+  
   --color-accent: var(--accent);
   --color-accent-foreground: var(--accent-foreground);
-  --color-muted: var(--muted);
-  --color-muted-foreground: var(--muted-foreground);
+  --color-accent-dark: var(--accent-dark);
+  
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
   --color-destructive: var(--destructive);
   --color-destructive-foreground: var(--destructive-foreground);
+  
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
   --radius: var(--radius);
+  
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Space Grotesk', system-ui, -apple-system, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --surface: #1a1a1a;
+    --surface-elevated: #262626;
     --muted: #1a1a1a;
     --muted-foreground: #a3a3a3;
     --border: #27272a;
     --input: #27272a;
+    --glass-bg: rgba(0, 0, 0, 0.3);
+    --glass-border: rgba(255, 255, 255, 0.1);
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-geist-sans);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
+#root {
+  margin: auto;
+}
+
+/* Modern Typography Utilities */
+@utility heading-xl {
+  font-family: var(--font-heading);
+  font-size: 3.75rem;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+@utility heading-lg {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+@utility heading-md {
+  font-family: var(--font-heading);
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+@utility heading-sm {
+  font-family: var(--font-heading);
+  font-size: 1.875rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+@utility body-lg {
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+@utility body-md {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+@utility body-sm {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Glass Effect Utilities */
+@utility glass-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+@utility glass-surface {
+  background: rgba(248, 250, 252, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 0.3);
+}
+
+/* Animation Utilities */
+@utility animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@utility animate-glow {
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@utility animate-slide-up {
+  animation: slideUp 0.6s ease-out;
+}
+
+@utility animate-fade-in {
+  animation: fadeIn 0.8s ease-out;
+}
+
+/* Gradient Utilities */
+@utility gradient-primary {
+  background: var(--gradient-primary);
+}
+
+@utility gradient-secondary {
+  background: var(--gradient-secondary);
+}
+
+@utility gradient-surface {
+  background: var(--gradient-surface);
 }
 
 /* Custom scrollbar */
@@ -69,11 +222,13 @@ body {
 
 ::-webkit-scrollbar-track {
   background: var(--muted);
+  border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb {
   background: var(--muted-foreground);
   border-radius: 4px;
+  transition: background 0.2s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -84,4 +239,688 @@ body {
 :focus-visible {
   outline: 2px solid var(--ring);
   outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Keyframes */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 20px rgba(21, 65, 143, 0.3);
+  }
+  to {
+    box-shadow: 0 0 30px rgba(21, 65, 143, 0.6);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Hover effects */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 30px rgba(21, 65, 143, 0.4);
+}
+
+/* Interactive elements */
+.interactive-card {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Modern button styles */
+.btn-modern {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.btn-modern::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn-modern:hover::before {
+  left: 100%;
+}
+
+/* Broker Card Styles */
+@utility broker-card {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  background: linear-gradient(135deg, rgba(255,255,255,0.95) 0%, rgba(248,250,252,0.95) 100%);
+  backdrop-filter: blur(10px);
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+}
+
+.broker-card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  border-color: #bfdbfe;
+  transform: translateY(-4px);
+}
+
+@utility broker-card-list {
+  height: auto;
+  min-height: 280px;
+}
+
+@utility broker-card-content {
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  overflow: hidden;
+}
+
+@utility broker-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-shrink: 0;
+}
+
+@utility broker-card-logo {
+  position: relative;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+}
+
+.broker-card-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 0.5rem;
+}
+
+@utility broker-card-info {
+  flex: 1 1 0%;
+  min-width: 0;
+}
+
+@utility broker-card-name {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.25rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+@utility broker-card-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@utility broker-card-stars {
+  display: flex;
+  align-items: center;
+}
+
+@utility broker-card-meta {
+  font-size: 0.875rem;
+  color: #4b5563;
+}
+
+@utility broker-card-body {
+  flex: 1 1 0%;
+  overflow: hidden;
+}
+
+@utility broker-card-section {
+  margin-bottom: 1rem;
+}
+
+@utility broker-card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+@utility broker-card-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+@utility broker-card-badge-regulation {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+@utility broker-card-badge-platform {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+@utility broker-card-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+@utility broker-card-detail {
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+}
+
+@utility broker-card-detail-label {
+  font-size: 0.75rem;
+  color: #4b5563;
+  margin-bottom: 0.25rem;
+}
+
+@utility broker-card-detail-value {
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+
+@utility broker-card-description {
+  font-size: 0.875rem;
+  color: #4b5563;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  margin-bottom: 1rem;
+}
+
+@utility broker-card-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+@utility broker-card-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+@utility broker-card-button {
+  flex: 1 1 0%;
+  padding: 0.625rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  transform: scale(1);
+}
+
+.broker-card-button:hover {
+  transform: scale(1.05);
+}
+
+.broker-card-button:focus {
+  outline: none;
+  ring: 2px solid;
+  ring-offset: 2px;
+}
+
+@utility broker-card-button-primary {
+  background-color: #2563eb;
+  color: white;
+}
+
+.broker-card-button-primary:hover {
+  background-color: #1d4ed8;
+}
+
+.broker-card-button-primary:focus {
+  ring-color: #3b82f6;
+}
+
+@utility broker-card-button-secondary {
+  background-color: #16a34a;
+  color: white;
+}
+
+.broker-card-button-secondary:hover {
+  background-color: #15803d;
+}
+
+.broker-card-button-secondary:focus {
+  ring-color: #22c55e;
+}
+
+@utility broker-card-comparison {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.broker-card-comparison:hover {
+  background-color: #f3f4f6;
+}
+
+.broker-card-comparison:focus {
+  outline: none;
+  ring: 2px solid;
+  ring-color: #3b82f6;
+}
+
+@utility broker-card-comparison-active {
+  background-color: #dbeafe;
+  color: #2563eb;
+}
+
+@utility broker-card-comparison-inactive {
+  color: #9ca3af;
+}
+
+.broker-card-comparison-inactive:hover {
+  color: #4b5563;
+}
+
+@utility broker-card-featured {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: linear-gradient(to right, #2563eb, #1d4ed8);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Broker Card Skeleton */
+@utility broker-card-skeleton {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  height: 480px;
+}
+
+@utility broker-card-skeleton-list {
+  height: auto;
+  min-height: 280px;
+}
+
+@utility skeleton-shimmer {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+@utility skeleton-avatar {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@utility skeleton-title {
+  height: 1.5rem;
+  border-radius: 0.25rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@utility skeleton-text {
+  height: 1rem;
+  border-radius: 0.25rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@utility skeleton-badge {
+  height: 1.5rem;
+  width: 4rem;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@utility skeleton-detail {
+  height: 3rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@utility skeleton-button {
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Text Truncation */
+@utility text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@utility text-truncate-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+@utility text-truncate-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+/* Responsive Broker Grid */
+@utility broker-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+@utility broker-grid-sm {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .broker-grid-sm {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .broker-grid-sm {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .broker-grid-sm {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@utility broker-grid-md {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .broker-grid-md {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .broker-grid-md {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@utility broker-grid-lg {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .broker-grid-lg {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .broker-grid-lg {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .broker-grid-lg {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1536px) {
+  .broker-grid-lg {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+/* Animation Classes */
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-pulse-gentle {
+  animation: pulseGentle 2s ease-in-out infinite;
+}
+
+@keyframes pulseGentle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+/* Broker Status Indicators */
+@utility broker-status-active {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+@utility broker-status-featured {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: linear-gradient(to right, #2563eb, #1d4ed8);
+  color: white;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+@utility broker-status-new {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background-color: #f3e8ff;
+  color: #6b21a8;
+}
+
+/* Interactive Elements */
+@utility broker-card-interactive {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.broker-card-interactive::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, transparent, rgba(255,255,255,0.1), transparent);
+  transform: translateX(-100%);
+  transition: transform 0.6s ease;
+}
+
+.broker-card-interactive:hover::before {
+  transform: translateX(100%);
+}
+
+/* Glass Morphism Effect */
+@utility broker-card-glass {
+  position: relative;
+  background: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, rgba(248,250,252,0.9) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.broker-card-glass::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(21,65,143,0.05) 100%);
+  pointer-events: none;
+}
+
+/* Shadow System */
+@utility broker-shadow-sm {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+@utility broker-shadow {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+@utility broker-shadow-lg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+@utility broker-shadow-xl {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+@utility broker-shadow-2xl {
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+/* Focus Styles */
+.broker-card-focusable:focus {
+  outline: none;
+  ring: 2px solid;
+  ring-color: #3b82f6;
+  ring-offset: 2px;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .broker-card {
+    background-color: #1f2937;
+    border-color: #374151;
+    background: linear-gradient(135deg, rgba(31,41,55,0.95) 0%, rgba(17,24,39,0.95) 100%);
+  }
+
+  .broker-card:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-color: #3b82f6;
+  }
+
+  .broker-card-detail {
+    background-color: #374151;
+  }
+
+  .broker-card-badge-regulation {
+    background-color: #14532d;
+    color: #bbf7d0;
+  }
+
+  .broker-card-badge-platform {
+    background-color: #1e3a8a;
+    color: #93c5fd;
+  }
 }

@@ -51,7 +51,7 @@ export async function generateOpenAIResponse(
   }
 }
 
-export async function analyzeBrokerWithOpenAI(brokerData: any): Promise<OpenAIResponse> {
+export async function analyzeBrokerWithOpenAI(brokerData: Record<string, unknown>): Promise<OpenAIResponse> {
   const systemPrompt = `You are a professional forex broker analysis AI assistant. Analyze the provided broker data and provide insights on:
 - Regulatory compliance and trustworthiness
 - Trading conditions and cost structure

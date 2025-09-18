@@ -215,33 +215,41 @@ export class AutomatedImportPipeline {
       try {
         const fileResult = await this.processFile(file);
 
-        batchResult.processedFiles++;
+        batchResult.processedFiles = (batchResult.processedFiles || 0) + 1;
 
         if (fileResult.success) {
-          batchResult.importedBrokers++;
+          batchResult.importedBrokers = (batchResult.importedBrokers || 0) + 1;
 
           // Update stats
-          batchResult.stats.totalRegulations += fileResult.stats.regulations;
-          batchResult.stats.totalFeatures += fileResult.stats.features;
-          batchResult.stats.totalTradingConditions += fileResult.stats.tradingConditions;
-          batchResult.stats.totalAccountTypes += fileResult.stats.accountTypes;
-          batchResult.stats.totalPlatforms += fileResult.stats.platforms;
-          batchResult.stats.totalPaymentMethods += fileResult.stats.paymentMethods;
-          batchResult.stats.totalSupport += fileResult.stats.support;
-          batchResult.stats.totalEducation += fileResult.stats.education;
-          batchResult.stats.totalReviews += fileResult.stats.reviews;
-          batchResult.stats.totalAffiliateLinks += fileResult.stats.affiliateLinks;
-          batchResult.stats.totalPromotions += fileResult.stats.promotions;
+          if (batchResult.stats) {
+            batchResult.stats.totalRegulations += fileResult.stats.regulations;
+            batchResult.stats.totalFeatures += fileResult.stats.features;
+            batchResult.stats.totalTradingConditions += fileResult.stats.tradingConditions;
+            batchResult.stats.totalAccountTypes += fileResult.stats.accountTypes;
+            batchResult.stats.totalPlatforms += fileResult.stats.platforms;
+            batchResult.stats.totalPaymentMethods += fileResult.stats.paymentMethods;
+            batchResult.stats.totalSupport += fileResult.stats.support;
+            batchResult.stats.totalEducation += fileResult.stats.education;
+            batchResult.stats.totalReviews += fileResult.stats.reviews;
+            batchResult.stats.totalAffiliateLinks += fileResult.stats.affiliateLinks;
+            batchResult.stats.totalPromotions += fileResult.stats.promotions;
+          }
         } else {
-          batchResult.failedFiles++;
+          batchResult.failedFiles = (batchResult.failedFiles || 0) + 1;
         }
 
-        batchResult.errors.push(...fileResult.errors);
-        batchResult.warnings.push(...fileResult.warnings);
+        if (batchResult.errors) {
+          batchResult.errors.push(...fileResult.errors);
+        }
+        if (batchResult.warnings) {
+          batchResult.warnings.push(...fileResult.warnings);
+        }
 
       } catch (error) {
-        batchResult.failedFiles++;
-        batchResult.errors.push(`Failed to process file ${file}: ${error instanceof Error ? error.message : 'Unknown error'}`);
+        batchResult.failedFiles = (batchResult.failedFiles || 0) + 1;
+        if (batchResult.errors) {
+          batchResult.errors.push(`Failed to process file ${file}: ${error instanceof Error ? error.message : 'Unknown error'}`);
+        }
       }
     }
 

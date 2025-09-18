@@ -3,9 +3,10 @@ import { redirect } from "next/navigation";
 import { UserButton } from "@clerk/nextjs";
 import Link from "next/link";
 import { Bell, Settings, TrendingUp, Users, BookOpen, Star } from "lucide-react";
+import Footer from "@/app/components/Footer";
 
 export default async function DashboardPage() {
-  const { userId } = auth();
+  const { userId } = await auth();
 
   if (!userId) {
     redirect("/sign-in");
@@ -206,6 +207,7 @@ export default async function DashboardPage() {
           </div>
         </div>
       </main>
+      <Footer />
     </div>
   );
 }

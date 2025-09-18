@@ -1,0 +1,6632 @@
+{
+  "extractedAt": "2025-09-18T06:01:12.497Z",
+  "totalBrokers": 118,
+  "brokers": [
+    {
+      "brokerName": "Admirals",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Admiral Markets is a well-regulated Forex and CFD brokerage that has been in operation since 2001. Read the full review including bonuses & promotions, account types, user reviews and more.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=admirals-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Financial Conduct Authority (FCA), while Admiral Markets Cyprus LTD operates under the Cyprus Securities and Exchange Commission (CySEC) framework"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "admirals-review",
+      "filePath": "admirals-review.html",
+      "extractedAt": "2025-09-18T06:01:10.704Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Alpari International",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Alpari any good? Find the best review of Alpari.org at DailyForex.com – we cover the Alpari MetaTrader, an Alpari pro account review and more. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Alpari International\">"
+      ],
+      "canonical": "<link rel=canonical href=alpari-international-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Mwali International Services Authority"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:500",
+      "platforms": [
+        "forex",
+        "metatrader",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "alpari-international-review",
+      "filePath": "alpari-international-review.html",
+      "extractedAt": "2025-09-18T06:01:10.720Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Apex Trader Funding",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth Apex Trader Funding broker review and compare it to other brokers before taking a decision if Apex Trader Funding has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Apex Trader Funding\">"
+      ],
+      "canonical": "<link rel=canonical href=apex-trader-funding-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "apex-trader-funding-review",
+      "filePath": "apex-trader-funding-review.html",
+      "extractedAt": "2025-09-18T06:01:10.733Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Avatrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth AvaTrade review and compare it to other Forex brokers before deciding if AvaTrade has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=avatrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:400",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC",
+        "CFTC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "avatrade-review",
+      "filePath": "avatrade-review.html",
+      "extractedAt": "2025-09-18T06:01:10.751Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Axitrader",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Axi pros & cons, regulations, trading platforms and more - authorized and regulated in St. Vincent and the Grenadines by the Financial Services Authority (FSA) \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=axitrader-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller",
+        "skrill",
+        "bank transfer",
+        "paypal",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "FSA",
+        "SEC",
+        "NFA",
+        "FCA",
+        "FSC",
+        "CFTC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "axitrader-review",
+      "filePath": "axitrader-review.html",
+      "extractedAt": "2025-09-18T06:01:10.805Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Bdswiss",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is BDSwiss a good broker? Is it reliable? How long does it take to withdraw money from BDSwiss? find out all the data you need for better & safe trading!\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=bdswiss-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the Seychelles FSA, the Mauritius FSC, the South African FSCA, and the Moheli Island (Union of Comoros) MISA"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "bdswiss-review",
+      "filePath": "bdswiss-review.html",
+      "extractedAt": "2025-09-18T06:01:10.818Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "best-forex-brokers",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"With many hundreds of Forex brokers to choose from globally, finding the right broker for you can seem an impossible challenge, read our experts reviews and tips.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=best-forex-brokers.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by this tier of regulators can still be described as reliable and well-regulated and can be considered by even very cautious clients",
+        "regulated by Tier 3 regulators can be described as \"average risk",
+        "regulated by this tier as its highest relevant regulation is likely to be a bad idea",
+        "regulated by a particular regulatory authority – you can and should check the regulator’s website to ensure the broker in question is listed there as having secured their regulatory approval",
+        "regulated by a particular regulatory authority – you can and should check the regulator’s website to ensure the broker in question is listed there as having secured their regulatory approval"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:500",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC",
+        "CYSEC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "best-forex-brokers",
+      "filePath": "best-forex-brokers.html",
+      "extractedAt": "2025-09-18T06:01:10.832Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Binance",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth Binance broker review and compare it to other brokers before taking a decision if Binance has the features you are looking for in a broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=binance-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "binance-review",
+      "filePath": "binance-review.html",
+      "extractedAt": "2025-09-18T06:01:10.844Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Blackbull Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Balckbull Markets a legit broker? How long does blackbull markets withdrawal take? Is it regulated? Have all these questions answered in this broker review\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"BlackBull Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=blackbull-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "blackbull-markets-review",
+      "filePath": "blackbull-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:10.857Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "brokers-directory-list",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"A Forex brokers list comprised of many brokers to meet the needs of all Forex traders.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"forex brokers list",
+        "forex broker list",
+        "forex broker reviews list",
+        "forex review list\">"
+      ],
+      "canonical": "<link rel=canonical href=brokers-directory-list.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "brokers-directory-list",
+      "filePath": "brokers-directory-list.html",
+      "extractedAt": "2025-09-18T06:01:10.865Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Capital",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Capital.com the right Forex broker for you? Find out what you can trade, fees, platforms, regulatory details, and unique details in our review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=capital-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "capital-review",
+      "filePath": "capital-review.html",
+      "extractedAt": "2025-09-18T06:01:10.878Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Cfi Trade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth CFI review and compare it to other brokers before deciding if CFI has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"CFI Trade\">"
+      ],
+      "canonical": "<link rel=canonical href=cfi-trade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Dubai",
+        "headquartered in Dubai"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the SCA in the UAE, the JSC in Jordan, the BDL in Lebanon, the FSA in Oman, the CBA in Azerbaijan, the FRA in Egypt, the PMCA in the Palestine Territories, the FCA in the UK, the CySEC in Cyprus, the FSA in Seychelles, the VFSC in Vanuatu, the FSC in Mauritius, and the FSCA in South Africa"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "cfi-trade-review",
+      "filePath": "cfi-trade-review.html",
+      "extractedAt": "2025-09-18T06:01:10.891Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Cft",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Review the variety of tradable instruments, leverage, and commissions with CFT prop firm, and only then make your trading decisions.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=cft-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "cft-review",
+      "filePath": "cft-review.html",
+      "extractedAt": "2025-09-18T06:01:10.905Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "City Index",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"City Index, regulated in 8 different jurisdictions, is a well-established brokerage, offering competitive spreads on Forex, CFDs, & spread-betting products.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"City Index\">"
+      ],
+      "canonical": "<link rel=canonical href=city-index-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "city-index-review",
+      "filePath": "city-index-review.html",
+      "extractedAt": "2025-09-18T06:01:10.919Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Cmc Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth CMC Markets review and compare it to other Forex brokers before deciding if CMC Markets has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"CMC Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=cmc-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in London, UK",
+        "headquartered in London, UK"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Financial Conduct Authority (FCA) in the UK under license number 173730 and 170627 respectively",
+        "regulated by the FCA in the UK, client funds are further protected by the Financial Services Compensation Scheme (FSCS) up to &pound;85,000 which offers complete coverage for most, if not all, retail traders",
+        "regulated by the Financial Conduct Authority (FCA) in the UK under license number 173730 and 170627 respectively",
+        "regulated by the Financial Conduct Authority (FCA) in the UK under license number 173730 and 170627 respectively"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "bank transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "premium",
+        "live",
+        "standard"
+      ],
+      "fileName": "cmc-markets-review",
+      "filePath": "cmc-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:10.932Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Cmtrading",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"CM Trading is a South African Forex brokerage, regulated & monitored, promising secure SSL transactions & updated encryption technology to assure your security. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=cmtrading-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "cmtrading-review",
+      "filePath": "cmtrading-review.html",
+      "extractedAt": "2025-09-18T06:01:10.944Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Coinbase",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read Coinbase broker review, pros, cons, cryptocurrencies offered for trading & more to help you make a decision, whether this broker is best for your trading.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=coinbase-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Commodity Futures Trading Commission (CFTC), or a member of the National Futures Association (NFA)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "coinbase-review",
+      "filePath": "coinbase-review.html",
+      "extractedAt": "2025-09-18T06:01:10.959Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "credit-card-brokers",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Learn how to choose the best Forex brokers that accept credit cards and review our shortlist of the best credit card payment Forex brokers.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=credit-card-brokers.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Dubai Financial Services Authority (DFSA)",
+        "regulated by the Cyprus Securities And Exchange Commission (CySEC) in Cyprus, the Capital Markets Authority of Kenya (CMA) in Kenya, the Securities Commission of The Bahamas (SCB) in The Bahamas and the Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) in Germany"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:500",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "paypal",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC",
+        "FSC",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard"
+      ],
+      "fileName": "credit-card-brokers",
+      "filePath": "credit-card-brokers.html",
+      "extractedAt": "2025-09-18T06:01:10.973Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Crypto Com",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read Crypto.com broker review, pros, cons, cryptocurrencies offered for trading & more to help you make a decision, whether this broker is best for your trading.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Crypto com\">"
+      ],
+      "canonical": "<link rel=canonical href=crypto-com-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "crypto-com-review",
+      "filePath": "crypto-com-review.html",
+      "extractedAt": "2025-09-18T06:01:10.984Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ctrader",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Want to use the cTrader Forex platform? Our expert traders tested cTrader and recorded their findings in this cTrader review. Check it out now!\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=ctrader-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "ctrader-review",
+      "filePath": "ctrader-review.html",
+      "extractedAt": "2025-09-18T06:01:10.998Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Degiro",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Degiro review and compare it to other Forex brokers before deciding if Purple Trading has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=degiro-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ESMA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "degiro-review",
+      "filePath": "degiro-review.html",
+      "extractedAt": "2025-09-18T06:01:11.011Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Deriv",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Deriv review and compare it to other Forex brokers before deciding if Deriv has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=deriv-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "deriv-review",
+      "filePath": "deriv-review.html",
+      "extractedAt": "2025-09-18T06:01:11.027Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Dna Funded",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is DNA Funded a legit prop firm? does it use real money? how long does it take for this prop firm to payout, learn and explore all the details before trading.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"DNA Funded\">"
+      ],
+      "canonical": "<link rel=canonical href=dna-funded-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "dna-funded-review",
+      "filePath": "dna-funded-review.html",
+      "extractedAt": "2025-09-18T06:01:11.040Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Dukascopy",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Dukascopy Bank offers an ideal fit for traders & market experts, with wide-ranging research and an exceptional discount. Read our experts review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=dukascopy-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the Swiss Financial Market Supervisory Authority, the Bank of Latvia, and the Financial Services Agency of Japan"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "dukascopy-review",
+      "filePath": "dukascopy-review.html",
+      "extractedAt": "2025-09-18T06:01:11.052Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "E Trade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth E*TRADE review and compare it to other Forex brokers before deciding if E*TRADE has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"E TRADE\">"
+      ],
+      "canonical": "<link rel=canonical href=e-trade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "e-trade-review",
+      "filePath": "e-trade-review.html",
+      "extractedAt": "2025-09-18T06:01:11.065Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "e",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "",
+      "keywords": [],
+      "canonical": "",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "e",
+      "filePath": "e.html",
+      "extractedAt": "2025-09-18T06:01:11.077Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "e8-funding-review",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth E8 Funding review and compare it to other Forex brokers before deciding if E8 Funding has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"E8 Funding\">"
+      ],
+      "canonical": "<link rel=canonical href=e8-funding-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "e8-funding-review",
+      "filePath": "e8-funding-review.html",
+      "extractedAt": "2025-09-18T06:01:11.089Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Easymarkets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth easyMarkets review and compare it to other Forex brokers before deciding if easyMarkets has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=easymarkets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Limassol, Cyprus",
+        "headquartered in Limassol, Cyprus"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cyprus Securities & Exchange Commission (CySEC)",
+        "regulated by the Australian Securities and Investments Commission (ASIC) under ABN number 73107184510",
+        "regulated by the Cyprus Securities & Exchange Commission (CySEC)",
+        "regulated by the Australian Securities and Investments Commission (ASIC)",
+        "regulated by the Cyprus Securities & Exchange Commission (CySEC)",
+        "regulated by the Australian Securities and Investments Commission (ASIC) under ABN number 73107184510",
+        "regulated by the Cyprus Securities & Exchange Commission (CySEC)",
+        "regulated by the Australian Securities and Investments Commission (ASIC) under ABN number 73107184510"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "easymarkets-review",
+      "filePath": "easymarkets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.100Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Eightcap",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Eightcap review, including fees, regulations, trading platforms, and more, before deciding if Eightcap is suitable for your Forex trading.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=eightcap-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Melbourne, Australia"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Australian Securities and Investment Commission (ASIC), the Financial Conduct Authority (FCA), the Cyprus Securities and Exchange Commission (CySEC) and the Securities Commission of The Bahamas (SCB)",
+        "regulated by the Australian Securities and Investment Commission (ASIC) and the Vanuatu Financial Services Commission (VFSC)",
+        "regulated by the Australian Securities and Investment Commission (ASIC) and the Vanuatu Financial Services Commission (VFSC)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "credit card",
+        "debit card",
+        "neteller",
+        "skrill",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "eightcap-review",
+      "filePath": "eightcap-review.html",
+      "extractedAt": "2025-09-18T06:01:11.115Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Etoro",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"eToro is a pioneer of social trading. Read eToro review, covering fees, account types, trading platforms, bonuses & promotions, deposits & withdrawals & more\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=etoro-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by US FinCEN</div></div><div class=c-faq__item onclick=toggleSection(event)><div class=c-faq__item-toggle><h3 class=c-title__faq>Is eToro a regulated company?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by US FinCEN\"}},{\"@type\":\"Question\",\"name\":\"Is eToro a regulated company?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"eToro presents clients with four regulated entities EU by CySEC, UK by FCA, AUS by ASIC and Seychelles by the Seychelles Financial Services Authority"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "neteller",
+        "skrill",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "etoro-review",
+      "filePath": "etoro-review.html",
+      "extractedAt": "2025-09-18T06:01:11.130Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Etx Capital",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth ETX Capital review and compare it to other Forex brokers before deciding if ETX Capital has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"ETX Capital\">"
+      ],
+      "canonical": "<link rel=canonical href=etx-capital-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the CySEC",
+        "regulated by the CySEC"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:30",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "premium",
+        "standard"
+      ],
+      "fileName": "etx-capital-review",
+      "filePath": "etx-capital-review.html",
+      "extractedAt": "2025-09-18T06:01:11.143Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Europefx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"What is EuropeFX withdrawal fee? Does it offer automated trading? Read the full review, Bonuses & promotions, EuropeFX unique features & more\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=europefx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "paypal",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "europefx-review",
+      "filePath": "europefx-review.html",
+      "extractedAt": "2025-09-18T06:01:11.155Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Exness",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Exness, a regulated Forex broker, provides a simple offering for novice & pro traders, allowing trading on different trading accounts & trading platforms\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=exness-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the FCA (United Kingdom), CySEC (Cyprus), FSCA (South Africa), FSA(Seychelles), CBCS (Curaçao and Sint Maarten), FSC (Mauritius), and FSC (BVI)",
+        "regulated by the FCA (United Kingdom), CySEC (Cyprus), FSCA (South Africa), FSA(Seychelles), CBCS (Curaçao and Sint Maarten), FSC (Mauritius), and FSC (BVI)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "exness-review",
+      "filePath": "exness-review.html",
+      "extractedAt": "2025-09-18T06:01:11.168Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fbs",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth FBS review and compare it to other Forex brokers before deciding if FBS has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fbs-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the Belize Financial Services Commission (FBS Markets), the Cyprus Securities and Exchange Commission (Tradestone LTD), and the Australian Securities and Investments Commission (Intelligent Financial Markets Pty LTD)<li>Founded in 2009<li>Segregation of client deposits from corporate funds<li>Negative balance protection</ul><p style=text-align:center><img alt=\"FBS Regulation\" data-src=https://assets"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fbs-review",
+      "filePath": "fbs-review.html",
+      "extractedAt": "2025-09-18T06:01:11.182Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fidelity",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Fidelity review, including fees, regulations, trading platforms, & more, before deciding if Fidelity is suitable for your Forex trading. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fidelity-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "bank transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fidelity-review",
+      "filePath": "fidelity-review.html",
+      "extractedAt": "2025-09-18T06:01:11.196Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fineco Bank",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Fineco Bank review and compare it to other Forex brokers before deciding if Fineco Bank has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Fineco Bank\">"
+      ],
+      "canonical": "<link rel=canonical href=fineco-bank-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "premium",
+        "standard",
+        "live"
+      ],
+      "fileName": "fineco-bank-review",
+      "filePath": "fineco-bank-review.html",
+      "extractedAt": "2025-09-18T06:01:11.232Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fondex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Fondex review and compare it to other Forex brokers before deciding if Fondex has the features you are looking for in a Forex broker. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fondex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Cyprus and are regulated by CySEC, in common with many similar brokerage firms who choose a domicile in the Republic of Cyprus"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by CySEC, in common with many similar brokerage firms who choose a domicile in the Republic of Cyprus",
+        "Regulated by a major industry center (CySEC)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "bank transfer",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fondex-review",
+      "filePath": "fondex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.357Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Forex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is FOREX.com a good broker? Can it be trusted? Is it regulated? Find answers to all these questions & more evaluations in our updated broker review & analysis\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=forex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cayman Islands Monetary Authority under the Securities Investment Business Law of the Cayman Islands (as revised) with License number 25033",
+        "regulated by the CFTC and NFA, making it one of the few brokers legally available to U",
+        "regulated by the Cayman Islands Monetary Authority under the Securities Investment Business Law of the Cayman Islands (as revised) with License number 25033,and does not provide a list of supported or restricted countries"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:400",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC",
+        "CFTC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "forex-review",
+      "filePath": "forex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.383Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Forexmart",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth ForexMart review and compare it to other Forex brokers before deciding if ForexMart has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"ForexMart",
+        "ForexMart review",
+        "ForexMart details",
+        "ForexMart information",
+        "ForexMart Platform",
+        "ForexMart broker\">"
+      ],
+      "canonical": "<link rel=canonical href=forexmart-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cyprus Securities Exchange (CySEC)",
+        "regulated by CySec and that the platform used for trading is the MetaTrader4 which is the most popular platform in the market"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard"
+      ],
+      "fileName": "forexmart-review",
+      "filePath": "forexmart-review.html",
+      "extractedAt": "2025-09-18T06:01:11.399Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fp Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our up-to-date FP Markets broker review, compare fees, regulations and more and only then decide which Forex broker is best for your Forex trading needs. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"FP Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=fp-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Australian Securities and Investments Commission (ASIC) &ndash; a tier 1 regulator, First Prudential Markets PTY LTD",
+        "regulated by the Financial Sector Conduct Authority in South Africa (FSP Number 50926), which emerged as one of the good go-to regulators following uncompetitive regulatory changes in Tier-1 jurisdictions, like Europe and Australia",
+        "regulated by the Australian Securities and Investments Commission (ASIC) and the Cyprus Securities and Exchange Commission (CySEC)",
+        "regulated by the Australian Securities and Investments Commission (ASIC) and the Cyprus Securities and Exchange Commission (CySEC)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "wire transfer",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fp-markets-review",
+      "filePath": "fp-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.414Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Freetrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Freetrade review, including fees, regulations, trading platforms, & more, before deciding if Freetrade is suitable for your Forex trading.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=freetrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard"
+      ],
+      "fileName": "freetrade-review",
+      "filePath": "freetrade-review.html",
+      "extractedAt": "2025-09-18T06:01:11.427Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Friedberg Direct",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Friedberg Direct review and compare it to other Forex brokers before deciding if Friedberg Direct has the features you are looking for in a Forex broker. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Friedberg Direct\">"
+      ],
+      "canonical": "<link rel=canonical href=friedberg-direct-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "friedberg-direct-review",
+      "filePath": "friedberg-direct-review.html",
+      "extractedAt": "2025-09-18T06:01:11.440Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ftmo",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth FTMO review and compare it to other Forex brokers before deciding if FTMO has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=ftmo-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in the Czech Republic"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "ftmo-review",
+      "filePath": "ftmo-review.html",
+      "extractedAt": "2025-09-18T06:01:11.451Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Funded Prime",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth fundedprime broker review and compare it to other brokers before taking a decision if fundedprime has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Funded Prime\">"
+      ],
+      "canonical": "<link rel=canonical href=funded-prime-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "funded-prime-review",
+      "filePath": "funded-prime-review.html",
+      "extractedAt": "2025-09-18T06:01:11.463Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Funded Traders",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Funded Traders review and compare it to other Forex brokers before deciding if Funded Traders has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Funded Traders\">"
+      ],
+      "canonical": "<link rel=canonical href=funded-traders-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "funded-traders-review",
+      "filePath": "funded-traders-review.html",
+      "extractedAt": "2025-09-18T06:01:11.475Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fundednext",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth FundedNext broker review and compare it to other brokers before taking a decision if FundedNext has the features you are looking for in a broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fundednext-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in the UAE and a subsidiary of Bangladeshi company Next Ventures with offices in five countries",
+        "headquartered in the UAE and a subsidiary of Bangladeshi company Next Ventures with offices in five countries"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "fundednext-review",
+      "filePath": "fundednext-review.html",
+      "extractedAt": "2025-09-18T06:01:11.488Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fusion Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Fusion Markets review and compare it to other Forex brokers before deciding if Fusion Markets has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Fusion Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=fusion-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fusion-markets-review",
+      "filePath": "fusion-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.500Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fx Club",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth FX Club review and compare it to other Forex brokers before deciding if FX Club has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"FX Club\">"
+      ],
+      "canonical": "<link rel=canonical href=fx-club-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "fx-club-review",
+      "filePath": "fx-club-review.html",
+      "extractedAt": "2025-09-18T06:01:11.513Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxcc",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth FXCC review and compare it to other Forex brokers before deciding if FXCC has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxcc-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller",
+        "skrill",
+        "debit\ncard"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC",
+        "ESMA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fxcc-review",
+      "filePath": "fxcc-review.html",
+      "extractedAt": "2025-09-18T06:01:11.525Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxcm",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"meta description: Is FXCM a scam? Is it legit? Read this in-depth broker review of FXCM, updated to 2020 & only then decide which broker best fits your needs of Forex trading\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxcm-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "paypal",
+        "skrill",
+        "neteller",
+        "credit card",
+        "wire transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "fxcm-review",
+      "filePath": "fxcm-review.html",
+      "extractedAt": "2025-09-18T06:01:11.538Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxgt",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth FXGT review and compare it to other Forex brokers before deciding if FXGT has the features you are looking for in a Forex broker. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxgt-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "fxgt-review",
+      "filePath": "fxgt-review.html",
+      "extractedAt": "2025-09-18T06:01:11.550Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxify",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is FXiFY legit? what is the profit split on FXIFY? Learn and explore the instruments traded with this prop firm and more.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxify-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in the UK, claims $30M+ payouts to its prop traders over the past twelve months, placing it among the most successful prop firms"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "fxify-review",
+      "filePath": "fxify-review.html",
+      "extractedAt": "2025-09-18T06:01:11.562Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxprimus",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is FXPrimus a good broker? Is it a market maker? Read our updated broker review & make your decision whether this is a reliable broker for your trading needs\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxprimus-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "neteller",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "fxprimus-review",
+      "filePath": "fxprimus-review.html",
+      "extractedAt": "2025-09-18T06:01:11.574Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxpro",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read this in-depth review of FxPro, to find the pros & cons, broker regulation & security, trading platforms offered, deposits & withdrawals, user reviews & more.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxpro-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in London, UK",
+        "headquartered in London, UK"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by Financial Conduct Authority under registration number 509956",
+        "regulated by the Securities Commission of The Bahamas under license number SIA-F184",
+        "regulated by Financial Conduct Authority under registration number 509956",
+        "regulated by the Securities Commission of The Bahamas under license number SIA-F184",
+        "regulated by Financial Conduct Authority under registration number 509956",
+        "regulated by the Securities Commission of The Bahamas under license number SIA-F184"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "debit card",
+        "paypal",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ESMA",
+        "FSC",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "fxpro-review",
+      "filePath": "fxpro-review.html",
+      "extractedAt": "2025-09-18T06:01:11.589Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Fxtm",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth FXTM review and compare it to other Forex brokers before deciding if FXTM has the features you are looking for in a broker\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=fxtm-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:2000",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "neteller",
+        "skrill",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "fxtm-review",
+      "filePath": "fxtm-review.html",
+      "extractedAt": "2025-09-18T06:01:11.602Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Goat Funded Trader",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Goat Funded Trader\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Goat Funded Trader\">"
+      ],
+      "canonical": "<link rel=canonical href=goat-funded-trader-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "goat-funded-trader-review",
+      "filePath": "goat-funded-trader-review.html",
+      "extractedAt": "2025-09-18T06:01:11.616Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Hola Prime",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Hola Prime legit? what is the profit split on Hola Prime? Learn and explore the instruments traded with this prop firm and more.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Hola Prime\">"
+      ],
+      "canonical": "<link rel=canonical href=hola-prime-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "hola-prime-review",
+      "filePath": "hola-prime-review.html",
+      "extractedAt": "2025-09-18T06:01:11.630Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Hotforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth HFM review and compare it to other Forex brokers before deciding if HFM has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=hotforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:2000",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "neteller",
+        "debit card",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "hotforex-review",
+      "filePath": "hotforex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.644Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Hugo S Way",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Hugo's Way review and compare it to other Forex brokers before deciding if Hugo's Way has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Hugo's way\">"
+      ],
+      "canonical": "<link rel=canonical href=hugo-s-way-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "hugo-s-way-review",
+      "filePath": "hugo-s-way-review.html",
+      "extractedAt": "2025-09-18T06:01:11.656Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ic Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"IC Markets, an Australian CFD broker, operating since 2007, is a great choice for high-frequency traders, and those who prefer automated trading solutions\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"IC Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=ic-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "ic-markets-review",
+      "filePath": "ic-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.668Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ifc Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"IFC Markets offers a competitively priced environment on its NetTradeX trading platform. New traders will find this broker offers exceptional educational value\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"IFC Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=ifc-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the Financial Sector Conduct Authority of South Africa, the Labuan Financial Services Authority, and the British Virgin Islands Financial Services Commission"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ESMA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "ifc-markets-review",
+      "filePath": "ifc-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.684Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ig",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is IG considered as a safe broker? Is it a regulated broker? IG is the world’s premier CFD and spread betting broker – read full review\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=ig-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Australian Securities & Investments Commission(ASIC) under AFSL Number 220440 and AFSL Number 515106",
+        "regulated by the UAE?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by the Australian Securities & Investments Commission(ASIC) under AFSL Number 220440 and AFSL Number 515106",
+        "regulated by the UAE?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"IG manages a subsidiary in the UAE with oversight from the Dubai Financial Services Authority (DFSA) under reference number F001780"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "wire transfer",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "ig-review",
+      "filePath": "ig-review.html",
+      "extractedAt": "2025-09-18T06:01:11.696Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Instaforex Ltd",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"InstaForex LTD, is a global ECN/STP broker, BVI, FSC, CySEC regulated, offering many popular trading platforms & a free demo account. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"InstaForex LTD\">"
+      ],
+      "canonical": "<link rel=canonical href=instaforex-ltd-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Road Town, the British Virgin Islands",
+        "headquartered in Road Town, the British Virgin Islands"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the British Virgin Islands Financial Services Commission (BVI FSC) under license number SIBA/L/14/1082",
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15",
+        "regulated by the BVI FSC",
+        "regulated by the British Virgin Islands Financial Services Commission (BVI FSC) under license number SIBA/L/14/1082",
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15",
+        "regulated by the British Virgin Islands Financial Services Commission (BVI FSC) under license number SIBA/L/14/1082",
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "webtrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "FSC",
+        "CYSEC",
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "ecn",
+        "stp",
+        "demo",
+        "mini",
+        "vip",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "instaforex-ltd-review",
+      "filePath": "instaforex-ltd-review.html",
+      "extractedAt": "2025-09-18T06:01:11.711Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Instaforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth InstaForex review and compare it to other Forex brokers before deciding if InstaForex has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=instaforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Limassol, Cyprus",
+        "headquartered in Limassol, Cyprus"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15",
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15",
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under license number 266/15"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "instaforex-review",
+      "filePath": "instaforex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.724Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Interactive Brokers",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Explore Interactive Brokers review, comparing features with other Forex brokers. Decide if it aligns with your criteria for success.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Interactive Brokers\">"
+      ],
+      "canonical": "<link rel=canonical href=interactive-brokers-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC",
+        "CFTC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "interactive-brokers-review",
+      "filePath": "interactive-brokers-review.html",
+      "extractedAt": "2025-09-18T06:01:11.736Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Investous",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Investous, a CFD broker, grants access to over 270 assets across four categories. It provides traders the MT4 trading platform and a webtrader alternative.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=investous-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "mt4",
+        "webtrader",
+        "crypto",
+        "mt5",
+        "commodities",
+        "indices",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "investous-review",
+      "filePath": "investous-review.html",
+      "extractedAt": "2025-09-18T06:01:11.750Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Iq Option",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth IQ Option review and compare it to other Binary Option brokers before deciding if IQ Option has everything you are looking for in a Binary Options broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"IQ Option\">"
+      ],
+      "canonical": "<link rel=canonical href=iq-option-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the CySEC for EEA-based traders as IQ Option Europe LTD<li>International traders will deal with the unregulated but duly registered subsidiary from Antigua and Barbuda operated by Sky Ladder LLC<li>Segregated client deposits from corporate funds, preventing comingling of funds and ensuring that in any insolvency event clients will be able to have their funds returned quickly"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "iq-option-review",
+      "filePath": "iq-option-review.html",
+      "extractedAt": "2025-09-18T06:01:11.762Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Ironfx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth IronFX review and compare it to other Forex brokers before deciding if IronFX has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=ironfx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "ironfx-review",
+      "filePath": "ironfx-review.html",
+      "extractedAt": "2025-09-18T06:01:11.775Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Kraken",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Review Kraken for their trading assets and trading conditions and decide whether Kraken is the broker that suits your trading needs.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=kraken-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "Headquartered in San Francisco, Kraken ranks among the most secure cryptocurrency exchanges globally and the largest Bitcoin exchange for Euro transactions"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by BaFin"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "kraken-review",
+      "filePath": "kraken-review.html",
+      "extractedAt": "2025-09-18T06:01:11.787Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Legacy Fx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is LegacyFX a scam or a reliable broker? Updated reviews & ratings for Forex traders looking for an unbiased LegacyFX Forex broker review \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Legacy FX\">"
+      ],
+      "canonical": "<link rel=canonical href=legacy-fx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the FCA?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by the FCA?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"LegacyFX operates an EU-based subsidiary with regulation from the CySEC and the FCA"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "legacy-fx-review",
+      "filePath": "legacy-fx-review.html",
+      "extractedAt": "2025-09-18T06:01:11.799Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Libertex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Libertex a scam broker? Read our review, including regulation, trading platform, Libertex fees & more, to decide whether to start trading forex with Libertex\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=libertex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:999",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard"
+      ],
+      "fileName": "libertex-review",
+      "filePath": "libertex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.812Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Liteforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth LiteForex review and compare it to other Forex brokers before deciding if LiteForex has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=liteforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in St"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "liteforex-review",
+      "filePath": "liteforex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.825Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Markets.com the right Forex broker for you? Find out what you can trade, fees, platforms, regulatory details, and unique details in our review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "markets-review",
+      "filePath": "markets-review.html",
+      "extractedAt": "2025-09-18T06:01:11.838Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "metatrader-4-product-review",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"MetaTrader 4 is a trading platform developed by MetaQuotes Software Inc. for trading Forex & CFDs. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"MetaTrader 4 is a trading platform developed by MetaQuotes Software Inc. for trading Forex &amp; CFDs.\">"
+      ],
+      "canonical": "<link rel=canonical href=metatrader-4-product-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "metatrader",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "metatrader-4-product-review",
+      "filePath": "metatrader-4-product-review.html",
+      "extractedAt": "2025-09-18T06:01:11.850Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Moomoo",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Moomoo review, including fees, regulations, trading platforms, & more, before deciding if Moomoo is suitable for your Forex trading.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=moomoo-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "Headquartered in California, Moomoo was developed solely for the US market"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "moomoo-review",
+      "filePath": "moomoo-review.html",
+      "extractedAt": "2025-09-18T06:01:11.864Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Mtrading",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth MTrading review and compare it to other Forex brokers before deciding if MTrading has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=mtrading-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "mtrading-review",
+      "filePath": "mtrading-review.html",
+      "extractedAt": "2025-09-18T06:01:11.877Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "My Funded Futures",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth My Funded Futures broker review and compare it to other brokers before taking a decision if My Funded Futures has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"My Funded Futures\">"
+      ],
+      "canonical": "<link rel=canonical href=my-funded-futures-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "my-funded-futures-review",
+      "filePath": "my-funded-futures-review.html",
+      "extractedAt": "2025-09-18T06:01:11.889Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Nadex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Nadex review and compare it to other Binary Option brokers before deciding if Nadex has everything you are looking for in a Binary Options broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=nadex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the US Commodity Futures Trading Commission (CFTC), which grants licensure only to the most reliable brokers and allows for trading in the US",
+        "regulated by the CFTC, which is a regulator reserved only for the most reliable brokers"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "bank transfer",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "nadex-review",
+      "filePath": "nadex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.904Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Naga",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth NAGA review and compare it to other Forex brokers before deciding if NAGA has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=naga-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC) under licence No"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "premium",
+        "live",
+        "standard"
+      ],
+      "fileName": "naga-review",
+      "filePath": "naga-review.html",
+      "extractedAt": "2025-09-18T06:01:11.917Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Nord Fx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Nord FX review and compare it to other Forex brokers before deciding if Nord FX has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Nord FX\">"
+      ],
+      "canonical": "<link rel=canonical href=nord-fx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by SEBI?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by SEBI under registration number INZ010009835",
+        "regulated by SEBI?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"NordFX operates an Indian subsidiary regulated by SEBI under registration number INZ010009835"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:1000",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live",
+        "premium"
+      ],
+      "fileName": "nord-fx-review",
+      "filePath": "nord-fx-review.html",
+      "extractedAt": "2025-09-18T06:01:11.929Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Oanda",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Want to know about OANDA spreads and OANDA demo accounts? This OANDA Forex broker review by the DailyForex experts has the info you need and more.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=oanda-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller",
+        "paypal",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "demo",
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "islamic",
+        "micro",
+        "standard",
+        "live",
+        "premium"
+      ],
+      "fileName": "oanda-review",
+      "filePath": "oanda-review.html",
+      "extractedAt": "2025-09-18T06:01:11.942Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Octa",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Octa focuses on new Forex traders from emerging markets. Read more about Octa's regulations & security, fees, account types, trading platforms & more \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=octa-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by CySEC, license number 327/18"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "octa-review",
+      "filePath": "octa-review.html",
+      "extractedAt": "2025-09-18T06:01:11.957Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Paxforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth PaxForex review and compare it to other Forex brokers before deciding if PaxForex has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=paxforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "credit card",
+        "neteller",
+        "skrill",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "paxforex-review",
+      "filePath": "paxforex-review.html",
+      "extractedAt": "2025-09-18T06:01:11.970Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Pepperstone",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Explore Pepperstone review, comparing features with other Forex brokers. Decide if it aligns with your criteria for success.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=pepperstone-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "paypal",
+        "neteller",
+        "skrill",
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "pepperstone-review",
+      "filePath": "pepperstone-review.html",
+      "extractedAt": "2025-09-18T06:01:11.983Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Pipfarm",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our broker review for PipFarm and decide whether this broker is suitable for your trading needs. Evaluate its trading platforms, leverage, account types and more\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=pipfarm-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "paypal",
+        "bank transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "pipfarm-review",
+      "filePath": "pipfarm-review.html",
+      "extractedAt": "2025-09-18T06:01:11.995Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "plus500-review",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is plus500 good for beginner traders? What is the minimum deposit on plus500? Read our in-depth review to find out all the info. You need for your trading journey\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=plus500-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "cfd",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "skrill",
+        "bank transfer",
+        "credit card",
+        "wire transfer",
+        "debit card",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "CFTC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "plus500-review",
+      "filePath": "plus500-review.html",
+      "extractedAt": "2025-09-18T06:01:12.009Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Primexbt",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth PrimeXBT broker review and compare it to other brokers before taking a decision if PrimeXBT has the features you are looking for in a broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=primexbt-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the South African Financial Sector Conduct Authority (FSCS), the Financial Services Authority of Seychelles (FSA), and the Financial Services Commission of Mauritius (FSC)<li>A Bitcoin Services Provider (BSP) license issued by the Banco Central de Reserva (BCR), and a Virtual Assets Services Provider (VASP) issued by the Lithuanian FCIS<li>Founded in 2018<li>Segregation of client deposits from corporate funds<li>Negative balance protection<li>Independent audits by the Hong Kong-based Financial Commission and an investor compensation fund of up to &euro;20,000 per trader<li>Hardware security modules (HSMs) rated FIPS PUB 140-2 Level 3 or higher<li>Geographically distributed HSMs at secure data centers around the world<li>Cold storage of digital assets with Multisignature technology</ul><p><strong>What would I like PrimeXBT to add?</strong><p>PrimeXBT ticks all the boxes from a security perspective"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "primexbt-review",
+      "filePath": "primexbt-review.html",
+      "extractedAt": "2025-09-18T06:01:12.026Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Profitex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth Profitex broker review and compare it to other brokers before taking a decision if Profitex has the features you are looking for in a broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=profitex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "debit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "profitex-review",
+      "filePath": "profitex-review.html",
+      "extractedAt": "2025-09-18T06:01:12.039Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Pu Prime",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth PU Prime broker review and compare it to other brokers before taking a decision if PU Prime has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"PU Prime\">"
+      ],
+      "canonical": "<link rel=canonical href=pu-prime-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "Regulated by the Australian ASIC and the Seychelles FSA<li>Founded in 2015<li>Segregation of client deposits from corporate funds<li><a href=",
+        "regulated by the CIRO, it onboards Canadian traders from its well-regulated Seychelles and Mauritius entities"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "pu-prime-review",
+      "filePath": "pu-prime-review.html",
+      "extractedAt": "2025-09-18T06:01:12.058Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Purple Trading",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Purple Trading review and compare it to other Forex brokers before deciding if Purple Trading has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Purple Trading\">"
+      ],
+      "canonical": "<link rel=canonical href=purple-trading-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "neteller",
+        "skrill"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ESMA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "purple-trading-review",
+      "filePath": "purple-trading-review.html",
+      "extractedAt": "2025-09-18T06:01:12.073Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Questrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Reveal the pros & cons of trading with Questrade, a Canadian Forex broker. How much does it cost to trade on questrade? Read more to find out.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=questrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the IIROC, and in operation since 1999, with more than 100,000 new account openings annually",
+        "regulated by the IIROC, and in operation since 1999, with more than 100,000 new account openings annually"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "questrade-review",
+      "filePath": "questrade-review.html",
+      "extractedAt": "2025-09-18T06:01:12.098Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Rebels Funding",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Rebels Funding Review 2025\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Rebels Funding\">"
+      ],
+      "canonical": "<link rel=canonical href=rebels-funding-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "wire transfer",
+        "paypal",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "rebels-funding-review",
+      "filePath": "rebels-funding-review.html",
+      "extractedAt": "2025-09-18T06:01:12.119Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "regulation",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Forex currency trading requires rules & regulations. Not all brokers are regulated - Find out who regulates the foreign exchange market in a specific country. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Forex Brokers Regulation\">"
+      ],
+      "canonical": "<link rel=canonical href=regulation.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by FCA?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by the CFTC?</h3><span class=c-faq__item-icon> <img src=",
+        "regulated by FCA?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The FCA regulates the UK Forex market, and before 2018, it was the most competitive Forex market for retail traders",
+        "regulated by the CFTC?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The CFTC regulates Forex brokers in the US, as Forex futures, forward, and options contracts dominate the US Forex market, which falls under CFTC jurisdiction"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC",
+        "ASIC",
+        "ESMA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard"
+      ],
+      "fileName": "regulation",
+      "filePath": "regulation.html",
+      "extractedAt": "2025-09-18T06:01:12.137Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Revolut",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Revolut review, including fees, regulations, trading platforms, & more, before deciding if Revolut is suitable for your Forex trading. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=revolut-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in the UK, and some of its services operate under FCA oversight"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "revolut-review",
+      "filePath": "revolut-review.html",
+      "extractedAt": "2025-09-18T06:01:12.153Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Robinhood",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Traders at Robinhood have access to over 5,000 US-listed equities & ETFs plus options, over 650 global companies & cryptocurrencies – Read More!\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=robinhood-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "robinhood-review",
+      "filePath": "robinhood-review.html",
+      "extractedAt": "2025-09-18T06:01:12.165Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Roboforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth RoboForex review and compare it to other Forex brokers before deciding if RoboForex has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=roboforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Belize Financial Services Commission",
+        "regulated by the Belize Financial Services Commission"
+      ],
+      "minimumDeposit": null,
+      "leverage": "leverage 1:2000",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "roboforex-review",
+      "filePath": "roboforex-review.html",
+      "extractedAt": "2025-09-18T06:01:12.179Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Sabiotrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our complete Sabiotrade review, including fees, regulations, trading platforms, & more, before deciding if Sabiotrade is suitable for your Forex trading.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=sabiotrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "premium",
+        "live"
+      ],
+      "fileName": "sabiotrade-review",
+      "filePath": "sabiotrade-review.html",
+      "extractedAt": "2025-09-18T06:01:12.191Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Saxo Bank",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Saxo Bank review and compare it to other Forex brokers before deciding if Saxo Bank has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Saxo Bank\">"
+      ],
+      "canonical": "<link rel=canonical href=saxo-bank-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Copenhagen, Denmark"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Financial Conduct Authority (Firm reference number 551422)",
+        "regulated by the Swiss Financial Market Supervisory Authority FINMA"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "webtrader",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "saxo-bank-review",
+      "filePath": "saxo-bank-review.html",
+      "extractedAt": "2025-09-18T06:01:12.205Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Saxo Capital Markets",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Saxo Capital Markets review and compare it to other Forex brokers before deciding if Saxo Capital Markets has the features you are looking for in a Forex broker. \">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Saxo Capital Markets\">"
+      ],
+      "canonical": "<link rel=canonical href=saxo-capital-markets-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "saxo-capital-markets-review",
+      "filePath": "saxo-capital-markets-review.html",
+      "extractedAt": "2025-09-18T06:01:12.217Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Squared Financial",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Squared Financial the right Forex broker for you? Find out what you can trade, fees, platforms, regulatory details, and unique details in our review.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Squared Financial\">"
+      ],
+      "canonical": "<link rel=canonical href=squared-financial-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:500",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "squared-financial-review",
+      "filePath": "squared-financial-review.html",
+      "extractedAt": "2025-09-18T06:01:12.229Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Swissquote",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Swissquote review and compare it to other Forex brokers before deciding if Swissquote has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=swissquote-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "webtrader",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "swissquote-review",
+      "filePath": "swissquote-review.html",
+      "extractedAt": "2025-09-18T06:01:12.241Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Tastyfx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"tastyfx, IG's newest brand, tailored specifically for US forex traders. Read more to find out what this brand offers for traders.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=tastyfx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "credit card",
+        "wire transfer",
+        "debit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard",
+        "premium"
+      ],
+      "fileName": "tastyfx-review",
+      "filePath": "tastyfx-review.html",
+      "extractedAt": "2025-09-18T06:01:12.253Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Td Ameritrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth TD Ameritade review and compare it to other Forex brokers before deciding if TD Ameritade has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"TD Ameritrade\">"
+      ],
+      "canonical": "<link rel=canonical href=td-ameritrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "td-ameritrade-review",
+      "filePath": "td-ameritrade-review.html",
+      "extractedAt": "2025-09-18T06:01:12.268Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Thinkforex",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"ThinkForex is now ThinkMarkets - get the scoop on this Australian-based broker to decide if it's right for you. Our experts have the info you need.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=thinkforex-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Japanese Financial Services Agency (JFSA) with license no"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "thinkforex-review",
+      "filePath": "thinkforex-review.html",
+      "extractedAt": "2025-09-18T06:01:12.282Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Tickmill",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Tickmill an ECN broker? How do I withdraw money from Tickmill? Read the review and customer ratings\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=tickmill-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Seychelles Financial Services Authority (FSA), where it holds a security dealer license under number SD008",
+        "regulated by the Labuan Financial Services Authority (FSA) and Tickmill South Africa (Pty) Ltd is authorized and regulated by the Financial Sector Conduct Authority (FSCA)",
+        "regulated by the Seychelles Financial Services Authority (FSA), where it holds a security dealer license under number SD008",
+        "regulated by the Labuan Financial Services Authority (FSA) and Tickmill South Africa (Pty) Ltd is authorized and regulated by the Financial Sector Conduct Authority (FSCA)",
+        "regulated by the Seychelles Financial Services Authority (FSA), where it holds a security dealer license under number SD008",
+        "regulated by the Labuan Financial Services Authority (FSA) and Tickmill South Africa (Pty) Ltd is authorized and regulated by the Financial Sector Conduct Authority (FSCA)"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "ecn",
+        "mini",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "tickmill-review",
+      "filePath": "tickmill-review.html",
+      "extractedAt": "2025-09-18T06:01:12.295Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Topstep",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full, in-depth TopStep broker review and compare it to other brokers before taking a decision if TopStep has the features you are looking for in a broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=brokers-directory-list.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "paypal",
+        "wire transfer",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live"
+      ],
+      "fileName": "topstep-review",
+      "filePath": "topstep-review.html",
+      "extractedAt": "2025-09-18T06:01:12.308Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Toptier Trader",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth TopTier Trader review and compare it to other Prop Firms before deciding if TopTier Trader has the features you are looking for in a broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"TopTier Trader\">"
+      ],
+      "canonical": "<link rel=canonical href=brokers-directory-list.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in Cyprus, is a proprietary Forex prop firm also providing white-label solutions allowing everyone to start a prop trading firm",
+        "headquartered in Cyprus, does not have the operational experience of some well-established competitors but has a decent track record that allows me to recommend it to prop traders",
+        "headquartered in Cyprus since 2018 with a high rating on Trustpilot",
+        "headquartered in Cyprus since 2018 with a high rating on Trustpilot"
+      ],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "toptier-trader-review",
+      "filePath": "toptier-trader-review.html",
+      "extractedAt": "2025-09-18T06:01:12.321Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Trade Nation",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Explore Trade Nation review, comparing features with other Forex brokers. Decide if it aligns with your criteria for success.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Trade Nation\">"
+      ],
+      "canonical": "<link rel=canonical href=trade-nation-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "bank transfer",
+        "credit card",
+        "wire transfer"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "trade-nation-review",
+      "filePath": "trade-nation-review.html",
+      "extractedAt": "2025-09-18T06:01:12.334Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "trade360-review",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Trade360 the right Forex broker for you? Find out what you can trade, fees, platforms, regulatory details, and unique details in our review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=trade360-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:400",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "paypal",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "trade360-review",
+      "filePath": "trade360-review.html",
+      "extractedAt": "2025-09-18T06:01:12.347Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Traders Way",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Traders Way review and compare it to other Forex brokers before deciding if Traders Way has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Traders Way\">"
+      ],
+      "canonical": "<link rel=canonical href=traders-way-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "debit card",
+        "skrill",
+        "neteller"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "traders-way-review",
+      "filePath": "traders-way-review.html",
+      "extractedAt": "2025-09-18T06:01:12.360Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Tradestation",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth TradeStation Securities review and compare it to other Forex brokers before deciding if TradeStation Securities has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=tradestation-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "tradestation-review",
+      "filePath": "tradestation-review.html",
+      "extractedAt": "2025-09-18T06:01:12.377Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "trading-212-review",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Trading 212 has over 1,800 assets available which means every trader has a great deal of diversification possibilities when trading with this broker – Read more.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Trading 212\">"
+      ],
+      "canonical": "<link rel=canonical href=trading-212-review.html>",
+      "pageType": "main-review",
+      "headquarters": [
+        "headquartered in London, UK",
+        "headquartered in London, UK"
+      ],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Financial Conduct Authority (FCA) under registration number 609146",
+        "regulated by the Financial Supervision Commission under registration number RG-03-0237",
+        "regulated by the Financial Supervision Commission in Bulgaria",
+        "regulated by the Financial Conduct Authority (FCA) under registration number 609146",
+        "regulated by the Financial Supervision Commission under registration number RG-03-0237",
+        "regulated by the Financial Conduct Authority (FCA) under registration number 609146",
+        "regulated by the Financial Supervision Commission under registration number RG-03-0237"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "bank transfer",
+        "debit card",
+        "skrill",
+        "credit card",
+        "paypal"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ESMA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "trading-212-review",
+      "filePath": "trading-212-review.html",
+      "extractedAt": "2025-09-18T06:01:12.397Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Vanguard",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Vanguard review and compare it to other Forex brokers before deciding if Vanguard has the features you are looking for in a Forex broker. \">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=vanguard-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "vanguard-review",
+      "filePath": "vanguard-review.html",
+      "extractedAt": "2025-09-18T06:01:12.432Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Vantage Fx",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth Vantage FX review and compare it to other Forex brokers before deciding if Vantage FX has the features you are looking for in a Forex broker.\">",
+      "keywords": [
+        "<meta id=keywords name=keywords content=\"Vantage FX\">"
+      ],
+      "canonical": "<link rel=canonical href=vantage-fx-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "leverage up to 1:500",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "vantage-fx-review",
+      "filePath": "vantage-fx-review.html",
+      "extractedAt": "2025-09-18T06:01:12.446Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Webull",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Is Webull the right Forex broker for you? Find out what you can trade, fees, platforms, regulatory details, and unique details in our review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=webull-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "FSC",
+        "ASIC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "webull-review",
+      "filePath": "webull-review.html",
+      "extractedAt": "2025-09-18T06:01:12.460Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Xm",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"XM offers traders more than 1,000 competitively priced assets, excellent leverage, trading bonuses, updated trading platforms. Read our in-depth XM review.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=xm-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Cyprus Securities and Exchange Commission (CySEC 120/10), Trading Point of Financial Instruments Pty Ltd was established in 2015 and it is regulated by the Australian Securities and Investments Commission (ASIC 443670), XM Global Limited was established in 2017 and is regulated by the Financial Services Commission (000261/27) and Trading Point MENA Limited was established in 2019 and is regulated by the Dubai Financial Services Authority (F003484)",
+        "regulated by DFSA, CySec, FSC, FSCA and ASIC",
+        "regulated by DFSA, CySec, FSC, FSCA and ASIC"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks",
+        "metatrader",
+        "webtrader"
+      ],
+      "paymentMethods": [
+        "wire transfer",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "xm-review",
+      "filePath": "xm-review.html",
+      "extractedAt": "2025-09-18T06:01:12.473Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Xtb",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read our full in-depth XTB review and compare it to other Forex brokers before deciding if XTB has the features you are looking for in a Forex broker.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=xtb-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [
+        "debit card",
+        "skrill",
+        "neteller",
+        "credit card"
+      ],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CYSEC",
+        "ASIC",
+        "FSC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "standard",
+        "live"
+      ],
+      "fileName": "xtb-review",
+      "filePath": "xtb-review.html",
+      "extractedAt": "2025-09-18T06:01:12.486Z",
+      "dataSource": "html"
+    },
+    {
+      "brokerName": "Zulutrade",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "<meta id=description name=description content=\"Read Daily Forex’s review of ZuluTrade,hybrid Forex Signal Provider and managed account network. Compare the features of several leading Auto Trading Brokers before choosing ZuluTrade.\">",
+      "keywords": [],
+      "canonical": "<link rel=canonical href=zulutrade-review.html>",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [
+        "regulated by the Hellenic Capital Markets Commission (HCMC) under registration number 2/540/17-2-2010",
+        "regulated by the Hellenic Capital Markets Commission (HCMC) under registration number 2/540/17-2-2010",
+        "regulated by the Hellenic Capital Markets Commission (HCMC) under registration number 2/540/17-2-2010"
+      ],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "metatrader",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA",
+        "CFTC"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro",
+        "live",
+        "standard"
+      ],
+      "fileName": "zulutrade-review",
+      "filePath": "zulutrade-review.html",
+      "extractedAt": "2025-09-18T06:01:12.497Z",
+      "dataSource": "html"
+    }
+  ]
+}

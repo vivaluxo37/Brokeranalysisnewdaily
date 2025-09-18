@@ -1,0 +1,51 @@
+{
+  "extractedAt": "2025-09-18T06:00:11.514Z",
+  "totalBrokers": 1,
+  "brokers": [
+    {
+      "brokerName": "e",
+      "pageId": null,
+      "generatedTimestamp": null,
+      "title": "<title>DailyForex</title>",
+      "description": "",
+      "keywords": [],
+      "canonical": "",
+      "pageType": "main-review",
+      "headquarters": [],
+      "foundedYear": null,
+      "regulations": [],
+      "minimumDeposit": null,
+      "leverage": "",
+      "platforms": [
+        "forex",
+        "crypto",
+        "mt5",
+        "mt4",
+        "commodities",
+        "indices",
+        "cfd",
+        "stocks"
+      ],
+      "paymentMethods": [],
+      "regulationBodies": [
+        "SEC",
+        "NFA",
+        "FSA",
+        "FCA"
+      ],
+      "accountTypes": [
+        "mini",
+        "ecn",
+        "stp",
+        "vip",
+        "demo",
+        "islamic",
+        "micro"
+      ],
+      "fileName": "e",
+      "filePath": "e.html",
+      "extractedAt": "2025-09-18T06:00:10.228Z",
+      "dataSource": "html"
+    }
+  ]
+}

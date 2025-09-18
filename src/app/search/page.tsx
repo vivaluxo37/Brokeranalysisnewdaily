@@ -1,11 +1,15 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
+import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
+import { UserButton } from '@clerk/nextjs';
+import { Bell, Settings } from 'lucide-react';
 import DatabaseBrokerSearch from '@/app/components/DatabaseBrokerSearch';
 import { Broker } from '@/lib/db/schema';
+import Footer from '@/app/components/Footer';
 
-export default function SearchPage() {
+function SearchContent() {
   const searchParams = useSearchParams();
   const query = searchParams.get('q') || '';
   const [brokers, setBrokers] = useState<Broker[]>([]);
@@ -84,6 +88,38 @@ export default function SearchPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Dashboard Header */}
+      <header className="bg-white shadow-sm border-b">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex justify-between items-center h-16">
+            <div className="flex items-center">
+              <Link href="/" className="text-2xl font-bold text-blue-900">
+                BrokerAnalysis.com
+              </Link>
+            </div>
+            <div className="flex items-center space-x-4">
+              <DatabaseBrokerSearch
+                placeholder="Search brokers..."
+                className="w-96"
+              />
+              <Link href="/brokers" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
+                Brokers
+              </Link>
+              <Link href="/market-news" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
+                Market News
+              </Link>
+              <button className="text-gray-700 hover:text-blue-600 p-2 rounded-md">
+                <Bell className="h-5 w-5" />
+              </button>
+              <button className="text-gray-700 hover:text-blue-600 p-2 rounded-md">
+                <Settings className="h-5 w-5" />
+              </button>
+              <UserButton afterSignOutUrl="/" />
+            </div>
+          </div>
+        </div>
+      </header>
+
       {/* Search Header */}
       <div className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-4 py-6">
@@ -280,6 +316,22 @@ export default function SearchPage() {
           </div>
         )}
       </div>
+      <Footer />
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-900 mx-auto"></div>
+          <p className="mt-4 text-gray-600">Loading search...</p>
+        </div>
+      </div>
+    }>
+      <SearchContent />
+    </Suspense>
   );
 }

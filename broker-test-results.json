@@ -1,0 +1,1520 @@
+{
+  "timestamp": "2025-09-17T09:02:19.355Z",
+  "supabase": {
+    "success": true,
+    "brokers": [
+      {
+        "id": "06a0b398-1870-46af-b161-84ef46889e29",
+        "name": "Admirals",
+        "slug": "admirals",
+        "logo_url": "/broker-logos/imgi_9_admirals-admiral-markets-review.png",
+        "website_url": "https://x.com/daily_forex",
+        "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+        "rating": 1.5,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 100,
+        "min_deposit_currency": "USD",
+        "spread_type": "variable",
+        "typical_spread": 0.1,
+        "max_leverage": 0,
+        "established_year": 2025,
+        "headquarters": "Unknown",
+        "company_size": 141,
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:49.869+00:00",
+        "updated_at": "2025-09-16T05:47:01.435056+00:00",
+        "regulations": [
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-reg-0",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "regulatory_body": "FCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-reg-1",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-reg-2",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "regulatory_body": "CySEC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-reg-3",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "regulatory_body": "FSC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-reg-4",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "regulatory_body": "MiFID",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-feat-0",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-feat-1",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-feat-2",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "feature_name": "MetaTrader",
+            "feature_type": "Platform",
+            "description": "MetaTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-feat-3",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-feat-4",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "feature_name": "WebTrader",
+            "feature_type": "Platform",
+            "description": "WebTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:49.869+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-0",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-1",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-2",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "MetaTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-3",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-4",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "WebTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "06a0b398-1870-46af-b161-84ef46889e29-plat-5",
+            "broker_id": "06a0b398-1870-46af-b161-84ef46889e29",
+            "platform_name": "iOS",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+        "name": "Alpari International",
+        "slug": "alpari-international",
+        "logo_url": "/broker-logos/default-broker-logo.svg",
+        "website_url": "https://x.com/daily_forex",
+        "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+        "rating": 4.5,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 50,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2013,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:50.223+00:00",
+        "updated_at": "2025-09-16T05:48:19.87828+00:00",
+        "regulations": [],
+        "features": [
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-feat-0",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.223+00:00"
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-feat-1",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.223+00:00"
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-feat-2",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "feature_name": "MetaTrader",
+            "feature_type": "Platform",
+            "description": "MetaTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.223+00:00"
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-feat-3",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.223+00:00"
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-feat-4",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "feature_name": "Mobile App",
+            "feature_type": "Platform",
+            "description": "Mobile App trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.223+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-0",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-1",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-2",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "MetaTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-3",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-4",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "Mobile App",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-5",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "iOS",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "8630a5c8-dd0c-41fa-ba25-085f99d31828-plat-6",
+            "broker_id": "8630a5c8-dd0c-41fa-ba25-085f99d31828",
+            "platform_name": "Android",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+        "name": "Apex Trader Funding",
+        "slug": "apex-trader-funding",
+        "logo_url": "/broker-logos/imgi_39_trade-nation-review.png",
+        "website_url": "https://x.com/daily_forex",
+        "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+        "rating": 3.5,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 0,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2019,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:50.397+00:00",
+        "updated_at": "2025-09-16T05:48:47.475927+00:00",
+        "regulations": [],
+        "features": [
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-feat-0",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.397+00:00"
+          },
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-feat-1",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.397+00:00"
+          },
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-feat-2",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.397+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-plat-0",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-plat-1",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "44ee5c82-f0be-4e15-89d2-e46563177fdb-plat-2",
+            "broker_id": "44ee5c82-f0be-4e15-89d2-e46563177fdb",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+        "name": "AvaTrade",
+        "slug": "avatrade",
+        "logo_url": "/broker-logos/imgi_30_avatrade-review.png",
+        "website_url": "https://www.avatrade.com",
+        "description": "AvaTrade is an international forex broker offering trading in multiple asset classes including forex, CFDs, stocks, commodities, and cryptocurrencies. The company is known for its strong regulatory framework and extensive educational resources.",
+        "short_description": "AvaTrade is an international forex broker offering trading in multiple asset classes including forex, CFDs, stocks, commodities, and cryptocurrencies....",
+        "rating": 4.2,
+        "review_count": 1234,
+        "featured_status": false,
+        "min_deposit": 100,
+        "min_deposit_currency": "USD",
+        "spread_type": "variable",
+        "typical_spread": 0.9,
+        "max_leverage": 1,
+        "established_year": 2006,
+        "headquarters": "Ireland",
+        "company_size": 200,
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-09T15:18:23.314+00:00",
+        "updated_at": "2025-09-11T12:48:45.419488+00:00",
+        "regulations": [
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-0",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "Central Bank of Ireland",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-1",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-2",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "CySEC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-3",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "FSCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-4",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "JFSA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-reg-5",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "regulatory_body": "FCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-feat-0",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "feature_name": "MetaTrader 4",
+            "feature_type": "Platform",
+            "description": "MetaTrader 4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-feat-1",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "feature_name": "MetaTrader 5",
+            "feature_type": "Platform",
+            "description": "MetaTrader 5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-feat-2",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "feature_name": "AvaTradeGO",
+            "feature_type": "Platform",
+            "description": "AvaTradeGO trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-feat-3",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "feature_name": "AvaOptions",
+            "feature_type": "Platform",
+            "description": "AvaOptions trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-feat-4",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "feature_name": "WebTrader",
+            "feature_type": "Platform",
+            "description": "WebTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-09T15:18:23.314+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-plat-0",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "platform_name": "MetaTrader 4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-plat-1",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "platform_name": "MetaTrader 5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-plat-2",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "platform_name": "AvaTradeGO",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-plat-3",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "platform_name": "AvaOptions",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a-plat-4",
+            "broker_id": "01d6da6f-900d-43ea-9eca-ac9a1d1a8e7a",
+            "platform_name": "WebTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 1234,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+        "name": "Axi",
+        "slug": "axi",
+        "logo_url": "/broker-logos/axi.svg",
+        "website_url": "https://www.axi.com",
+        "description": "Axi (formerly AxiTrader) is a leading ECN forex broker offering competitive spreads, fast execution, and access to multiple trading platforms.",
+        "short_description": "Axi (formerly AxiTrader) is a leading ECN forex broker offering competitive spreads, fast execution, and access to multiple trading platforms....",
+        "rating": 4.7,
+        "review_count": 3200,
+        "featured_status": true,
+        "min_deposit": 0,
+        "min_deposit_currency": "USD",
+        "spread_type": "ECN",
+        "typical_spread": 0,
+        "max_leverage": 1,
+        "established_year": 2007,
+        "headquarters": "Sydney, Australia",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-13T15:48:11.000422+00:00",
+        "updated_at": "2025-09-16T05:49:41.736904+00:00",
+        "regulations": [
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-reg-0",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          },
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-reg-1",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "regulatory_body": "FCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          },
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-reg-2",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "regulatory_body": "FSCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          },
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-reg-3",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "regulatory_body": "DFSA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-feat-0",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          },
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-feat-1",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-13T15:48:11.000422+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-plat-0",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4-plat-1",
+            "broker_id": "89f6f7d1-c5cf-4c62-8516-7435d466b5c4",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 3200,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+        "name": "Bdswiss",
+        "slug": "bdswiss",
+        "logo_url": "/broker-logos/default-broker-logo.svg",
+        "website_url": "https://x.com/daily_forex",
+        "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+        "rating": 4,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 10,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2021,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:50.905+00:00",
+        "updated_at": "2025-09-16T05:48:22.02109+00:00",
+        "regulations": [
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-reg-0",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-reg-1",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "regulatory_body": "FSC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-0",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-1",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-2",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "feature_name": "MetaTrader",
+            "feature_type": "Platform",
+            "description": "MetaTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-3",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-feat-4",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "feature_name": "WebTrader",
+            "feature_type": "Platform",
+            "description": "WebTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:50.905+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-0",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-1",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-2",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "MetaTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-3",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-4",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "WebTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69-plat-5",
+            "broker_id": "5a09ce8a-4bb2-44f8-8835-5e9d5e5bcb69",
+            "platform_name": "Mobile App",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+        "name": "Best Forex Brokers",
+        "slug": "best-forex-brokers",
+        "logo_url": "/broker-logos/imgi_4_interactive-brokers-review.png",
+        "website_url": "https://www.linkedin.com/in/huzefahamid/",
+        "description": "I’m a trader and manage my own capital. I trade the major Forex pairs, some Futures contracts, and I rely entirely on Technical Analysis to place my trades. Today, I am also a Senior Analyst for DailyForex.com. I began trading the markets in the early 1990s, at the age of sixteen. I had a few hundred British pounds saved up (I grew up in England), with which I was able to open a small account with some help from my Dad. I started my trading j...",
+        "short_description": "I’m a trader and manage my own capital. I trade the major Forex pairs, some Futures contracts, and I rely entirely on Technical Analysis to place my t...",
+        "rating": 0,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 100,
+        "min_deposit_currency": "USD",
+        "spread_type": "Fixed",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2009,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:51.078+00:00",
+        "updated_at": "2025-09-16T05:48:24.124206+00:00",
+        "regulations": [
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-reg-0",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "regulatory_body": "FCA",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-reg-1",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-reg-2",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "regulatory_body": "CySEC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-reg-3",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "regulatory_body": "FSC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-reg-4",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "regulatory_body": "BaFin",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-feat-0",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-feat-1",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-feat-2",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "feature_name": "MetaTrader",
+            "feature_type": "Platform",
+            "description": "MetaTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-feat-3",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-feat-4",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "feature_name": "iOS",
+            "feature_type": "Platform",
+            "description": "iOS trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.078+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-0",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-1",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-2",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "MetaTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-3",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-4",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "iOS",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a-plat-5",
+            "broker_id": "e7844be5-fe54-41d1-9cd7-4daf9768e53a",
+            "platform_name": "Android",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "4d3de9c6-ffec-424a-98ce-7d6b7de4afce",
+        "name": "Best Forex Brokers that Accept Credit Cards",
+        "slug": "best-forex-brokers-that-accept-credit-cards",
+        "logo_url": "/broker-logos/imgi_4_interactive-brokers-review.png",
+        "website_url": "https://www.bestforexbrokersthatacceptcreditcards.com",
+        "description": "Christopher Lewis has been trading Forex and has over 20 years experience in financial markets. Chris has been a regular contributor to Daily Forex since the early days of the site. He writes about Forex for several online publications, including FX Empire, Investing.com, and his own site, aptly named The Trader Guy. Chris favours technical analysis methods to identify his trades and likes to trade equity indices and commodities as well as Forex...",
+        "short_description": "Christopher Lewis has been trading Forex and has over 20 years experience in financial markets. Chris has been a regular contributor to Daily Forex si...",
+        "rating": 0,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 0,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2009,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:23:08.02+00:00",
+        "updated_at": "2025-09-16T05:50:49.426569+00:00",
+        "regulations": [],
+        "features": [],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+        "name": "Binance",
+        "slug": "binance",
+        "logo_url": "/broker-logos/default-broker-logo.svg",
+        "website_url": "https://x.com/daily_forex",
+        "description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, unbiased evaluations of brokers to enable traders make informed decisions, using...",
+        "short_description": "Holding over 16 years of experience in global financial markets, and 4 B.A. level academic qualifications in relevant degrees, we conduct thorough, un...",
+        "rating": 0.5,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 0,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2016,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:51.239+00:00",
+        "updated_at": "2025-09-16T05:48:26.222542+00:00",
+        "regulations": [
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-reg-0",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "regulatory_body": "ASIC",
+            "license_number": "",
+            "regulation_status": "Regulated",
+            "jurisdiction": "Global",
+            "verification_date": "2025-09-17",
+            "created_at": "2025-09-16T05:27:51.239+00:00"
+          }
+        ],
+        "features": [
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-feat-0",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "feature_name": "MT4",
+            "feature_type": "Platform",
+            "description": "MT4 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.239+00:00"
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-feat-1",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "feature_name": "MT5",
+            "feature_type": "Platform",
+            "description": "MT5 trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.239+00:00"
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-feat-2",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "feature_name": "cTrader",
+            "feature_type": "Platform",
+            "description": "cTrader trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.239+00:00"
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-feat-3",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "feature_name": "Mobile App",
+            "feature_type": "Platform",
+            "description": "Mobile App trading platform",
+            "availability": true,
+            "category": "Trading",
+            "created_at": "2025-09-16T05:27:51.239+00:00"
+          }
+        ],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-plat-0",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "platform_name": "MT4",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-plat-1",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "platform_name": "MT5",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-plat-2",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "platform_name": "cTrader",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          },
+          {
+            "id": "f4480aaf-8e2d-433e-810f-b13937c3be22-plat-3",
+            "broker_id": "f4480aaf-8e2d-433e-810f-b13937c3be22",
+            "platform_name": "Mobile App",
+            "platform_type": "Trading",
+            "version": "Latest",
+            "web_trading": true,
+            "mobile_trading": true,
+            "desktop_trading": true,
+            "download_url": null
+          }
+        ],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      },
+      {
+        "id": "8164c2e3-6e80-40d6-8522-ded7fbcd444f",
+        "name": "Blackbull",
+        "slug": "blackbull",
+        "logo_url": "/broker-logos/blackbull-markets.svg",
+        "website_url": "https://www.blackbull.com",
+        "description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University. Tobi's main area of expertise is in personal finance and the Forex industry. He has contributed to top platforms such as Investopedia, GoBankingRates, and Investing.com, where his expertise in Forex markets and digital assets is widely recognized. Tobi’s engaging storytelling and data-driven an...",
+        "short_description": "Tobi Opeyemi Amure has more than seven years of experience as a financial market analyst. He holds a Bachelor's Degree from Obafemi Awolowo University...",
+        "rating": 4.7,
+        "review_count": 0,
+        "featured_status": false,
+        "min_deposit": 0,
+        "min_deposit_currency": "USD",
+        "spread_type": "Variable",
+        "typical_spread": 0,
+        "max_leverage": 0,
+        "established_year": 2011,
+        "headquarters": "Unknown",
+        "company_size": "Unknown",
+        "total_assets": 0,
+        "active_traders": 0,
+        "status": "active",
+        "created_at": "2025-09-16T05:27:51.406+00:00",
+        "updated_at": "2025-09-16T05:48:32.551685+00:00",
+        "regulations": [],
+        "features": [],
+        "tradingConditions": [],
+        "accountTypes": [],
+        "platforms": [],
+        "paymentMethods": [],
+        "support": [],
+        "education": [],
+        "reviews": [],
+        "affiliate_links": [],
+        "promotions": [],
+        "_count": {
+          "reviews": 0,
+          "affiliateLinks": 0,
+          "promotions": 0
+        }
+      }
+    ]
+  },
+  "apis": [
+    {
+      "slug": "bdswiss",
+      "status": 200,
+      "success": true,
+      "hasData": true,
+      "brokerName": "Bdswiss"
+    },
+    {
+      "slug": "capital",
+      "status": 200,
+      "success": true,
+      "hasData": true,
+      "brokerName": "Capital"
+    },
+    {
+      "slug": "binance",
+      "status": 200,
+      "success": true,
+      "hasData": true,
+      "brokerName": "Binance"
+    },
+    {
+      "slug": "blackbull",
+      "status": 200,
+      "success": true,
+      "hasData": true,
+      "brokerName": "Blackbull"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "bdswiss",
+      "status": 200,
+      "success": true,
+      "hasReactRoot": true,
+      "hasLoadingSkeleton": true,
+      "has404Error": true,
+      "hasErrorBoundary": false,
+      "hasBrokerContent": false,
+      "pageSize": 19529
+    },
+    {
+      "slug": "capital",
+      "status": 200,
+      "success": true,
+      "hasReactRoot": true,
+      "hasLoadingSkeleton": true,
+      "has404Error": true,
+      "hasErrorBoundary": false,
+      "hasBrokerContent": false,
+      "pageSize": 19529
+    },
+    {
+      "slug": "binance",
+      "status": 200,
+      "success": true,
+      "hasReactRoot": true,
+      "hasLoadingSkeleton": true,
+      "has404Error": true,
+      "hasErrorBoundary": false,
+      "hasBrokerContent": false,
+      "pageSize": 19529
+    },
+    {
+      "slug": "blackbull",
+      "status": 200,
+      "success": true,
+      "hasReactRoot": true,
+      "hasLoadingSkeleton": true,
+      "has404Error": true,
+      "hasErrorBoundary": false,
+      "hasBrokerContent": false,
+      "pageSize": 19536
+    }
+  ],
+  "routing": {
+    "validPageStatus": 200,
+    "invalidPageStatus": 200,
+    "invalidPageHas404": true
+  }
+}

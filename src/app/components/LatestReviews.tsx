@@ -23,7 +23,7 @@ const latestReviews: Review[] = [
   {
     id: 1,
     brokerName: "eToro",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/etoro.svg",
     rating: 5,
     reviewTitle: "Excellent platform for beginners",
     reviewContent: "eToro's copy trading feature is amazing for newcomers. The interface is intuitive and educational resources are top-notch.",
@@ -37,7 +37,7 @@ const latestReviews: Review[] = [
   {
     id: 2,
     brokerName: "IC Markets",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/ic-markets.svg",
     rating: 4,
     reviewTitle: "Great spreads but high withdrawal fees",
     reviewContent: "Raw spreads are excellent for scalping, but the withdrawal fees can eat into profits if you're not careful with your planning.",
@@ -51,7 +51,7 @@ const latestReviews: Review[] = [
   {
     id: 3,
     brokerName: "Pepperstone",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/imgi_10_pepperstone-review.png",
     rating: 5,
     reviewTitle: "Fast execution and reliable platform",
     reviewContent: "Been using Pepperstone for 2 years. Execution speed is consistently fast and the Razor account offers excellent value.",
@@ -65,7 +65,7 @@ const latestReviews: Review[] = [
   {
     id: 4,
     brokerName: "XM Group",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/xm-logo.svg",
     rating: 4,
     reviewTitle: "Good educational resources, average spreads",
     reviewContent: "The webinars and educational content are very helpful for learning. Spreads could be tighter compared to other ECN brokers.",
@@ -79,7 +79,7 @@ const latestReviews: Review[] = [
   {
     id: 5,
     brokerName: "FP Markets",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/fp-markets.svg",
     rating: 5,
     reviewTitle: "Perfect for algorithmic trading",
     reviewContent: "API access and VPS hosting make FP Markets ideal for my trading bots. The support team is very knowledgeable about automated trading.",
@@ -93,7 +93,7 @@ const latestReviews: Review[] = [
   {
     id: 6,
     brokerName: "FXTM",
-    brokerLogo: "/api/placeholder/80/40",
+    brokerLogo: "/broker-logos/fxtm.svg",
     rating: 3,
     reviewTitle: "Good for beginners, limited for professionals",
     reviewContent: "Cent accounts are great for starting out, but professional traders might find the advanced features somewhat limited compared to competitors.",
@@ -154,9 +154,15 @@ export default function LatestReviews() {
               {/* Broker Header */}
               <div className="flex items-start justify-between mb-4">
                 <div className="flex items-center space-x-3">
-                  <div className="w-20 h-10 bg-gray-200 rounded flex items-center justify-center">
-                    <span className="text-xs font-medium text-gray-600">Logo</span>
-                  </div>
+                  <img
+                    src={review.brokerLogo}
+                    alt={`${review.brokerName} logo`}
+                    className="w-20 h-10 object-contain"
+                    onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      target.src = '/broker-logos/default-broker-logo.svg';
+                    }}
+                  />
                   <div>
                     <h3 className="font-bold text-lg text-gray-900">{review.brokerName}</h3>
                     <div className="flex items-center space-x-2 mt-1">

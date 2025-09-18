@@ -25,6 +25,7 @@ export interface MarketNewsResponse {
   total: number
   page: number
   limit: number
+  error?: string
   filters?: {
     category?: string
     impact?: string
@@ -96,7 +97,7 @@ const generateMarketNews = (): MarketNewsItem[] => {
     const template = categoryTemplates?.templates[Math.floor(Math.random() * categoryTemplates.templates.length)] || ''
 
     // Replace template placeholders
-    let title = template
+    const title = template
       .replace('{policy_change}', ['dovish', 'hawkish', 'neutral'][Math.floor(Math.random() * 3)])
       .replace('{economic_condition}', ['inflation concerns', 'growth slowdown', 'market stability'][Math.floor(Math.random() * 3)])
       .replace('{rate_level}', (4.5 + Math.random() * 2).toFixed(1))
@@ -190,7 +191,7 @@ const generateSummary = (title: string, category: string): string => {
     ]
   }
 
-  const categorySummaries = summaries[category] || summaries['Market Analysis']
+  const categorySummaries = (summaries as Record<string, string[]>)[category] || summaries['Market Analysis']
   return categorySummaries[Math.floor(Math.random() * categorySummaries.length)]
 }
 
@@ -216,7 +217,7 @@ const generateTags = (title: string, category: string): string[] => {
     'Market Analysis': ['Technical Analysis', 'Fundamental Analysis', 'Market Outlook', 'Trading Strategies']
   }
 
-  const categoryTags = baseTags[category] || baseTags['Market Analysis']
+  const categoryTags = (baseTags as Record<string, string[]>)[category] || baseTags['Market Analysis']
   return categoryTags.slice(0, Math.floor(Math.random() * 3) + 2)
 }
 
@@ -230,7 +231,7 @@ export async function GET(request: NextRequest) {
     const currencyPair = searchParams.get('currencyPair')?.toUpperCase() || null
 
     // Generate news data
-    let allNews = generateMarketNews()
+    const allNews = generateMarketNews()
 
     // Apply filters
     let filteredNews = allNews

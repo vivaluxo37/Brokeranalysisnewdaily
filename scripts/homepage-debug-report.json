@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-09-18T08:04:21.792Z",
+  "url": "http://localhost:3002",
+  "performance": {
+    "Timestamp": 18699.808453,
+    "Documents": 16,
+    "Frames": 10,
+    "JSEventListeners": 884,
+    "Nodes": 3866,
+    "LayoutCount": 16,
+    "RecalcStyleCount": 23,
+    "LayoutDuration": 0.322719,
+    "RecalcStyleDuration": 0.034325,
+    "ScriptDuration": 2.479066,
+    "TaskDuration": 4.534385,
+    "JSHeapUsedSize": 29084556,
+    "JSHeapTotalSize": 45400064
+  },
+  "components": {
+    "header": {
+      "exists": true,
+      "visible": true,
+      "text": "EnglishUSDEURGBPJPY📞 +1 (555) 123-4567✉️ support@brokeranalysis.comAlertsSign InBrokerAnalysisTrust"
+    },
+    "hero": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "featuredBrokers": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "searchSection": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "latestReviews": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "educationalContent": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "marketNews": {
+      "exists": false,
+      "visible": false,
+      "text": ""
+    },
+    "footer": {
+      "exists": true,
+      "visible": true,
+      "text": "BrokerAnalysis.comTrusted Trading PlatformYour trusted source for unbiased forex broker reviews, AI-"
+    }
+  },
+  "cssIssues": [],
+  "errors": {
+    "console": [],
+    "network": [
+      {
+        "url": "http://localhost:3002/",
+        "method": "POST",
+        "error": "net::ERR_ABORTED",
+        "timestamp": "2025-09-18T08:04:11.866Z"
+      }
+    ],
+    "resources": [],
+    "warnings": []
+  }
+}
